@@ -1,0 +1,26 @@
+{"cWhen":1.5810968620497258e9,"tag":"Change","cFrom":[0,0],"cText":["s"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,0],"cNewPos":[0,1]}
+{"cWhen":1.5810968621629598e9,"tag":"Change","cFrom":[0,1],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,1],"cNewPos":[0,2]}
+{"cWhen":1.581096862309443e9,"tag":"Change","cFrom":[0,2],"cText":["u"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,2],"cNewPos":[0,3]}
+{"cWhen":1.5810968623788662e9,"tag":"Change","cFrom":[0,3],"cText":["n"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,3],"cNewPos":[0,4]}
+{"cWhen":1.5810968624521825e9,"tag":"Change","cFrom":[0,4],"cText":["d"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,4],"cNewPos":[0,5]}
+{"cWhen":1.5810968625864592e9,"tag":"Change","cFrom":[0,5],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[0,5],"cNewPos":[0,6]}
+{"cWhen":1.5810968626651626e9,"tag":"Change","cFrom":[0,6],"cText":["2"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,6],"cNewPos":[0,7]}
+{"cWhen":1.581096862909425e9,"tag":"Change","cFrom":[0,7],"cText":["b"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,7],"cNewPos":[0,8]}
+{"cWhen":1.5810968629706895e9,"tag":"Change","cFrom":[0,8],"cText":["d"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,8],"cNewPos":[0,9]}
+{"cWhen":1.5810968633454993e9,"tag":"Change","cFrom":[0,8],"cText":[""],"cRemoved":["d"],"cOrigin":"+delete","cTo":[0,9],"cNewPos":[0,8]}
+{"cWhen":1.5810968634830635e9,"tag":"Change","cFrom":[0,7],"cText":[""],"cRemoved":["b"],"cOrigin":"+delete","cTo":[0,8],"cNewPos":[0,7]}
+{"cWhen":1.5810968636173196e9,"tag":"Change","cFrom":[0,6],"cText":[""],"cRemoved":["2"],"cOrigin":"+delete","cTo":[0,7],"cNewPos":[0,6]}
+{"cWhen":1.581096863809692e9,"tag":"Change","cFrom":[0,6],"cText":["D"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,6],"cNewPos":[0,7]}
+{"cWhen":1.5810968640237126e9,"tag":"Change","cFrom":[0,7],"cText":["b"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,7],"cNewPos":[0,8]}
+{"cWhen":1.5810968645058746e9,"tag":"Change","cFrom":[0,7],"cText":[""],"cRemoved":["b"],"cOrigin":"+delete","cTo":[0,8],"cNewPos":[0,7]}
+{"cWhen":1.5810968646452947e9,"tag":"Change","cFrom":[0,6],"cText":[""],"cRemoved":["D"],"cOrigin":"+delete","cTo":[0,7],"cNewPos":[0,6]}
+{"cWhen":1.5810968650917408e9,"tag":"Change","cFrom":[0,6],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[0,6],"cNewPos":[0,7]}
+{"cWhen":1.5810968653550112e9,"tag":"Change","cFrom":[0,7],"cText":["b"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,7],"cNewPos":[0,8]}
+{"cWhen":1.5810968654821613e9,"tag":"Change","cFrom":[0,8],"cText":["d"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,8],"cNewPos":[0,9]}
+{"cWhen":1.5810968656363049e9,"tag":"Change","cFrom":[0,9],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[0,9],"cNewPos":[0,10]}
+{"cWhen":1.5810968659444432e9,"tag":"Change","cFrom":[0,10],"cText":["~"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,10],"cNewPos":[0,11]}
+{"cWhen":1.5810968660557477e9,"tag":"Change","cFrom":[0,11],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[0,11],"cNewPos":[0,12]}
+{"cWhen":1.5810968662401197e9,"tag":"Change","cFrom":[0,12],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[0,12],"cNewPos":[0,13]}
+{"cWhen":1.5810968666194346e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810968748016102e9,"tag":"Change","cFrom":[0,13],"cText":["9"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,13],"cNewPos":[0,14]}
+{"cWhen":1.581096875566883e9,"tag":"Change","cFrom":[0,13],"cText":[""],"cRemoved":["9"],"cOrigin":"+delete","cTo":[0,14],"cNewPos":[0,13]}

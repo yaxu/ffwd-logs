@@ -1,0 +1,1777 @@
+{"cWhen":1.5810994278002462e9,"tag":"Change","cFrom":[0,0],"cText":["s"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,0],"cNewPos":[0,1]}
+{"cWhen":1.5810994279617548e9,"tag":"Change","cFrom":[0,1],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,1],"cNewPos":[0,2]}
+{"cWhen":1.581099428068235e9,"tag":"Change","cFrom":[0,2],"cText":["u"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,2],"cNewPos":[0,3]}
+{"cWhen":1.5810994281467235e9,"tag":"Change","cFrom":[0,3],"cText":["n"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,3],"cNewPos":[0,4]}
+{"cWhen":1.5810994281754043e9,"tag":"Change","cFrom":[0,4],"cText":["d"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,4],"cNewPos":[0,5]}
+{"cWhen":1.5810994282277098e9,"tag":"Change","cFrom":[0,5],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[0,5],"cNewPos":[0,6]}
+{"cWhen":1.5810994283949242e9,"tag":"Change","cFrom":[0,6],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[0,6],"cNewPos":[0,7]}
+{"cWhen":1.5810994290068185e9,"tag":"Change","cFrom":[0,7],"cText":["B"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,7],"cNewPos":[0,8]}
+{"cWhen":1.5810994293841727e9,"tag":"Change","cFrom":[0,7],"cText":[""],"cRemoved":["B"],"cOrigin":"+delete","cTo":[0,8],"cNewPos":[0,7]}
+{"cWhen":1.5810994294521856e9,"tag":"Change","cFrom":[0,7],"cText":["b"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,7],"cNewPos":[0,8]}
+{"cWhen":1.5810994295139284e9,"tag":"Change","cFrom":[0,8],"cText":["d"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,8],"cNewPos":[0,9]}
+{"cWhen":1.581099429726319e9,"tag":"Change","cFrom":[0,9],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[0,9],"cNewPos":[0,10]}
+{"cWhen":1.5810994299800482e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810994302876284e9,"tag":"Move","cXWarp":9,"cNewPos":[0,9]}
+{"cWhen":1.5810994307095804e9,"tag":"Change","cFrom":[0,9],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[0,9],"cNewPos":[0,10]}
+{"cWhen":1.5810994308331556e9,"tag":"Change","cFrom":[0,10],"cText":["~"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,10],"cNewPos":[0,11]}
+{"cWhen":1.5810994310920124e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810994317823997e9,"tag":"Move","cXWarp":10,"cNewPos":[0,10]}
+{"cWhen":1.581099436388312e9,"tag":"Move","cXWarp":11,"cNewPos":[0,11]}
+{"cWhen":1.5810994392938387e9,"tag":"Change","cFrom":[0,10],"cText":[""],"cRemoved":["~"],"cOrigin":"+delete","cTo":[0,11],"cNewPos":[0,10]}
+{"cWhen":1.58109943973156e9,"tag":"Change","cFrom":[0,10],"cText":["c"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,10],"cNewPos":[0,11]}
+{"cWhen":1.5810994398495889e9,"tag":"Change","cFrom":[0,11],"cText":["l"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,11],"cNewPos":[0,12]}
+{"cWhen":1.581099439931669e9,"tag":"Change","cFrom":[0,12],"cText":["a"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,12],"cNewPos":[0,13]}
+{"cWhen":1.5810994400133743e9,"tag":"Change","cFrom":[0,13],"cText":["p"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,13],"cNewPos":[0,14]}
+{"cWhen":1.5810994401859195e9,"tag":"Change","cFrom":[0,14],"cText":[":"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,14],"cNewPos":[0,15]}
+{"cWhen":1.5810994403577561e9,"tag":"Change","cFrom":[0,15],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,15],"cNewPos":[0,16]}
+{"cWhen":1.5810994406329257e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810994463773112e9,"tag":"Change","cFrom":[0,16],"cText":["*"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,16],"cNewPos":[0,17]}
+{"cWhen":1.5810994465513973e9,"tag":"Change","cFrom":[0,17],"cText":["2"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,17],"cNewPos":[0,18]}
+{"cWhen":1.5810994468000302e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099449366326e9,"tag":"Move","cXWarp":19,"cNewPos":[0,19]}
+{"cWhen":1.5810994497314095e9,"tag":"Change","cFrom":[0,19],"cText":["",""],"cRemoved":[""],"cOrigin":"+input","cTo":[0,19],"cNewPos":[1,0]}
+{"cWhen":1.5810994498886938e9,"tag":"Change","cFrom":[1,0],"cText":["",""],"cRemoved":[""],"cOrigin":"+input","cTo":[1,0],"cNewPos":[2,0]}
+{"cWhen":1.5810994519568775e9,"tag":"Move","cXWarp":0,"cNewPos":[1,0]}
+{"cWhen":1.5810994521869226e9,"tag":"Move","cXWarp":0,"cNewPos":[1,0]}
+{"cWhen":1.5810994526344516e9,"tag":"Move","cXWarp":0,"cNewPos":[0,0]}
+{"cWhen":1.5810994529258893e9,"tag":"Move","cXWarp":1,"cNewPos":[0,1]}
+{"cWhen":1.58109945313232e9,"tag":"Move","cXWarp":2,"cNewPos":[0,2]}
+{"cWhen":1.581099453361409e9,"tag":"Move","cXWarp":3,"cNewPos":[0,3]}
+{"cWhen":1.5810994535375416e9,"tag":"Move","cXWarp":4,"cNewPos":[0,4]}
+{"cWhen":1.5810994537217822e9,"tag":"Move","cXWarp":5,"cNewPos":[0,5]}
+{"cWhen":1.5810994539036837e9,"tag":"Move","cXWarp":6,"cNewPos":[0,6]}
+{"cWhen":1.5810994540848193e9,"tag":"Move","cXWarp":7,"cNewPos":[0,7]}
+{"cWhen":1.5810994542583396e9,"tag":"Move","cXWarp":8,"cNewPos":[0,8]}
+{"cWhen":1.5810994544260423e9,"tag":"Move","cXWarp":9,"cNewPos":[0,9]}
+{"cWhen":1.581099454862981e9,"tag":"Change","cFrom":[0,9],"cText":["*"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,9],"cNewPos":[0,10]}
+{"cWhen":1.5810994551211147e9,"tag":"Change","cFrom":[0,10],"cText":["2"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,10],"cNewPos":[0,11]}
+{"cWhen":1.5810994553808262e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810994576955693e9,"tag":"Move","cXWarp":0,"cNewPos":[1,0]}
+{"cWhen":1.5810994578952575e9,"tag":"Move","cXWarp":0,"cNewPos":[2,0]}
+{"cWhen":1.5810994582994297e9,"tag":"Change","cFrom":[2,0],"cText":["s"],"cRemoved":[""],"cOrigin":"+input","cTo":[2,0],"cNewPos":[2,1]}
+{"cWhen":1.5810994584070675e9,"tag":"Change","cFrom":[2,1],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[2,1],"cNewPos":[2,2]}
+{"cWhen":1.5810994584843864e9,"tag":"Change","cFrom":[2,2],"cText":["u"],"cRemoved":[""],"cOrigin":"+input","cTo":[2,2],"cNewPos":[2,3]}
+{"cWhen":1.581099458588926e9,"tag":"Change","cFrom":[2,3],"cText":["n"],"cRemoved":[""],"cOrigin":"+input","cTo":[2,3],"cNewPos":[2,4]}
+{"cWhen":1.5810994585983894e9,"tag":"Change","cFrom":[2,4],"cText":["d"],"cRemoved":[""],"cOrigin":"+input","cTo":[2,4],"cNewPos":[2,5]}
+{"cWhen":1.5810994586829956e9,"tag":"Change","cFrom":[2,5],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[2,5],"cNewPos":[2,6]}
+{"cWhen":1.5810994588387768e9,"tag":"Change","cFrom":[2,6],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[2,6],"cNewPos":[2,7]}
+{"cWhen":1.581099459031792e9,"tag":"Change","cFrom":[2,7],"cText":["~"],"cRemoved":[""],"cOrigin":"+input","cTo":[2,7],"cNewPos":[2,8]}
+{"cWhen":1.5810994591679769e9,"tag":"Change","cFrom":[2,8],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[2,8],"cNewPos":[2,9]}
+{"cWhen":1.5810994595244327e9,"tag":"Change","cFrom":[2,9],"cText":["c"],"cRemoved":[""],"cOrigin":"+input","cTo":[2,9],"cNewPos":[2,10]}
+{"cWhen":1.5810994595674114e9,"tag":"Change","cFrom":[2,10],"cText":["l"],"cRemoved":[""],"cOrigin":"+input","cTo":[2,10],"cNewPos":[2,11]}
+{"cWhen":1.5810994599812243e9,"tag":"Change","cFrom":[2,10],"cText":[""],"cRemoved":["l"],"cOrigin":"+delete","cTo":[2,11],"cNewPos":[2,10]}
+{"cWhen":1.581099460130014e9,"tag":"Change","cFrom":[2,9],"cText":[""],"cRemoved":["c"],"cOrigin":"+delete","cTo":[2,10],"cNewPos":[2,9]}
+{"cWhen":1.581099460809944e9,"tag":"Change","cFrom":[2,9],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[2,9],"cNewPos":[2,10]}
+{"cWhen":1.5810994609025657e9,"tag":"Change","cFrom":[2,10],"cText":["f"],"cRemoved":[""],"cOrigin":"+input","cTo":[2,10],"cNewPos":[2,11]}
+{"cWhen":1.5810994610616162e9,"tag":"Change","cFrom":[2,11],"cText":["f"],"cRemoved":[""],"cOrigin":"+input","cTo":[2,11],"cNewPos":[2,12]}
+{"cWhen":1.5810994612105217e9,"tag":"Change","cFrom":[2,12],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[2,12],"cNewPos":[2,13]}
+{"cWhen":1.581099461507116e9,"tag":"Change","cFrom":[2,13],"cText":["",""],"cRemoved":[""],"cOrigin":"+input","cTo":[2,13],"cNewPos":[3,0]}
+{"cWhen":1.58109946203411e9,"tag":"Move","cXWarp":0,"cNewPos":[3,0]}
+{"cWhen":1.5810994623695126e9,"tag":"Move","cXWarp":0,"cNewPos":[2,0]}
+{"cWhen":-1,"tag":"Change","cFrom":[2,0],"cText":[""],"cRemoved":["sound \"~ off\""],"cOrigin":"+delete","cTo":[2,13],"cNewPos":[2,0]}
+{"cWhen":1.5810994807270927e9,"tag":"Move","cXWarp":0,"cNewPos":[1,0]}
+{"cWhen":1.5810994809520605e9,"tag":"Move","cXWarp":0,"cNewPos":[0,0]}
+{"cWhen":1.5810994813202333e9,"tag":"Move","cXWarp":0,"cNewPos":[1,0]}
+{"cWhen":1.581099481448561e9,"tag":"Move","cXWarp":0,"cNewPos":[1,0]}
+{"cWhen":1.5810994974747767e9,"tag":"Move","cXWarp":0,"cNewPos":[1,0]}
+{"cWhen":1.5810994981244e9,"tag":"Move","cXWarp":0,"cNewPos":[1,0]}
+{"cWhen":1.5810994983383565e9,"tag":"Move","cXWarp":0,"cNewPos":[0,0]}
+{"cWhen":1.5810994984196243e9,"tag":"Move","cXWarp":21,"cNewPos":[0,21]}
+{"cWhen":1.5810994996843188e9,"tag":"Move","cXWarp":20,"cNewPos":[0,20]}
+{"cWhen":1.5810995001487467e9,"tag":"Move","cXWarp":21,"cNewPos":[0,21]}
+{"cWhen":1.5810995004311342e9,"tag":"Change","cFrom":[0,21],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[0,21],"cNewPos":[0,22]}
+{"cWhen":1.5810995005868645e9,"tag":"Change","cFrom":[0,22],"cText":["",""],"cRemoved":[""],"cOrigin":"+input","cTo":[0,22],"cNewPos":[1,0]}
+{"cWhen":1.5810995005986428e9,"tag":"Change","cFrom":[1,0],"cText":["#"],"cRemoved":[""],"cOrigin":"+input","cTo":[1,0],"cNewPos":[1,1]}
+{"cWhen":1.5810995006641147e9,"tag":"Change","cFrom":[1,1],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[1,1],"cNewPos":[1,2]}
+{"cWhen":1.5810995011377058e9,"tag":"Change","cFrom":[1,1],"cText":[""],"cRemoved":[" "],"cOrigin":"+delete","cTo":[1,2],"cNewPos":[1,1]}
+{"cWhen":1.5810995015813177e9,"tag":"Change","cFrom":[1,0],"cText":[""],"cRemoved":["#"],"cOrigin":"+delete","cTo":[1,1],"cNewPos":[1,0]}
+{"cWhen":1.581099501710409e9,"tag":"Change","cFrom":[1,0],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[1,0],"cNewPos":[1,1]}
+{"cWhen":1.581099501893976e9,"tag":"Change","cFrom":[1,1],"cText":["#"],"cRemoved":[""],"cOrigin":"+input","cTo":[1,1],"cNewPos":[1,2]}
+{"cWhen":1.5810995019538786e9,"tag":"Change","cFrom":[1,2],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[1,2],"cNewPos":[1,3]}
+{"cWhen":1.5810995021358922e9,"tag":"Change","cFrom":[1,3],"cText":["s"],"cRemoved":[""],"cOrigin":"+input","cTo":[1,3],"cNewPos":[1,4]}
+{"cWhen":1.581099502220304e9,"tag":"Change","cFrom":[1,4],"cText":["p"],"cRemoved":[""],"cOrigin":"+input","cTo":[1,4],"cNewPos":[1,5]}
+{"cWhen":1.5810995023156235e9,"tag":"Change","cFrom":[1,5],"cText":["e"],"cRemoved":[""],"cOrigin":"+input","cTo":[1,5],"cNewPos":[1,6]}
+{"cWhen":1.5810995024657786e9,"tag":"Change","cFrom":[1,6],"cText":["e"],"cRemoved":[""],"cOrigin":"+input","cTo":[1,6],"cNewPos":[1,7]}
+{"cWhen":1.5810995026293542e9,"tag":"Change","cFrom":[1,7],"cText":["d"],"cRemoved":[""],"cOrigin":"+input","cTo":[1,7],"cNewPos":[1,8]}
+{"cWhen":1.5810995026954572e9,"tag":"Change","cFrom":[1,8],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[1,8],"cNewPos":[1,9]}
+{"cWhen":1.5810995028091595e9,"tag":"Change","cFrom":[1,9],"cText":["2"],"cRemoved":[""],"cOrigin":"+input","cTo":[1,9],"cNewPos":[1,10]}
+{"cWhen":1.581099503058728e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810995033674138e9,"tag":"Move","cXWarp":0,"cNewPos":[1,0]}
+{"cWhen":1.5810995037305393e9,"tag":"Change","cFrom":[1,0],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[1,0],"cNewPos":[1,1]}
+{"cWhen":1.5810995038964114e9,"tag":"Move","cXWarp":0,"cNewPos":[1,0]}
+{"cWhen":1.5810995040388894e9,"tag":"Move","cXWarp":0,"cNewPos":[0,0]}
+{"cWhen":1.581099504274773e9,"tag":"Change","cFrom":[0,0],"cText":["c"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,0],"cNewPos":[0,1]}
+{"cWhen":1.5810995043398623e9,"tag":"Change","cFrom":[0,1],"cText":["h"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,1],"cNewPos":[0,2]}
+{"cWhen":1.5810995044071174e9,"tag":"Change","cFrom":[0,2],"cText":["u"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,2],"cNewPos":[0,3]}
+{"cWhen":1.5810995045511076e9,"tag":"Change","cFrom":[0,3],"cText":["n"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,3],"cNewPos":[0,4]}
+{"cWhen":1.5810995046028786e9,"tag":"Change","cFrom":[0,4],"cText":["k"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,4],"cNewPos":[0,5]}
+{"cWhen":1.5810995046778097e9,"tag":"Change","cFrom":[0,5],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[0,5],"cNewPos":[0,6]}
+{"cWhen":1.5810995047740884e9,"tag":"Change","cFrom":[0,6],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,6],"cNewPos":[0,7]}
+{"cWhen":1.5810995048818102e9,"tag":"Change","cFrom":[0,7],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[0,7],"cNewPos":[0,8]}
+{"cWhen":1.581099505032357e9,"tag":"Change","cFrom":[0,8],"cText":["("],"cRemoved":[""],"cOrigin":"+input","cTo":[0,8],"cNewPos":[0,9]}
+{"cWhen":1.5810995051564558e9,"tag":"Change","cFrom":[0,9],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[0,9],"cNewPos":[0,10]}
+{"cWhen":1.5810995051665843e9,"tag":"Change","cFrom":[0,10],"cText":[")"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,10],"cNewPos":[0,11]}
+{"cWhen":1.5810995052493484e9,"tag":"Change","cFrom":[0,11],"cText":["$"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,11],"cNewPos":[0,12]}
+{"cWhen":1.5810995053630126e9,"tag":"Change","cFrom":[0,12],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[0,12],"cNewPos":[0,13]}
+{"cWhen":1.5810995055717041e9,"tag":"Move","cXWarp":12,"cNewPos":[0,12]}
+{"cWhen":1.5810995057401023e9,"tag":"Move","cXWarp":11,"cNewPos":[0,11]}
+{"cWhen":1.5810995058900933e9,"tag":"Move","cXWarp":10,"cNewPos":[0,10]}
+{"cWhen":1.5810995061494029e9,"tag":"Change","cFrom":[0,9],"cText":[""],"cRemoved":[" "],"cOrigin":"+delete","cTo":[0,10],"cNewPos":[0,9]}
+{"cWhen":1.5810995064213474e9,"tag":"Change","cFrom":[0,9],"cText":["h"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,9],"cNewPos":[0,10]}
+{"cWhen":1.5810995064308753e9,"tag":"Change","cFrom":[0,10],"cText":["r"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,10],"cNewPos":[0,11]}
+{"cWhen":1.581099506784682e9,"tag":"Change","cFrom":[0,10],"cText":[""],"cRemoved":["r"],"cOrigin":"+delete","cTo":[0,11],"cNewPos":[0,10]}
+{"cWhen":1.581099506912888e9,"tag":"Change","cFrom":[0,9],"cText":[""],"cRemoved":["h"],"cOrigin":"+delete","cTo":[0,10],"cNewPos":[0,9]}
+{"cWhen":1.5810995071250265e9,"tag":"Change","cFrom":[0,9],"cText":["h"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,9],"cNewPos":[0,10]}
+{"cWhen":1.5810995071695356e9,"tag":"Change","cFrom":[0,10],"cText":["u"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,10],"cNewPos":[0,11]}
+{"cWhen":1.5810995072746754e9,"tag":"Change","cFrom":[0,11],"cText":["r"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,11],"cNewPos":[0,12]}
+{"cWhen":1.5810995074106293e9,"tag":"Change","cFrom":[0,12],"cText":["r"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,12],"cNewPos":[0,13]}
+{"cWhen":1.5810995074708433e9,"tag":"Change","cFrom":[0,13],"cText":["y"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,13],"cNewPos":[0,14]}
+{"cWhen":1.5810995075378714e9,"tag":"Change","cFrom":[0,14],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[0,14],"cNewPos":[0,15]}
+{"cWhen":1.581099507723108e9,"tag":"Change","cFrom":[0,15],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[0,15],"cNewPos":[0,16]}
+{"cWhen":1.581099508072371e9,"tag":"Change","cFrom":[0,15],"cText":[""],"cRemoved":["\""],"cOrigin":"+delete","cTo":[0,16],"cNewPos":[0,15]}
+{"cWhen":1.5810995081347475e9,"tag":"Change","cFrom":[0,15],"cText":["2"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,15],"cNewPos":[0,16]}
+{"cWhen":1.581099508369079e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810995086621635e9,"tag":"Move","cXWarp":15,"cNewPos":[0,15]}
+{"cWhen":1.5810995088971157e9,"tag":"Change","cFrom":[0,15],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[0,15],"cNewPos":[0,16]}
+{"cWhen":1.5810995092683196e9,"tag":"Move","cXWarp":17,"cNewPos":[0,17]}
+{"cWhen":1.5810995100474174e9,"tag":"Move","cXWarp":16,"cNewPos":[0,16]}
+{"cWhen":1.5810995102758086e9,"tag":"Change","cFrom":[0,16],"cText":["<"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,16],"cNewPos":[0,17]}
+{"cWhen":1.5810995107158241e9,"tag":"Move","cXWarp":18,"cNewPos":[0,18]}
+{"cWhen":1.5810995110026474e9,"tag":"Change","cFrom":[0,18],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[0,18],"cNewPos":[0,19]}
+{"cWhen":1.581099511174702e9,"tag":"Change","cFrom":[0,19],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,19],"cNewPos":[0,20]}
+{"cWhen":1.5810995113579e9,"tag":"Change","cFrom":[0,20],"cText":[">"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,20],"cNewPos":[0,21]}
+{"cWhen":1.5810995114638057e9,"tag":"Change","cFrom":[0,21],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[0,21],"cNewPos":[0,22]}
+{"cWhen":1.5810995117628903e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.58109951243891e9,"tag":"Move","cXWarp":0,"cNewPos":[0,0]}
+{"cWhen":1.5810995132719653e9,"tag":"Move","cXWarp":47,"cNewPos":[0,47]}
+{"cWhen":1.5810995134425464e9,"tag":"Move","cXWarp":11,"cNewPos":[1,11]}
+{"cWhen":1.5810995140253832e9,"tag":"Move","cXWarp":0,"cNewPos":[2,0]}
+{"cWhen":1.5810995143503718e9,"tag":"Change","cFrom":[2,0],"cText":["",""],"cRemoved":[""],"cOrigin":"+input","cTo":[2,0],"cNewPos":[3,0]}
+{"cWhen":1.5810995147506766e9,"tag":"Move","cXWarp":0,"cNewPos":[3,0]}
+{"cWhen":1.5810995148360457e9,"tag":"Move","cXWarp":0,"cNewPos":[2,0]}
+{"cWhen":1.581099515005686e9,"tag":"Move","cXWarp":0,"cNewPos":[1,0]}
+{"cWhen":1.5810995151681194e9,"tag":"Move","cXWarp":0,"cNewPos":[0,0]}
+{"cWhen":1.5810995153522367e9,"tag":"Change","cFrom":[0,0],"cText":["",""],"cRemoved":[""],"cOrigin":"+input","cTo":[0,0],"cNewPos":[1,0]}
+{"cWhen":1.5810995155761933e9,"tag":"Change","cFrom":[1,0],"cText":["u"],"cRemoved":[""],"cOrigin":"+input","cTo":[1,0],"cNewPos":[1,1]}
+{"cWhen":1.581099515649255e9,"tag":"Change","cFrom":[1,1],"cText":["x"],"cRemoved":[""],"cOrigin":"+input","cTo":[1,1],"cNewPos":[1,2]}
+{"cWhen":1.5810995159740753e9,"tag":"Change","cFrom":[1,1],"cText":[""],"cRemoved":["x"],"cOrigin":"+delete","cTo":[1,2],"cNewPos":[1,1]}
+{"cWhen":1.5810995161404078e9,"tag":"Change","cFrom":[1,0],"cText":[""],"cRemoved":["u"],"cOrigin":"+delete","cTo":[1,1],"cNewPos":[1,0]}
+{"cWhen":1.5810995163545928e9,"tag":"Change","cFrom":[1,0],"cText":["j"],"cRemoved":[""],"cOrigin":"+input","cTo":[1,0],"cNewPos":[1,1]}
+{"cWhen":1.5810995165227332e9,"tag":"Change","cFrom":[1,1],"cText":["u"],"cRemoved":[""],"cOrigin":"+input","cTo":[1,1],"cNewPos":[1,2]}
+{"cWhen":1.581099516635197e9,"tag":"Change","cFrom":[1,2],"cText":["x"],"cRemoved":[""],"cOrigin":"+input","cTo":[1,2],"cNewPos":[1,3]}
+{"cWhen":1.5810995166928377e9,"tag":"Change","cFrom":[1,3],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[1,3],"cNewPos":[1,4]}
+{"cWhen":1.581099516834611e9,"tag":"Change","cFrom":[1,4],"cText":["r"],"cRemoved":[""],"cOrigin":"+input","cTo":[1,4],"cNewPos":[1,5]}
+{"cWhen":1.5810995169062111e9,"tag":"Change","cFrom":[1,5],"cText":["e"],"cRemoved":[""],"cOrigin":"+input","cTo":[1,5],"cNewPos":[1,6]}
+{"cWhen":1.5810995170594778e9,"tag":"Change","cFrom":[1,6],"cText":["v"],"cRemoved":[""],"cOrigin":"+input","cTo":[1,6],"cNewPos":[1,7]}
+{"cWhen":1.5810995171277575e9,"tag":"Change","cFrom":[1,7],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[1,7],"cNewPos":[1,8]}
+{"cWhen":1.581099517311794e9,"tag":"Change","cFrom":[1,8],"cText":["$"],"cRemoved":[""],"cOrigin":"+input","cTo":[1,8],"cNewPos":[1,9]}
+{"cWhen":1.5810995173749478e9,"tag":"Change","cFrom":[1,9],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[1,9],"cNewPos":[1,10]}
+{"cWhen":1.5810995176717734e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810995179433613e9,"tag":"Move","cXWarp":0,"cNewPos":[1,0]}
+{"cWhen":1.5810995180222135e9,"tag":"Move","cXWarp":0,"cNewPos":[0,0]}
+{"cWhen":-1,"tag":"Change","cFrom":[0,0],"cText":[""],"cRemoved":["",""],"cOrigin":"+delete","cTo":[1,0],"cNewPos":[0,0]}
+{"cWhen":1.5810995186542702e9,"tag":"Move","cXWarp":0,"cNewPos":[1,0]}
+{"cWhen":1.5810995188477907e9,"tag":"Move","cXWarp":0,"cNewPos":[2,0]}
+{"cWhen":1.5810995190310674e9,"tag":"Move","cXWarp":0,"cNewPos":[3,0]}
+{"cWhen":1.5810995200377564e9,"tag":"Change","cFrom":[3,0],"cText":["s"],"cRemoved":[""],"cOrigin":"+input","cTo":[3,0],"cNewPos":[3,1]}
+{"cWhen":1.5810995201775677e9,"tag":"Change","cFrom":[3,1],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[3,1],"cNewPos":[3,2]}
+{"cWhen":1.5810995202395275e9,"tag":"Change","cFrom":[3,2],"cText":["u"],"cRemoved":[""],"cOrigin":"+input","cTo":[3,2],"cNewPos":[3,3]}
+{"cWhen":1.5810995203427808e9,"tag":"Change","cFrom":[3,3],"cText":["n"],"cRemoved":[""],"cOrigin":"+input","cTo":[3,3],"cNewPos":[3,4]}
+{"cWhen":1.5810995203909183e9,"tag":"Change","cFrom":[3,4],"cText":["d"],"cRemoved":[""],"cOrigin":"+input","cTo":[3,4],"cNewPos":[3,5]}
+{"cWhen":1.581099520497669e9,"tag":"Change","cFrom":[3,5],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[3,5],"cNewPos":[3,6]}
+{"cWhen":1.5810995207085345e9,"tag":"Change","cFrom":[3,6],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[3,6],"cNewPos":[3,7]}
+{"cWhen":1.5810995208902707e9,"tag":"Change","cFrom":[3,7],"cText":["~"],"cRemoved":[""],"cOrigin":"+input","cTo":[3,7],"cNewPos":[3,8]}
+{"cWhen":1.5810995209755757e9,"tag":"Change","cFrom":[3,8],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[3,8],"cNewPos":[3,9]}
+{"cWhen":1.5810995212054415e9,"tag":"Change","cFrom":[3,9],"cText":["c"],"cRemoved":[""],"cOrigin":"+input","cTo":[3,9],"cNewPos":[3,10]}
+{"cWhen":1.5810995212842236e9,"tag":"Change","cFrom":[3,10],"cText":["l"],"cRemoved":[""],"cOrigin":"+input","cTo":[3,10],"cNewPos":[3,11]}
+{"cWhen":1.5810995213741822e9,"tag":"Change","cFrom":[3,11],"cText":["a"],"cRemoved":[""],"cOrigin":"+input","cTo":[3,11],"cNewPos":[3,12]}
+{"cWhen":1.5810995214820511e9,"tag":"Change","cFrom":[3,12],"cText":["p"],"cRemoved":[""],"cOrigin":"+input","cTo":[3,12],"cNewPos":[3,13]}
+{"cWhen":1.581099521713733e9,"tag":"Change","cFrom":[3,13],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[3,13],"cNewPos":[3,14]}
+{"cWhen":1.5810995220747647e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810995223289995e9,"tag":"Move","cXWarp":13,"cNewPos":[3,13]}
+{"cWhen":1.581099522678097e9,"tag":"Change","cFrom":[3,13],"cText":[":"],"cRemoved":[""],"cOrigin":"+input","cTo":[3,13],"cNewPos":[3,14]}
+{"cWhen":1.5810995229894817e9,"tag":"Change","cFrom":[3,14],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[3,14],"cNewPos":[3,15]}
+{"cWhen":1.5810995234413254e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099523876174e9,"tag":"Move","cXWarp":14,"cNewPos":[3,14]}
+{"cWhen":1.5810995247343476e9,"tag":"Move","cXWarp":0,"cNewPos":[3,0]}
+{"cWhen":1.5810995252197518e9,"tag":"Move","cXWarp":16,"cNewPos":[3,16]}
+{"cWhen":1.5810995256359432e9,"tag":"Move","cXWarp":0,"cNewPos":[3,0]}
+{"cWhen":1.581099526688423e9,"tag":"Change","cFrom":[3,0],"cText":["c"],"cRemoved":[""],"cOrigin":"+input","cTo":[3,0],"cNewPos":[3,1]}
+{"cWhen":1.5810995267771308e9,"tag":"Change","cFrom":[3,1],"cText":["h"],"cRemoved":[""],"cOrigin":"+input","cTo":[3,1],"cNewPos":[3,2]}
+{"cWhen":1.5810995268519645e9,"tag":"Change","cFrom":[3,2],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[3,2],"cNewPos":[3,3]}
+{"cWhen":1.581099526914278e9,"tag":"Change","cFrom":[3,3],"cText":["p"],"cRemoved":[""],"cOrigin":"+input","cTo":[3,3],"cNewPos":[3,4]}
+{"cWhen":1.5810995269518623e9,"tag":"Change","cFrom":[3,4],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[3,4],"cNewPos":[3,5]}
+{"cWhen":1.5810995270353835e9,"tag":"Change","cFrom":[3,5],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[3,5],"cNewPos":[3,6]}
+{"cWhen":1.5810995271897826e9,"tag":"Change","cFrom":[3,6],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[3,6],"cNewPos":[3,7]}
+{"cWhen":1.5810995273351152e9,"tag":"Change","cFrom":[3,7],"cText":["$"],"cRemoved":[""],"cOrigin":"+input","cTo":[3,7],"cNewPos":[3,8]}
+{"cWhen":1.581099527403013e9,"tag":"Change","cFrom":[3,8],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[3,8],"cNewPos":[3,9]}
+{"cWhen":1.5810995276598969e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810995280763314e9,"tag":"Move","cXWarp":8,"cNewPos":[3,8]}
+{"cWhen":1.5810995282694397e9,"tag":"Move","cXWarp":7,"cNewPos":[3,7]}
+{"cWhen":1.5810995290821848e9,"tag":"Move","cXWarp":6,"cNewPos":[3,6]}
+{"cWhen":1.581099529796953e9,"tag":"Move","cXWarp":0,"cNewPos":[3,0]}
+{"cWhen":1.5810995301418195e9,"tag":"Move","cXWarp":25,"cNewPos":[3,25]}
+{"cWhen":1.5810995316151886e9,"tag":"Move","cXWarp":0,"cNewPos":[3,0]}
+{"cWhen":1.5810995319418828e9,"tag":"Move","cXWarp":1,"cNewPos":[3,1]}
+{"cWhen":1.5810995321317542e9,"tag":"Move","cXWarp":2,"cNewPos":[3,2]}
+{"cWhen":1.5810995322921526e9,"tag":"Move","cXWarp":3,"cNewPos":[3,3]}
+{"cWhen":1.581099532456303e9,"tag":"Move","cXWarp":4,"cNewPos":[3,4]}
+{"cWhen":1.5810995326089356e9,"tag":"Move","cXWarp":5,"cNewPos":[3,5]}
+{"cWhen":1.581099532875838e9,"tag":"Change","cFrom":[3,5],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[3,5],"cNewPos":[3,6]}
+{"cWhen":1.5810995331058981e9,"tag":"Move","cXWarp":7,"cNewPos":[3,7]}
+{"cWhen":1.581099533407434e9,"tag":"Change","cFrom":[3,7],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[3,7],"cNewPos":[3,8]}
+{"cWhen":1.5810995338197224e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810995340332015e9,"tag":"Move","cXWarp":7,"cNewPos":[3,7]}
+{"cWhen":1.5810995343121884e9,"tag":"Change","cFrom":[3,7],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[3,7],"cNewPos":[3,8]}
+{"cWhen":1.581099534382718e9,"tag":"Change","cFrom":[3,8],"cText":["3"],"cRemoved":[""],"cOrigin":"+input","cTo":[3,8],"cNewPos":[3,9]}
+{"cWhen":1.5810995345560663e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810995352024906e9,"tag":"Move","cXWarp":0,"cNewPos":[3,0]}
+{"cWhen":1.581099535381438e9,"tag":"Move","cXWarp":0,"cNewPos":[4,0]}
+{"cWhen":1.5810995355209613e9,"tag":"Move","cXWarp":0,"cNewPos":[4,0]}
+{"cWhen":1.5810995359965563e9,"tag":"Change","cFrom":[4,0],"cText":["",""],"cRemoved":[""],"cOrigin":"+input","cTo":[4,0],"cNewPos":[5,0]}
+{"cWhen":1.5810995376734042e9,"tag":"Change","cFrom":[5,0],"cText":["s"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,0],"cNewPos":[5,1]}
+{"cWhen":1.5810995377402163e9,"tag":"Change","cFrom":[5,1],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,1],"cNewPos":[5,2]}
+{"cWhen":1.581099537788601e9,"tag":"Change","cFrom":[5,2],"cText":["u"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,2],"cNewPos":[5,3]}
+{"cWhen":1.5810995379392078e9,"tag":"Change","cFrom":[5,3],"cText":["n"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,3],"cNewPos":[5,4]}
+{"cWhen":1.5810995379992783e9,"tag":"Change","cFrom":[5,4],"cText":["d"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,4],"cNewPos":[5,5]}
+{"cWhen":1.5810995380488353e9,"tag":"Change","cFrom":[5,5],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[5,5],"cNewPos":[5,6]}
+{"cWhen":1.5810995381918406e9,"tag":"Change","cFrom":[5,6],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[5,6],"cNewPos":[5,7]}
+{"cWhen":1.5810995385195086e9,"tag":"Change","cFrom":[5,7],"cText":["b"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,7],"cNewPos":[5,8]}
+{"cWhen":1.5810995386019936e9,"tag":"Change","cFrom":[5,8],"cText":["r"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,8],"cNewPos":[5,9]}
+{"cWhen":1.5810995386457736e9,"tag":"Change","cFrom":[5,9],"cText":["e"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,9],"cNewPos":[5,10]}
+{"cWhen":1.5810995386899898e9,"tag":"Change","cFrom":[5,10],"cText":["a"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,10],"cNewPos":[5,11]}
+{"cWhen":1.5810995387921581e9,"tag":"Change","cFrom":[5,11],"cText":["k"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,11],"cNewPos":[5,12]}
+{"cWhen":1.5810995394026058e9,"tag":"Change","cFrom":[5,12],"cText":[":"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,12],"cNewPos":[5,13]}
+{"cWhen":1.5810995396896892e9,"tag":"Change","cFrom":[5,13],"cText":["5"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,13],"cNewPos":[5,14]}
+{"cWhen":1.581099540224196e9,"tag":"Change","cFrom":[5,13],"cText":[""],"cRemoved":["5"],"cOrigin":"+delete","cTo":[5,14],"cNewPos":[5,13]}
+{"cWhen":1.5810995403093162e9,"tag":"Change","cFrom":[5,13],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,13],"cNewPos":[5,14]}
+{"cWhen":1.5810995405962114e9,"tag":"Change","cFrom":[5,14],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[5,14],"cNewPos":[5,15]}
+{"cWhen":1.5810995408866248e9,"tag":"Move","cXWarp":0,"cNewPos":[5,0]}
+{"cWhen":1.5810995410740519e9,"tag":"Change","cFrom":[5,0],"cText":["l"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,0],"cNewPos":[5,1]}
+{"cWhen":1.5810995414570906e9,"tag":"Change","cFrom":[5,1],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,1],"cNewPos":[5,2]}
+{"cWhen":1.5810995416396263e9,"tag":"Change","cFrom":[5,2],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,2],"cNewPos":[5,3]}
+{"cWhen":1.5810995417183747e9,"tag":"Change","cFrom":[5,3],"cText":["p"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,3],"cNewPos":[5,4]}
+{"cWhen":1.5810995419012363e9,"tag":"Change","cFrom":[5,4],"cText":["A"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,4],"cNewPos":[5,5]}
+{"cWhen":1.5810995421339698e9,"tag":"Change","cFrom":[5,5],"cText":["t"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,5],"cNewPos":[5,6]}
+{"cWhen":1.5810995422143815e9,"tag":"Change","cFrom":[5,6],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[5,6],"cNewPos":[5,7]}
+{"cWhen":1.5810995423529196e9,"tag":"Change","cFrom":[5,7],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,7],"cNewPos":[5,8]}
+{"cWhen":1.5810995424209514e9,"tag":"Change","cFrom":[5,8],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[5,8],"cNewPos":[5,9]}
+{"cWhen":1.5810995426358323e9,"tag":"Change","cFrom":[5,9],"cText":["$"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,9],"cNewPos":[5,10]}
+{"cWhen":1.5810995426908612e9,"tag":"Change","cFrom":[5,10],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[5,10],"cNewPos":[5,11]}
+{"cWhen":1.5810995430194068e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099543490479e9,"tag":"Change","cFrom":[5,11],"cText":["c"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,11],"cNewPos":[5,12]}
+{"cWhen":1.5810995435294611e9,"tag":"Change","cFrom":[5,12],"cText":["h"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,12],"cNewPos":[5,13]}
+{"cWhen":1.5810995436141798e9,"tag":"Change","cFrom":[5,13],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,13],"cNewPos":[5,14]}
+{"cWhen":1.581099543656317e9,"tag":"Change","cFrom":[5,14],"cText":["p"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,14],"cNewPos":[5,15]}
+{"cWhen":1.581099543696131e9,"tag":"Change","cFrom":[5,15],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[5,15],"cNewPos":[5,16]}
+{"cWhen":1.5810995438261604e9,"tag":"Change","cFrom":[5,16],"cText":["8"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,16],"cNewPos":[5,17]}
+{"cWhen":1.5810995439263144e9,"tag":"Change","cFrom":[5,17],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[5,17],"cNewPos":[5,18]}
+{"cWhen":1.5810995440366957e9,"tag":"Change","cFrom":[5,18],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,18],"cNewPos":[5,19]}
+{"cWhen":1.5810995441816237e9,"tag":"Change","cFrom":[5,19],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[5,19],"cNewPos":[5,20]}
+{"cWhen":1.5810995444200451e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810995451226804e9,"tag":"Move","cXWarp":19,"cNewPos":[5,19]}
+{"cWhen":1.5810995455128253e9,"tag":"Change","cFrom":[5,18],"cText":[""],"cRemoved":["4"],"cOrigin":"+delete","cTo":[5,19],"cNewPos":[5,18]}
+{"cWhen":1.5810995456910167e9,"tag":"Change","cFrom":[5,18],"cText":["$"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,18],"cNewPos":[5,19]}
+{"cWhen":1.5810995459151156e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810995473401427e9,"tag":"Move","cXWarp":18,"cNewPos":[5,18]}
+{"cWhen":1.5810995475830493e9,"tag":"Move","cXWarp":0,"cNewPos":[5,0]}
+{"cWhen":1.5810995477264612e9,"tag":"Move","cXWarp":1,"cNewPos":[5,1]}
+{"cWhen":1.5810995479101388e9,"tag":"Move","cXWarp":2,"cNewPos":[5,2]}
+{"cWhen":1.5810995480675945e9,"tag":"Move","cXWarp":3,"cNewPos":[5,3]}
+{"cWhen":1.5810995482218213e9,"tag":"Move","cXWarp":4,"cNewPos":[5,4]}
+{"cWhen":1.5810995483710427e9,"tag":"Move","cXWarp":5,"cNewPos":[5,5]}
+{"cWhen":1.5810995485422423e9,"tag":"Move","cXWarp":6,"cNewPos":[5,6]}
+{"cWhen":1.5810995487041626e9,"tag":"Move","cXWarp":7,"cNewPos":[5,7]}
+{"cWhen":1.5810995488638928e9,"tag":"Move","cXWarp":8,"cNewPos":[5,8]}
+{"cWhen":1.5810995489481916e9,"tag":"Change","cFrom":[5,7],"cText":[""],"cRemoved":["4"],"cOrigin":"+delete","cTo":[5,8],"cNewPos":[5,7]}
+{"cWhen":1.5810995490590634e9,"tag":"Change","cFrom":[5,7],"cText":["2"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,7],"cNewPos":[5,8]}
+{"cWhen":1.581099549279261e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810995498083675e9,"tag":"Move","cXWarp":9,"cNewPos":[5,9]}
+{"cWhen":1.5810995503083322e9,"tag":"Move","cXWarp":10,"cNewPos":[5,10]}
+{"cWhen":1.581099550342148e9,"tag":"Move","cXWarp":11,"cNewPos":[5,11]}
+{"cWhen":1.581099550375959e9,"tag":"Move","cXWarp":12,"cNewPos":[5,12]}
+{"cWhen":1.5810995504099312e9,"tag":"Move","cXWarp":13,"cNewPos":[5,13]}
+{"cWhen":1.5810995504438753e9,"tag":"Move","cXWarp":14,"cNewPos":[5,14]}
+{"cWhen":1.5810995504777343e9,"tag":"Move","cXWarp":15,"cNewPos":[5,15]}
+{"cWhen":1.5810995505104387e9,"tag":"Move","cXWarp":16,"cNewPos":[5,16]}
+{"cWhen":1.581099550543736e9,"tag":"Move","cXWarp":17,"cNewPos":[5,17]}
+{"cWhen":1.5810995512959137e9,"tag":"Change","cFrom":[5,16],"cText":[""],"cRemoved":["8"],"cOrigin":"+delete","cTo":[5,17],"cNewPos":[5,16]}
+{"cWhen":1.5810995515834086e9,"tag":"Change","cFrom":[5,16],"cText":["1"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,16],"cNewPos":[5,17]}
+{"cWhen":1.5810995517628715e9,"tag":"Change","cFrom":[5,17],"cText":["6"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,17],"cNewPos":[5,18]}
+{"cWhen":1.581099552150859e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099552467005e9,"tag":"Move","cXWarp":36,"cNewPos":[5,36]}
+{"cWhen":1.5810995526900585e9,"tag":"Change","cFrom":[5,36],"cText":["",""],"cRemoved":[""],"cOrigin":"+input","cTo":[5,36],"cNewPos":[6,0]}
+{"cWhen":1.5810995530993028e9,"tag":"Change","cFrom":[6,0],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[6,0],"cNewPos":[6,1]}
+{"cWhen":1.5810995533057663e9,"tag":"Change","cFrom":[6,1],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[6,1],"cNewPos":[6,2]}
+{"cWhen":1.5810995534665082e9,"tag":"Change","cFrom":[6,2],"cText":["#"],"cRemoved":[""],"cOrigin":"+input","cTo":[6,2],"cNewPos":[6,3]}
+{"cWhen":1.5810995535402522e9,"tag":"Change","cFrom":[6,3],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[6,3],"cNewPos":[6,4]}
+{"cWhen":1.5810995536139297e9,"tag":"Change","cFrom":[6,4],"cText":["g"],"cRemoved":[""],"cOrigin":"+input","cTo":[6,4],"cNewPos":[6,5]}
+{"cWhen":1.5810995536862438e9,"tag":"Change","cFrom":[6,5],"cText":["a"],"cRemoved":[""],"cOrigin":"+input","cTo":[6,5],"cNewPos":[6,6]}
+{"cWhen":1.5810995537603695e9,"tag":"Change","cFrom":[6,6],"cText":["i"],"cRemoved":[""],"cOrigin":"+input","cTo":[6,6],"cNewPos":[6,7]}
+{"cWhen":1.5810995538173695e9,"tag":"Change","cFrom":[6,7],"cText":["n"],"cRemoved":[""],"cOrigin":"+input","cTo":[6,7],"cNewPos":[6,8]}
+{"cWhen":1.581099553841361e9,"tag":"Change","cFrom":[6,8],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[6,8],"cNewPos":[6,9]}
+{"cWhen":1.581099553926128e9,"tag":"Change","cFrom":[6,9],"cText":["1"],"cRemoved":[""],"cOrigin":"+input","cTo":[6,9],"cNewPos":[6,10]}
+{"cWhen":1.58109955403959e9,"tag":"Change","cFrom":[6,10],"cText":["."],"cRemoved":[""],"cOrigin":"+input","cTo":[6,10],"cNewPos":[6,11]}
+{"cWhen":1.5810995541339672e9,"tag":"Change","cFrom":[6,11],"cText":["1"],"cRemoved":[""],"cOrigin":"+input","cTo":[6,11],"cNewPos":[6,12]}
+{"cWhen":1.5810995544008832e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099555654444e9,"tag":"Change","cFrom":[6,11],"cText":[""],"cRemoved":["1"],"cOrigin":"+delete","cTo":[6,12],"cNewPos":[6,11]}
+{"cWhen":1.5810995557366257e9,"tag":"Change","cFrom":[6,11],"cText":["2"],"cRemoved":[""],"cOrigin":"+input","cTo":[6,11],"cNewPos":[6,12]}
+{"cWhen":1.5810995560096369e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810995564663978e9,"tag":"Move","cXWarp":12,"cNewPos":[5,12]}
+{"cWhen":1.581099559545514e9,"tag":"Move","cXWarp":0,"cNewPos":[4,0]}
+{"cWhen":1.5810995597149653e9,"tag":"Move","cXWarp":0,"cNewPos":[4,0]}
+{"cWhen":1.5810995600622435e9,"tag":"Move","cXWarp":0,"cNewPos":[5,0]}
+{"cWhen":1.5810995604137843e9,"tag":"Move","cXWarp":36,"cNewPos":[5,36]}
+{"cWhen":1.5810995605324292e9,"tag":"Move","cXWarp":35,"cNewPos":[5,35]}
+{"cWhen":1.581099560866293e9,"tag":"Change","cFrom":[5,34],"cText":[""],"cRemoved":["4"],"cOrigin":"+delete","cTo":[5,35],"cNewPos":[5,34]}
+{"cWhen":1.5810995612153435e9,"tag":"Change","cFrom":[5,34],"cText":["8"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,34],"cNewPos":[5,35]}
+{"cWhen":1.5810995614199953e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810995632808368e9,"tag":"Move","cXWarp":12,"cNewPos":[6,12]}
+{"cWhen":1.581099563290328e9,"tag":"Move","cXWarp":12,"cNewPos":[6,12]}
+{"cWhen":1.581099563655192e9,"tag":"Change","cFrom":[6,11],"cText":[""],"cRemoved":["2"],"cOrigin":"+delete","cTo":[6,12],"cNewPos":[6,11]}
+{"cWhen":1.5810995637048647e9,"tag":"Change","cFrom":[6,11],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[6,11],"cNewPos":[6,12]}
+{"cWhen":1.5810995640062783e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810995646049988e9,"tag":"Move","cXWarp":12,"cNewPos":[5,12]}
+{"cWhen":1.581099564714566e9,"tag":"Move","cXWarp":36,"cNewPos":[5,36]}
+{"cWhen":1.5810995651312952e9,"tag":"Move","cXWarp":35,"cNewPos":[5,35]}
+{"cWhen":1.5810995659270287e9,"tag":"Move","cXWarp":0,"cNewPos":[5,0]}
+{"cWhen":1.581099566122594e9,"tag":"Move","cXWarp":1,"cNewPos":[5,1]}
+{"cWhen":1.5810995666230528e9,"tag":"Move","cXWarp":2,"cNewPos":[5,2]}
+{"cWhen":1.5810995666569726e9,"tag":"Move","cXWarp":3,"cNewPos":[5,3]}
+{"cWhen":1.58109956669111e9,"tag":"Move","cXWarp":4,"cNewPos":[5,4]}
+{"cWhen":1.5810995667242486e9,"tag":"Move","cXWarp":5,"cNewPos":[5,5]}
+{"cWhen":1.5810995667573183e9,"tag":"Move","cXWarp":6,"cNewPos":[5,6]}
+{"cWhen":1.5810995667909336e9,"tag":"Move","cXWarp":7,"cNewPos":[5,7]}
+{"cWhen":1.5810995668248417e9,"tag":"Move","cXWarp":8,"cNewPos":[5,8]}
+{"cWhen":1.5810995668587565e9,"tag":"Move","cXWarp":9,"cNewPos":[5,9]}
+{"cWhen":1.5810995668917608e9,"tag":"Move","cXWarp":10,"cNewPos":[5,10]}
+{"cWhen":1.581099566924095e9,"tag":"Move","cXWarp":11,"cNewPos":[5,11]}
+{"cWhen":1.5810995669572642e9,"tag":"Move","cXWarp":12,"cNewPos":[5,12]}
+{"cWhen":1.5810995669903207e9,"tag":"Move","cXWarp":13,"cNewPos":[5,13]}
+{"cWhen":1.5810995670910661e9,"tag":"Move","cXWarp":12,"cNewPos":[5,12]}
+{"cWhen":1.5810995673985074e9,"tag":"Move","cXWarp":11,"cNewPos":[5,11]}
+{"cWhen":1.5810995681472518e9,"tag":"Move","cXWarp":12,"cNewPos":[5,12]}
+{"cWhen":1.5810995686479754e9,"tag":"Move","cXWarp":13,"cNewPos":[5,13]}
+{"cWhen":1.5810995686818273e9,"tag":"Move","cXWarp":14,"cNewPos":[5,14]}
+{"cWhen":1.5810995687149792e9,"tag":"Move","cXWarp":15,"cNewPos":[5,15]}
+{"cWhen":1.5810995687488635e9,"tag":"Move","cXWarp":16,"cNewPos":[5,16]}
+{"cWhen":1.5810995687828422e9,"tag":"Move","cXWarp":17,"cNewPos":[5,17]}
+{"cWhen":1.5810995689760141e9,"tag":"Move","cXWarp":18,"cNewPos":[5,18]}
+{"cWhen":1.5810995692449262e9,"tag":"Change","cFrom":[5,17],"cText":[""],"cRemoved":["6"],"cOrigin":"+delete","cTo":[5,18],"cNewPos":[5,17]}
+{"cWhen":1.5810995697443693e9,"tag":"Change","cFrom":[5,16],"cText":[""],"cRemoved":["1"],"cOrigin":"+delete","cTo":[5,17],"cNewPos":[5,16]}
+{"cWhen":1.5810995697772417e9,"tag":"Change","cFrom":[5,15],"cText":[""],"cRemoved":[" "],"cOrigin":"+delete","cTo":[5,16],"cNewPos":[5,15]}
+{"cWhen":1.5810995698099391e9,"tag":"Change","cFrom":[5,14],"cText":[""],"cRemoved":["p"],"cOrigin":"+delete","cTo":[5,15],"cNewPos":[5,14]}
+{"cWhen":1.5810995698433068e9,"tag":"Change","cFrom":[5,13],"cText":[""],"cRemoved":["o"],"cOrigin":"+delete","cTo":[5,14],"cNewPos":[5,13]}
+{"cWhen":1.581099569876156e9,"tag":"Change","cFrom":[5,12],"cText":[""],"cRemoved":["h"],"cOrigin":"+delete","cTo":[5,13],"cNewPos":[5,12]}
+{"cWhen":1.5810995699098377e9,"tag":"Change","cFrom":[5,11],"cText":[""],"cRemoved":["c"],"cOrigin":"+delete","cTo":[5,12],"cNewPos":[5,11]}
+{"cWhen":1.5810995699427762e9,"tag":"Change","cFrom":[5,10],"cText":[""],"cRemoved":[" "],"cOrigin":"+delete","cTo":[5,11],"cNewPos":[5,10]}
+{"cWhen":1.5810995699755251e9,"tag":"Change","cFrom":[5,9],"cText":[""],"cRemoved":["$"],"cOrigin":"+delete","cTo":[5,10],"cNewPos":[5,9]}
+{"cWhen":1.581099570008785e9,"tag":"Change","cFrom":[5,8],"cText":[""],"cRemoved":[" "],"cOrigin":"+delete","cTo":[5,9],"cNewPos":[5,8]}
+{"cWhen":1.5810995700412614e9,"tag":"Change","cFrom":[5,7],"cText":[""],"cRemoved":["2"],"cOrigin":"+delete","cTo":[5,8],"cNewPos":[5,7]}
+{"cWhen":1.5810995700742257e9,"tag":"Change","cFrom":[5,6],"cText":[""],"cRemoved":[" "],"cOrigin":"+delete","cTo":[5,7],"cNewPos":[5,6]}
+{"cWhen":1.5810995701074855e9,"tag":"Change","cFrom":[5,5],"cText":[""],"cRemoved":["t"],"cOrigin":"+delete","cTo":[5,6],"cNewPos":[5,5]}
+{"cWhen":1.581099570140678e9,"tag":"Change","cFrom":[5,4],"cText":[""],"cRemoved":["A"],"cOrigin":"+delete","cTo":[5,5],"cNewPos":[5,4]}
+{"cWhen":1.5810995703243964e9,"tag":"Change","cFrom":[5,3],"cText":[""],"cRemoved":["p"],"cOrigin":"+delete","cTo":[5,4],"cNewPos":[5,3]}
+{"cWhen":1.581099570495977e9,"tag":"Change","cFrom":[5,2],"cText":[""],"cRemoved":["o"],"cOrigin":"+delete","cTo":[5,3],"cNewPos":[5,2]}
+{"cWhen":1.5810995706540499e9,"tag":"Change","cFrom":[5,1],"cText":[""],"cRemoved":["o"],"cOrigin":"+delete","cTo":[5,2],"cNewPos":[5,1]}
+{"cWhen":1.581099570812811e9,"tag":"Change","cFrom":[5,0],"cText":[""],"cRemoved":["l"],"cOrigin":"+delete","cTo":[5,1],"cNewPos":[5,0]}
+{"cWhen":1.5810995709820235e9,"tag":"Change","cFrom":[5,0],"cText":["s"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,0],"cNewPos":[5,1]}
+{"cWhen":1.5810995710901139e9,"tag":"Change","cFrom":[5,1],"cText":["p"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,1],"cNewPos":[5,2]}
+{"cWhen":1.5810995712719615e9,"tag":"Change","cFrom":[5,2],"cText":["l"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,2],"cNewPos":[5,3]}
+{"cWhen":1.5810995714631603e9,"tag":"Change","cFrom":[5,3],"cText":["a"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,3],"cNewPos":[5,4]}
+{"cWhen":1.5810995718144135e9,"tag":"Change","cFrom":[5,3],"cText":[""],"cRemoved":["a"],"cOrigin":"+delete","cTo":[5,4],"cNewPos":[5,3]}
+{"cWhen":1.581099571972946e9,"tag":"Change","cFrom":[5,3],"cText":["i"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,3],"cNewPos":[5,4]}
+{"cWhen":1.5810995720735643e9,"tag":"Change","cFrom":[5,4],"cText":["c"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,4],"cNewPos":[5,5]}
+{"cWhen":1.5810995721334202e9,"tag":"Change","cFrom":[5,5],"cText":["e"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,5],"cNewPos":[5,6]}
+{"cWhen":1.581099572222843e9,"tag":"Change","cFrom":[5,6],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[5,6],"cNewPos":[5,7]}
+{"cWhen":1.5810995725349305e9,"tag":"Change","cFrom":[5,7],"cText":["1"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,7],"cNewPos":[5,8]}
+{"cWhen":1.5810995728693523e9,"tag":"Change","cFrom":[5,8],"cText":["6"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,8],"cNewPos":[5,9]}
+{"cWhen":1.581099572960632e9,"tag":"Change","cFrom":[5,9],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[5,9],"cNewPos":[5,10]}
+{"cWhen":1.581099573110096e9,"tag":"Change","cFrom":[5,10],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[5,10],"cNewPos":[5,11]}
+{"cWhen":1.5810995731898985e9,"tag":"Change","cFrom":[5,11],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[5,11],"cNewPos":[5,12]}
+{"cWhen":1.5810995733566895e9,"tag":"Change","cFrom":[5,12],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[5,12],"cNewPos":[5,13]}
+{"cWhen":1.5810995736055617e9,"tag":"Change","cFrom":[5,12],"cText":[""],"cRemoved":["\""],"cOrigin":"+delete","cTo":[5,13],"cNewPos":[5,12]}
+{"cWhen":1.5810995737561827e9,"tag":"Change","cFrom":[5,11],"cText":[""],"cRemoved":[" "],"cOrigin":"+delete","cTo":[5,12],"cNewPos":[5,11]}
+{"cWhen":1.5810995738735156e9,"tag":"Change","cFrom":[5,11],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[5,11],"cNewPos":[5,12]}
+{"cWhen":1.5810995745667477e9,"tag":"Move","cXWarp":11,"cNewPos":[5,11]}
+{"cWhen":1.5810995748139627e9,"tag":"Change","cFrom":[5,11],"cText":["0"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,11],"cNewPos":[5,12]}
+{"cWhen":1.5810995748819664e9,"tag":"Change","cFrom":[5,12],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[5,12],"cNewPos":[5,13]}
+{"cWhen":1.581099574964874e9,"tag":"Change","cFrom":[5,13],"cText":["1"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,13],"cNewPos":[5,14]}
+{"cWhen":1.5810995750869982e9,"tag":"Change","cFrom":[5,14],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[5,14],"cNewPos":[5,15]}
+{"cWhen":1.5810995751982372e9,"tag":"Change","cFrom":[5,15],"cText":["2"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,15],"cNewPos":[5,16]}
+{"cWhen":1.5810995752838318e9,"tag":"Change","cFrom":[5,16],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[5,16],"cNewPos":[5,17]}
+{"cWhen":1.5810995753953755e9,"tag":"Change","cFrom":[5,17],"cText":["3"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,17],"cNewPos":[5,18]}
+{"cWhen":1.581099575464415e9,"tag":"Change","cFrom":[5,18],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[5,18],"cNewPos":[5,19]}
+{"cWhen":1.5810995759492135e9,"tag":"Change","cFrom":[5,18],"cText":[""],"cRemoved":[" "],"cOrigin":"+delete","cTo":[5,19],"cNewPos":[5,18]}
+{"cWhen":1.5810995761479402e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810995766493046e9,"tag":"Change","cFrom":[5,18],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[5,18],"cNewPos":[5,19]}
+{"cWhen":1.5810995767532732e9,"tag":"Change","cFrom":[5,19],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,19],"cNewPos":[5,20]}
+{"cWhen":1.5810995768780906e9,"tag":"Change","cFrom":[5,20],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[5,20],"cNewPos":[5,21]}
+{"cWhen":1.5810995770149949e9,"tag":"Change","cFrom":[5,21],"cText":["5"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,21],"cNewPos":[5,22]}
+{"cWhen":1.5810995771093569e9,"tag":"Change","cFrom":[5,22],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[5,22],"cNewPos":[5,23]}
+{"cWhen":1.5810995773344607e9,"tag":"Change","cFrom":[5,23],"cText":["6"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,23],"cNewPos":[5,24]}
+{"cWhen":1.5810995775441196e9,"tag":"Change","cFrom":[5,24],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[5,24],"cNewPos":[5,25]}
+{"cWhen":1.5810995776839724e9,"tag":"Change","cFrom":[5,25],"cText":["7"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,25],"cNewPos":[5,26]}
+{"cWhen":1.5810995780969148e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810995788423972e9,"tag":"Move","cXWarp":0,"cNewPos":[5,0]}
+{"cWhen":1.5810995796666071e9,"tag":"Move","cXWarp":1,"cNewPos":[5,1]}
+{"cWhen":1.5810995801662507e9,"tag":"Move","cXWarp":2,"cNewPos":[5,2]}
+{"cWhen":1.581099580199853e9,"tag":"Move","cXWarp":3,"cNewPos":[5,3]}
+{"cWhen":1.581099580232995e9,"tag":"Move","cXWarp":4,"cNewPos":[5,4]}
+{"cWhen":1.5810995802668352e9,"tag":"Move","cXWarp":5,"cNewPos":[5,5]}
+{"cWhen":1.581099580300824e9,"tag":"Move","cXWarp":6,"cNewPos":[5,6]}
+{"cWhen":1.5810995803348758e9,"tag":"Move","cXWarp":7,"cNewPos":[5,7]}
+{"cWhen":1.5810995803686228e9,"tag":"Move","cXWarp":8,"cNewPos":[5,8]}
+{"cWhen":1.5810995804018586e9,"tag":"Move","cXWarp":9,"cNewPos":[5,9]}
+{"cWhen":1.581099580435892e9,"tag":"Move","cXWarp":10,"cNewPos":[5,10]}
+{"cWhen":1.5810995804697258e9,"tag":"Move","cXWarp":11,"cNewPos":[5,11]}
+{"cWhen":1.581099580502856e9,"tag":"Move","cXWarp":12,"cNewPos":[5,12]}
+{"cWhen":1.5810995805364802e9,"tag":"Move","cXWarp":13,"cNewPos":[5,13]}
+{"cWhen":1.5810995805696144e9,"tag":"Move","cXWarp":14,"cNewPos":[5,14]}
+{"cWhen":1.5810995806022112e9,"tag":"Move","cXWarp":15,"cNewPos":[5,15]}
+{"cWhen":1.581099580635306e9,"tag":"Move","cXWarp":16,"cNewPos":[5,16]}
+{"cWhen":1.5810995806686926e9,"tag":"Move","cXWarp":17,"cNewPos":[5,17]}
+{"cWhen":1.5810995809252212e9,"tag":"Move","cXWarp":16,"cNewPos":[5,16]}
+{"cWhen":1.5810995811258225e9,"tag":"Move","cXWarp":15,"cNewPos":[5,15]}
+{"cWhen":1.5810995813575354e9,"tag":"Change","cFrom":[5,15],"cText":["["],"cRemoved":[""],"cOrigin":"+input","cTo":[5,15],"cNewPos":[5,16]}
+{"cWhen":1.581099581514064e9,"tag":"Move","cXWarp":17,"cNewPos":[5,17]}
+{"cWhen":1.5810995817085862e9,"tag":"Move","cXWarp":18,"cNewPos":[5,18]}
+{"cWhen":1.5810995819128013e9,"tag":"Move","cXWarp":19,"cNewPos":[5,19]}
+{"cWhen":1.5810995820643303e9,"tag":"Change","cFrom":[5,19],"cText":["]"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,19],"cNewPos":[5,20]}
+{"cWhen":1.5810995823201635e9,"tag":"Change","cFrom":[5,20],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[5,20],"cNewPos":[5,21]}
+{"cWhen":1.5810995824767478e9,"tag":"Change","cFrom":[5,21],"cText":["~"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,21],"cNewPos":[5,22]}
+{"cWhen":1.5810995827223015e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810995830353053e9,"tag":"Move","cXWarp":21,"cNewPos":[5,21]}
+{"cWhen":1.5810995832728755e9,"tag":"Move","cXWarp":22,"cNewPos":[5,22]}
+{"cWhen":1.581099583492502e9,"tag":"Move","cXWarp":23,"cNewPos":[5,23]}
+{"cWhen":1.5810995837194214e9,"tag":"Move","cXWarp":24,"cNewPos":[5,24]}
+{"cWhen":1.5810995843476138e9,"tag":"Move","cXWarp":25,"cNewPos":[5,25]}
+{"cWhen":1.5810995846229994e9,"tag":"Change","cFrom":[5,25],"cText":["["],"cRemoved":[""],"cOrigin":"+input","cTo":[5,25],"cNewPos":[5,26]}
+{"cWhen":1.5810995847898123e9,"tag":"Move","cXWarp":27,"cNewPos":[5,27]}
+{"cWhen":1.5810995849156973e9,"tag":"Change","cFrom":[5,27],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[5,27],"cNewPos":[5,28]}
+{"cWhen":1.581099585123434e9,"tag":"Change","cFrom":[5,28],"cText":["]"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,28],"cNewPos":[5,29]}
+{"cWhen":1.5810995855687714e9,"tag":"Move","cXWarp":28,"cNewPos":[5,28]}
+{"cWhen":1.5810995858351874e9,"tag":"Change","cFrom":[5,28],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,28],"cNewPos":[5,29]}
+{"cWhen":1.5810995862347722e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810995868399525e9,"tag":"Move","cXWarp":30,"cNewPos":[5,30]}
+{"cWhen":1.581099587025976e9,"tag":"Move","cXWarp":31,"cNewPos":[5,31]}
+{"cWhen":1.5810995871854618e9,"tag":"Move","cXWarp":32,"cNewPos":[5,32]}
+{"cWhen":1.5810995874850585e9,"tag":"Change","cFrom":[5,32],"cText":["*"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,32],"cNewPos":[5,33]}
+{"cWhen":1.5810995877307827e9,"tag":"Change","cFrom":[5,33],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,33],"cNewPos":[5,34]}
+{"cWhen":1.5810995880282125e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099589522948e9,"tag":"Change","cFrom":[5,33],"cText":[""],"cRemoved":["4"],"cOrigin":"+delete","cTo":[5,34],"cNewPos":[5,33]}
+{"cWhen":1.5810995896017857e9,"tag":"Change","cFrom":[5,33],"cText":["2"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,33],"cNewPos":[5,34]}
+{"cWhen":1.5810995898469381e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099590850727e9,"tag":"Move","cXWarp":0,"cNewPos":[5,0]}
+{"cWhen":1.5810995917713718e9,"tag":"Change","cFrom":[5,0],"cText":["j"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,0],"cNewPos":[5,1]}
+{"cWhen":1.5810995919498062e9,"tag":"Change","cFrom":[5,1],"cText":["u"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,1],"cNewPos":[5,2]}
+{"cWhen":1.5810995920497355e9,"tag":"Change","cFrom":[5,2],"cText":["x"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,2],"cNewPos":[5,3]}
+{"cWhen":1.5810995921315222e9,"tag":"Change","cFrom":[5,3],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[5,3],"cNewPos":[5,4]}
+{"cWhen":1.5810995922182539e9,"tag":"Change","cFrom":[5,4],"cText":["r"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,4],"cNewPos":[5,5]}
+{"cWhen":1.5810995922844775e9,"tag":"Change","cFrom":[5,5],"cText":["e"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,5],"cNewPos":[5,6]}
+{"cWhen":1.5810995924373145e9,"tag":"Change","cFrom":[5,6],"cText":["v"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,6],"cNewPos":[5,7]}
+{"cWhen":1.581099592493148e9,"tag":"Change","cFrom":[5,7],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[5,7],"cNewPos":[5,8]}
+{"cWhen":1.5810995926608958e9,"tag":"Change","cFrom":[5,8],"cText":["$"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,8],"cNewPos":[5,9]}
+{"cWhen":1.5810995927339327e9,"tag":"Change","cFrom":[5,9],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[5,9],"cNewPos":[5,10]}
+{"cWhen":1.581099593235702e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810995952909274e9,"tag":"Move","cXWarp":0,"cNewPos":[5,0]}
+{"cWhen":1.5810995953905535e9,"tag":"Move","cXWarp":0,"cNewPos":[6,0]}
+{"cWhen":1.5810995956718297e9,"tag":"Move","cXWarp":0,"cNewPos":[7,0]}
+{"cWhen":1.581099595896283e9,"tag":"Move","cXWarp":0,"cNewPos":[7,0]}
+{"cWhen":1.581099596851063e9,"tag":"Move","cXWarp":0,"cNewPos":[6,0]}
+{"cWhen":1.5810995976447976e9,"tag":"Move","cXWarp":0,"cNewPos":[5,0]}
+{"cWhen":1.5810995988785548e9,"tag":"Move","cXWarp":1,"cNewPos":[5,1]}
+{"cWhen":1.5810995990944142e9,"tag":"Move","cXWarp":0,"cNewPos":[5,0]}
+{"cWhen":1.581099599405947e9,"tag":"Change","cFrom":[5,0],"cText":["i"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,0],"cNewPos":[5,1]}
+{"cWhen":1.5810995994570827e9,"tag":"Change","cFrom":[5,1],"cText":["t"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,1],"cNewPos":[5,2]}
+{"cWhen":1.581099599591435e9,"tag":"Change","cFrom":[5,2],"cText":["e"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,2],"cNewPos":[5,3]}
+{"cWhen":1.581099599672979e9,"tag":"Change","cFrom":[5,3],"cText":["r"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,3],"cNewPos":[5,4]}
+{"cWhen":1.5810995997561817e9,"tag":"Change","cFrom":[5,4],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[5,4],"cNewPos":[5,5]}
+{"cWhen":1.5810995998217194e9,"tag":"Change","cFrom":[5,5],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,5],"cNewPos":[5,6]}
+{"cWhen":1.5810995999592235e9,"tag":"Change","cFrom":[5,6],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[5,6],"cNewPos":[5,7]}
+{"cWhen":1.581099600098571e9,"tag":"Change","cFrom":[5,7],"cText":["$"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,7],"cNewPos":[5,8]}
+{"cWhen":1.5810996002043197e9,"tag":"Change","cFrom":[5,8],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[5,8],"cNewPos":[5,9]}
+{"cWhen":1.5810996004826243e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810996022677224e9,"tag":"Move","cXWarp":10,"cNewPos":[5,10]}
+{"cWhen":1.5810996032217445e9,"tag":"Move","cXWarp":0,"cNewPos":[5,0]}
+{"cWhen":1.5810996035967739e9,"tag":"Move","cXWarp":74,"cNewPos":[5,74]}
+{"cWhen":1.5810996036815443e9,"tag":"Move","cXWarp":12,"cNewPos":[6,12]}
+{"cWhen":1.5810996040116735e9,"tag":"Change","cFrom":[6,12],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[6,12],"cNewPos":[6,13]}
+{"cWhen":1.5810996041391246e9,"tag":"Change","cFrom":[6,13],"cText":["#"],"cRemoved":[""],"cOrigin":"+input","cTo":[6,13],"cNewPos":[6,14]}
+{"cWhen":1.581099604200644e9,"tag":"Change","cFrom":[6,14],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[6,14],"cNewPos":[6,15]}
+{"cWhen":1.581099604347991e9,"tag":"Change","cFrom":[6,15],"cText":["s"],"cRemoved":[""],"cOrigin":"+input","cTo":[6,15],"cNewPos":[6,16]}
+{"cWhen":1.581099604654999e9,"tag":"Change","cFrom":[6,15],"cText":[""],"cRemoved":["s"],"cOrigin":"+delete","cTo":[6,16],"cNewPos":[6,15]}
+{"cWhen":1.5810996051923892e9,"tag":"Change","cFrom":[6,15],"cText":["d"],"cRemoved":[""],"cOrigin":"+input","cTo":[6,15],"cNewPos":[6,16]}
+{"cWhen":1.58109960530271e9,"tag":"Change","cFrom":[6,16],"cText":["j"],"cRemoved":[""],"cOrigin":"+input","cTo":[6,16],"cNewPos":[6,17]}
+{"cWhen":1.5810996053893185e9,"tag":"Change","cFrom":[6,17],"cText":["f"],"cRemoved":[""],"cOrigin":"+input","cTo":[6,17],"cNewPos":[6,18]}
+{"cWhen":1.5810996054898212e9,"tag":"Change","cFrom":[6,18],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[6,18],"cNewPos":[6,19]}
+{"cWhen":1.581099605694876e9,"tag":"Change","cFrom":[6,19],"cText":["0"],"cRemoved":[""],"cOrigin":"+input","cTo":[6,19],"cNewPos":[6,20]}
+{"cWhen":1.581099605754936e9,"tag":"Change","cFrom":[6,20],"cText":["."],"cRemoved":[""],"cOrigin":"+input","cTo":[6,20],"cNewPos":[6,21]}
+{"cWhen":1.5810996059823964e9,"tag":"Change","cFrom":[6,21],"cText":["8"],"cRemoved":[""],"cOrigin":"+input","cTo":[6,21],"cNewPos":[6,22]}
+{"cWhen":1.5810996064047444e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099607234994e9,"tag":"Move","cXWarp":22,"cNewPos":[5,22]}
+{"cWhen":1.5810996073704662e9,"tag":"Move","cXWarp":74,"cNewPos":[5,74]}
+{"cWhen":1.5810996077140386e9,"tag":"Move","cXWarp":73,"cNewPos":[5,73]}
+{"cWhen":1.5810996084469552e9,"tag":"Change","cFrom":[5,72],"cText":[""],"cRemoved":["8"],"cOrigin":"+delete","cTo":[5,73],"cNewPos":[5,72]}
+{"cWhen":1.581099608588151e9,"tag":"Change","cFrom":[5,72],"cText":["7"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,72],"cNewPos":[5,73]}
+{"cWhen":1.5810996089357352e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810996104177785e9,"tag":"Change","cFrom":[5,72],"cText":[""],"cRemoved":["7"],"cOrigin":"+delete","cTo":[5,73],"cNewPos":[5,72]}
+{"cWhen":1.5810996108271656e9,"tag":"Change","cFrom":[5,72],"cText":["9"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,72],"cNewPos":[5,73]}
+{"cWhen":1.5810996110043073e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810996118610415e9,"tag":"Change","cFrom":[5,72],"cText":[""],"cRemoved":["9"],"cOrigin":"+delete","cTo":[5,73],"cNewPos":[5,72]}
+{"cWhen":1.5810996118978934e9,"tag":"Change","cFrom":[5,72],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,72],"cNewPos":[5,73]}
+{"cWhen":1.581099612260923e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099615007357e9,"tag":"Move","cXWarp":0,"cNewPos":[5,0]}
+{"cWhen":1.581099615275386e9,"tag":"Move","cXWarp":1,"cNewPos":[5,1]}
+{"cWhen":1.5810996156017203e9,"tag":"Move","cXWarp":0,"cNewPos":[5,0]}
+{"cWhen":1.5810996159156702e9,"tag":"Move","cXWarp":1,"cNewPos":[5,1]}
+{"cWhen":1.581099616415672e9,"tag":"Move","cXWarp":2,"cNewPos":[5,2]}
+{"cWhen":1.5810996164490454e9,"tag":"Move","cXWarp":3,"cNewPos":[5,3]}
+{"cWhen":1.581099616481829e9,"tag":"Move","cXWarp":4,"cNewPos":[5,4]}
+{"cWhen":1.5810996165154846e9,"tag":"Move","cXWarp":5,"cNewPos":[5,5]}
+{"cWhen":1.581099616548856e9,"tag":"Move","cXWarp":6,"cNewPos":[5,6]}
+{"cWhen":1.5810996165815415e9,"tag":"Move","cXWarp":7,"cNewPos":[5,7]}
+{"cWhen":1.5810996166162138e9,"tag":"Move","cXWarp":8,"cNewPos":[5,8]}
+{"cWhen":1.581099616649574e9,"tag":"Move","cXWarp":9,"cNewPos":[5,9]}
+{"cWhen":1.5810996166826847e9,"tag":"Move","cXWarp":10,"cNewPos":[5,10]}
+{"cWhen":1.5810996167156293e9,"tag":"Move","cXWarp":11,"cNewPos":[5,11]}
+{"cWhen":1.5810996167486684e9,"tag":"Move","cXWarp":12,"cNewPos":[5,12]}
+{"cWhen":1.5810996167817433e9,"tag":"Move","cXWarp":13,"cNewPos":[5,13]}
+{"cWhen":1.5810996168141806e9,"tag":"Move","cXWarp":14,"cNewPos":[5,14]}
+{"cWhen":1.5810996168482783e9,"tag":"Move","cXWarp":15,"cNewPos":[5,15]}
+{"cWhen":1.581099616881754e9,"tag":"Move","cXWarp":16,"cNewPos":[5,16]}
+{"cWhen":1.581099616914455e9,"tag":"Move","cXWarp":17,"cNewPos":[5,17]}
+{"cWhen":1.5810996169477475e9,"tag":"Move","cXWarp":18,"cNewPos":[5,18]}
+{"cWhen":1.5810996169808407e9,"tag":"Move","cXWarp":19,"cNewPos":[5,19]}
+{"cWhen":1.5810996170144644e9,"tag":"Move","cXWarp":20,"cNewPos":[5,20]}
+{"cWhen":1.581099617047376e9,"tag":"Move","cXWarp":21,"cNewPos":[5,21]}
+{"cWhen":1.5810996170808346e9,"tag":"Move","cXWarp":22,"cNewPos":[5,22]}
+{"cWhen":1.5810996171133256e9,"tag":"Move","cXWarp":23,"cNewPos":[5,23]}
+{"cWhen":1.581099617146428e9,"tag":"Move","cXWarp":24,"cNewPos":[5,24]}
+{"cWhen":1.5810996171803005e9,"tag":"Move","cXWarp":25,"cNewPos":[5,25]}
+{"cWhen":1.5810996172118428e9,"tag":"Move","cXWarp":26,"cNewPos":[5,26]}
+{"cWhen":1.5810996172453785e9,"tag":"Move","cXWarp":27,"cNewPos":[5,27]}
+{"cWhen":1.5810996176421103e9,"tag":"Move","cXWarp":28,"cNewPos":[5,28]}
+{"cWhen":1.5810996178926141e9,"tag":"Change","cFrom":[5,27],"cText":[""],"cRemoved":["6"],"cOrigin":"+delete","cTo":[5,28],"cNewPos":[5,27]}
+{"cWhen":1.5810996180322335e9,"tag":"Change","cFrom":[5,26],"cText":[""],"cRemoved":["1"],"cOrigin":"+delete","cTo":[5,27],"cNewPos":[5,26]}
+{"cWhen":1.5810996180833955e9,"tag":"Change","cFrom":[5,26],"cText":["3"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,26],"cNewPos":[5,27]}
+{"cWhen":1.5810996181684732e9,"tag":"Change","cFrom":[5,27],"cText":["2"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,27],"cNewPos":[5,28]}
+{"cWhen":1.581099618400264e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810996201120238e9,"tag":"Move","cXWarp":74,"cNewPos":[5,74]}
+{"cWhen":1.581099620348697e9,"tag":"Move","cXWarp":73,"cNewPos":[5,73]}
+{"cWhen":1.5810996206304545e9,"tag":"Change","cFrom":[5,72],"cText":[""],"cRemoved":["4"],"cOrigin":"+delete","cTo":[5,73],"cNewPos":[5,72]}
+{"cWhen":1.5810996207102127e9,"tag":"Change","cFrom":[5,72],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,72],"cNewPos":[5,73]}
+{"cWhen":1.5810996210432737e9,"tag":"Change","cFrom":[5,72],"cText":[""],"cRemoved":["4"],"cOrigin":"+delete","cTo":[5,73],"cNewPos":[5,72]}
+{"cWhen":1.5810996211221914e9,"tag":"Change","cFrom":[5,72],"cText":["5"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,72],"cNewPos":[5,73]}
+{"cWhen":1.5810996214518661e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810996219560764e9,"tag":"Move","cXWarp":22,"cNewPos":[6,22]}
+{"cWhen":1.5810996236865146e9,"tag":"Move","cXWarp":22,"cNewPos":[5,22]}
+{"cWhen":1.5810996237812917e9,"tag":"Move","cXWarp":74,"cNewPos":[5,74]}
+{"cWhen":1.581099624054238e9,"tag":"Move","cXWarp":73,"cNewPos":[5,73]}
+{"cWhen":1.581099624401756e9,"tag":"Change","cFrom":[5,72],"cText":[""],"cRemoved":["5"],"cOrigin":"+delete","cTo":[5,73],"cNewPos":[5,72]}
+{"cWhen":1.581099624492894e9,"tag":"Change","cFrom":[5,72],"cText":["3"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,72],"cNewPos":[5,73]}
+{"cWhen":1.5810996252551422e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099626617565e9,"tag":"Move","cXWarp":22,"cNewPos":[6,22]}
+{"cWhen":1.5810996276718886e9,"tag":"Change","cFrom":[6,21],"cText":[""],"cRemoved":["8"],"cOrigin":"+delete","cTo":[6,22],"cNewPos":[6,21]}
+{"cWhen":1.5810996278849914e9,"tag":"Change","cFrom":[6,20],"cText":[""],"cRemoved":["."],"cOrigin":"+delete","cTo":[6,21],"cNewPos":[6,20]}
+{"cWhen":1.5810996285381277e9,"tag":"Change","cFrom":[6,19],"cText":[""],"cRemoved":["0"],"cOrigin":"+delete","cTo":[6,20],"cNewPos":[6,19]}
+{"cWhen":1.581099628696713e9,"tag":"Change","cFrom":[6,18],"cText":[""],"cRemoved":[" "],"cOrigin":"+delete","cTo":[6,19],"cNewPos":[6,18]}
+{"cWhen":1.5810996288379617e9,"tag":"Change","cFrom":[6,17],"cText":[""],"cRemoved":["f"],"cOrigin":"+delete","cTo":[6,18],"cNewPos":[6,17]}
+{"cWhen":1.581099628988284e9,"tag":"Change","cFrom":[6,16],"cText":[""],"cRemoved":["j"],"cOrigin":"+delete","cTo":[6,17],"cNewPos":[6,16]}
+{"cWhen":1.581099629132256e9,"tag":"Change","cFrom":[6,15],"cText":[""],"cRemoved":["d"],"cOrigin":"+delete","cTo":[6,16],"cNewPos":[6,15]}
+{"cWhen":1.581099629288444e9,"tag":"Change","cFrom":[6,14],"cText":[""],"cRemoved":[" "],"cOrigin":"+delete","cTo":[6,15],"cNewPos":[6,14]}
+{"cWhen":1.581099629446673e9,"tag":"Change","cFrom":[6,13],"cText":[""],"cRemoved":["#"],"cOrigin":"+delete","cTo":[6,14],"cNewPos":[6,13]}
+{"cWhen":1.581099629605003e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810996316533327e9,"tag":"Change","cFrom":[6,12],"cText":[""],"cRemoved":[" "],"cOrigin":"+delete","cTo":[6,13],"cNewPos":[6,12]}
+{"cWhen":1.5810996317965353e9,"tag":"Change","cFrom":[6,11],"cText":[""],"cRemoved":["4"],"cOrigin":"+delete","cTo":[6,12],"cNewPos":[6,11]}
+{"cWhen":1.5810996321144044e9,"tag":"Change","cFrom":[6,11],"cText":["1"],"cRemoved":[""],"cOrigin":"+input","cTo":[6,11],"cNewPos":[6,12]}
+{"cWhen":1.5810996323833308e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810996359632437e9,"tag":"Move","cXWarp":12,"cNewPos":[5,12]}
+{"cWhen":1.5810996361437943e9,"tag":"Move","cXWarp":74,"cNewPos":[5,74]}
+{"cWhen":1.5810996366383917e9,"tag":"Move","cXWarp":73,"cNewPos":[5,73]}
+{"cWhen":1.5810996370666556e9,"tag":"Change","cFrom":[5,72],"cText":[""],"cRemoved":["3"],"cOrigin":"+delete","cTo":[5,73],"cNewPos":[5,72]}
+{"cWhen":1.581099637472256e9,"tag":"Change","cFrom":[5,72],"cText":["7"],"cRemoved":[""],"cOrigin":"+input","cTo":[5,72],"cNewPos":[5,73]}
+{"cWhen":1.5810996377322953e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810996385441253e9,"tag":"Move","cXWarp":0,"cNewPos":[5,0]}
+{"cWhen":1.5810996387677846e9,"tag":"Move","cXWarp":0,"cNewPos":[6,0]}
+{"cWhen":1.5810996396263695e9,"tag":"Move","cXWarp":0,"cNewPos":[7,0]}
+{"cWhen":1.5810996400042224e9,"tag":"Move","cXWarp":0,"cNewPos":[7,0]}
+{"cWhen":1.5810996418125648e9,"tag":"Change","cFrom":[7,0],"cText":["",""],"cRemoved":[""],"cOrigin":"+input","cTo":[7,0],"cNewPos":[8,0]}
+{"cWhen":1.581099642044383e9,"tag":"Change","cFrom":[8,0],"cText":["s"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,0],"cNewPos":[8,1]}
+{"cWhen":1.5810996422121985e9,"tag":"Change","cFrom":[8,1],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,1],"cNewPos":[8,2]}
+{"cWhen":1.581099642310225e9,"tag":"Change","cFrom":[8,2],"cText":["u"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,2],"cNewPos":[8,3]}
+{"cWhen":1.581099642433204e9,"tag":"Change","cFrom":[8,3],"cText":["n"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,3],"cNewPos":[8,4]}
+{"cWhen":1.5810996424424887e9,"tag":"Change","cFrom":[8,4],"cText":["d"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,4],"cNewPos":[8,5]}
+{"cWhen":1.5810996424895155e9,"tag":"Change","cFrom":[8,5],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[8,5],"cNewPos":[8,6]}
+{"cWhen":1.5810996426062927e9,"tag":"Change","cFrom":[8,6],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[8,6],"cNewPos":[8,7]}
+{"cWhen":1.581099642984536e9,"tag":"Change","cFrom":[8,7],"cText":["r"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,7],"cNewPos":[8,8]}
+{"cWhen":1.5810996430495117e9,"tag":"Change","cFrom":[8,8],"cText":["e"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,8],"cNewPos":[8,9]}
+{"cWhen":1.5810996431211345e9,"tag":"Change","cFrom":[8,9],"cText":["p"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,9],"cNewPos":[8,10]}
+{"cWhen":1.5810996432278533e9,"tag":"Change","cFrom":[8,10],"cText":["e"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,10],"cNewPos":[8,11]}
+{"cWhen":1.5810996433041167e9,"tag":"Change","cFrom":[8,11],"cText":["t"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,11],"cNewPos":[8,12]}
+{"cWhen":1.5810996433734813e9,"tag":"Change","cFrom":[8,12],"cText":["i"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,12],"cNewPos":[8,13]}
+{"cWhen":1.5810996435099125e9,"tag":"Change","cFrom":[8,13],"cText":["t"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,13],"cNewPos":[8,14]}
+{"cWhen":1.5810996435553274e9,"tag":"Change","cFrom":[8,14],"cText":["i"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,14],"cNewPos":[8,15]}
+{"cWhen":1.581099643609067e9,"tag":"Change","cFrom":[8,15],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,15],"cNewPos":[8,16]}
+{"cWhen":1.5810996436750212e9,"tag":"Change","cFrom":[8,16],"cText":["n"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,16],"cNewPos":[8,17]}
+{"cWhen":1.5810996438188272e9,"tag":"Change","cFrom":[8,17],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[8,17],"cNewPos":[8,18]}
+{"cWhen":1.5810996441593838e9,"tag":"Move","cXWarp":0,"cNewPos":[8,0]}
+{"cWhen":1.5810996443577223e9,"tag":"Change","cFrom":[8,0],"cText":["l"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,0],"cNewPos":[8,1]}
+{"cWhen":1.5810996445422337e9,"tag":"Change","cFrom":[8,1],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,1],"cNewPos":[8,2]}
+{"cWhen":1.5810996446838088e9,"tag":"Change","cFrom":[8,2],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,2],"cNewPos":[8,3]}
+{"cWhen":1.5810996447761388e9,"tag":"Change","cFrom":[8,3],"cText":["p"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,3],"cNewPos":[8,4]}
+{"cWhen":1.5810996449347444e9,"tag":"Change","cFrom":[8,4],"cText":["A"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,4],"cNewPos":[8,5]}
+{"cWhen":1.581099645136494e9,"tag":"Change","cFrom":[8,5],"cText":["t"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,5],"cNewPos":[8,6]}
+{"cWhen":1.5810996452706788e9,"tag":"Change","cFrom":[8,6],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[8,6],"cNewPos":[8,7]}
+{"cWhen":1.5810996454118e9,"tag":"Change","cFrom":[8,7],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,7],"cNewPos":[8,8]}
+{"cWhen":1.5810996454944215e9,"tag":"Change","cFrom":[8,8],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[8,8],"cNewPos":[8,9]}
+{"cWhen":1.5810996456497905e9,"tag":"Change","cFrom":[8,9],"cText":["$"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,9],"cNewPos":[8,10]}
+{"cWhen":1.5810996457425883e9,"tag":"Change","cFrom":[8,10],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[8,10],"cNewPos":[8,11]}
+{"cWhen":1.5810996459737551e9,"tag":"Change","cFrom":[8,11],"cText":["c"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,11],"cNewPos":[8,12]}
+{"cWhen":1.5810996460112536e9,"tag":"Change","cFrom":[8,12],"cText":["h"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,12],"cNewPos":[8,13]}
+{"cWhen":1.5810996460692194e9,"tag":"Change","cFrom":[8,13],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,13],"cNewPos":[8,14]}
+{"cWhen":1.5810996461405513e9,"tag":"Change","cFrom":[8,14],"cText":["p"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,14],"cNewPos":[8,15]}
+{"cWhen":1.581099646178368e9,"tag":"Change","cFrom":[8,15],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[8,15],"cNewPos":[8,16]}
+{"cWhen":1.5810996463248544e9,"tag":"Change","cFrom":[8,16],"cText":["8"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,16],"cNewPos":[8,17]}
+{"cWhen":1.5810996464406168e9,"tag":"Change","cFrom":[8,17],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[8,17],"cNewPos":[8,18]}
+{"cWhen":1.5810996465519743e9,"tag":"Change","cFrom":[8,18],"cText":["$"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,18],"cNewPos":[8,19]}
+{"cWhen":1.5810996466657782e9,"tag":"Change","cFrom":[8,19],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[8,19],"cNewPos":[8,20]}
+{"cWhen":1.581099646882948e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810996471741211e9,"tag":"Move","cXWarp":19,"cNewPos":[8,19]}
+{"cWhen":1.581099647426039e9,"tag":"Move","cXWarp":0,"cNewPos":[8,0]}
+{"cWhen":1.5810996476421645e9,"tag":"Move","cXWarp":38,"cNewPos":[8,38]}
+{"cWhen":1.5810996479489064e9,"tag":"Change","cFrom":[8,38],"cText":["",""],"cRemoved":[""],"cOrigin":"+input","cTo":[8,38],"cNewPos":[9,0]}
+{"cWhen":1.5810996483140998e9,"tag":"Change","cFrom":[9,0],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[9,0],"cNewPos":[9,1]}
+{"cWhen":1.5810996485240548e9,"tag":"Change","cFrom":[9,1],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[9,1],"cNewPos":[9,2]}
+{"cWhen":1.5810996487512243e9,"tag":"Change","cFrom":[9,2],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[9,2],"cNewPos":[9,3]}
+{"cWhen":1.5810996490833883e9,"tag":"Change","cFrom":[9,3],"cText":["#"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,3],"cNewPos":[9,4]}
+{"cWhen":1.5810996491989748e9,"tag":"Change","cFrom":[9,4],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[9,4],"cNewPos":[9,5]}
+{"cWhen":1.5810996493489327e9,"tag":"Change","cFrom":[9,5],"cText":["g"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,5],"cNewPos":[9,6]}
+{"cWhen":1.58109964939967e9,"tag":"Change","cFrom":[9,6],"cText":["a"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,6],"cNewPos":[9,7]}
+{"cWhen":1.5810996494661438e9,"tag":"Change","cFrom":[9,7],"cText":["i"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,7],"cNewPos":[9,8]}
+{"cWhen":1.581099649518228e9,"tag":"Change","cFrom":[9,8],"cText":["n"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,8],"cNewPos":[9,9]}
+{"cWhen":1.5810996495528212e9,"tag":"Change","cFrom":[9,9],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[9,9],"cNewPos":[9,10]}
+{"cWhen":1.5810996496545749e9,"tag":"Change","cFrom":[9,10],"cText":["1"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,10],"cNewPos":[9,11]}
+{"cWhen":1.581099649760182e9,"tag":"Change","cFrom":[9,11],"cText":["."],"cRemoved":[""],"cOrigin":"+input","cTo":[9,11],"cNewPos":[9,12]}
+{"cWhen":1.581099649862774e9,"tag":"Change","cFrom":[9,12],"cText":["1"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,12],"cNewPos":[9,13]}
+{"cWhen":1.581099650162188e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099652475901e9,"tag":"Move","cXWarp":13,"cNewPos":[9,13]}
+{"cWhen":1.5810996563954725e9,"tag":"Move","cXWarp":13,"cNewPos":[9,13]}
+{"cWhen":1.5810996572283902e9,"tag":"Move","cXWarp":13,"cNewPos":[8,13]}
+{"cWhen":1.5810996576402812e9,"tag":"Move","cXWarp":13,"cNewPos":[9,13]}
+{"cWhen":1.5810996579514122e9,"tag":"Move","cXWarp":13,"cNewPos":[8,13]}
+{"cWhen":1.5810996583273296e9,"tag":"Move","cXWarp":0,"cNewPos":[8,0]}
+{"cWhen":1.581099658540328e9,"tag":"Move","cXWarp":38,"cNewPos":[8,38]}
+{"cWhen":1.5810996592628977e9,"tag":"Move","cXWarp":37,"cNewPos":[8,37]}
+{"cWhen":1.58109965979353e9,"tag":"Move","cXWarp":0,"cNewPos":[8,0]}
+{"cWhen":1.581099660314593e9,"tag":"Move","cXWarp":38,"cNewPos":[8,38]}
+{"cWhen":1.5810996604884963e9,"tag":"Move","cXWarp":13,"cNewPos":[9,13]}
+{"cWhen":1.5810996605901668e9,"tag":"Move","cXWarp":13,"cNewPos":[9,13]}
+{"cWhen":1.581099660876949e9,"tag":"Change","cFrom":[9,13],"cText":["",""],"cRemoved":[""],"cOrigin":"+input","cTo":[9,13],"cNewPos":[10,0]}
+{"cWhen":1.5810996611018152e9,"tag":"Change","cFrom":[10,0],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[10,0],"cNewPos":[10,1]}
+{"cWhen":1.581099661312753e9,"tag":"Change","cFrom":[10,1],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[10,1],"cNewPos":[10,2]}
+{"cWhen":1.5810996614784598e9,"tag":"Change","cFrom":[10,2],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[10,2],"cNewPos":[10,3]}
+{"cWhen":1.5810996617261817e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.5810996618002753e9,"tag":"Move","cXWarp":0,"cNewPos":[9,0]}
+{"cWhen":1.5810996619757872e9,"tag":"Move","cXWarp":0,"cNewPos":[8,0]}
+{"cWhen":1.581099662796765e9,"tag":"Move","cXWarp":0,"cNewPos":[7,0]}
+{"cWhen":1.581099663553102e9,"tag":"Move","cXWarp":0,"cNewPos":[8,0]}
+{"cWhen":1.5810996637523313e9,"tag":"Move","cXWarp":0,"cNewPos":[9,0]}
+{"cWhen":1.5810996639157422e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.5810996640886562e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.58109966463804e9,"tag":"Move","cXWarp":0,"cNewPos":[9,0]}
+{"cWhen":1.5810996648905194e9,"tag":"Move","cXWarp":0,"cNewPos":[8,0]}
+{"cWhen":1.5810996650927112e9,"tag":"Move","cXWarp":0,"cNewPos":[7,0]}
+{"cWhen":1.5810996656654696e9,"tag":"Move","cXWarp":0,"cNewPos":[8,0]}
+{"cWhen":1.5810996658549721e9,"tag":"Move","cXWarp":0,"cNewPos":[9,0]}
+{"cWhen":1.5810996660081859e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.5810996662088175e9,"tag":"Change","cFrom":[10,0],"cText":["",""],"cRemoved":[""],"cOrigin":"+input","cTo":[10,0],"cNewPos":[11,0]}
+{"cWhen":1.5810996668087702e9,"tag":"Change","cFrom":[11,0],"cText":["s"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,0],"cNewPos":[11,1]}
+{"cWhen":1.5810996669215808e9,"tag":"Change","cFrom":[11,1],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,1],"cNewPos":[11,2]}
+{"cWhen":1.5810996669914372e9,"tag":"Change","cFrom":[11,2],"cText":["u"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,2],"cNewPos":[11,3]}
+{"cWhen":1.5810996670894482e9,"tag":"Change","cFrom":[11,3],"cText":["n"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,3],"cNewPos":[11,4]}
+{"cWhen":1.5810996670991695e9,"tag":"Change","cFrom":[11,4],"cText":["d"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,4],"cNewPos":[11,5]}
+{"cWhen":1.5810996671191766e9,"tag":"Change","cFrom":[11,5],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[11,5],"cNewPos":[11,6]}
+{"cWhen":1.5810996673235927e9,"tag":"Change","cFrom":[11,6],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[11,6],"cNewPos":[11,7]}
+{"cWhen":1.5810996676691587e9,"tag":"Change","cFrom":[11,7],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[11,7],"cNewPos":[11,8]}
+{"cWhen":1.5810996679547582e9,"tag":"Move","cXWarp":7,"cNewPos":[11,7]}
+{"cWhen":1.581099669114687e9,"tag":"Change","cFrom":[11,7],"cText":["l"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,7],"cNewPos":[11,8]}
+{"cWhen":1.5810996691905432e9,"tag":"Change","cFrom":[11,8],"cText":["e"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,8],"cNewPos":[11,9]}
+{"cWhen":1.5810996692646432e9,"tag":"Change","cFrom":[11,9],"cText":["a"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,9],"cNewPos":[11,10]}
+{"cWhen":1.5810996692997594e9,"tag":"Change","cFrom":[11,10],"cText":["r"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,10],"cNewPos":[11,11]}
+{"cWhen":1.5810996693870523e9,"tag":"Change","cFrom":[11,11],"cText":["n"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,11],"cNewPos":[11,12]}
+{"cWhen":1.5810996701224515e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.581099670373308e9,"tag":"Change","cFrom":[11,0],"cText":["l"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,0],"cNewPos":[11,1]}
+{"cWhen":1.5810996705818167e9,"tag":"Change","cFrom":[11,1],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,1],"cNewPos":[11,2]}
+{"cWhen":1.5810996707387278e9,"tag":"Change","cFrom":[11,2],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,2],"cNewPos":[11,3]}
+{"cWhen":1.5810996708249538e9,"tag":"Change","cFrom":[11,3],"cText":["p"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,3],"cNewPos":[11,4]}
+{"cWhen":1.5810996712495942e9,"tag":"Change","cFrom":[11,3],"cText":[""],"cRemoved":["p"],"cOrigin":"+delete","cTo":[11,4],"cNewPos":[11,3]}
+{"cWhen":1.5810996713898473e9,"tag":"Change","cFrom":[11,2],"cText":[""],"cRemoved":["o"],"cOrigin":"+delete","cTo":[11,3],"cNewPos":[11,2]}
+{"cWhen":1.5810996715567448e9,"tag":"Change","cFrom":[11,1],"cText":[""],"cRemoved":["o"],"cOrigin":"+delete","cTo":[11,2],"cNewPos":[11,1]}
+{"cWhen":1.5810996717030249e9,"tag":"Change","cFrom":[11,0],"cText":[""],"cRemoved":["l"],"cOrigin":"+delete","cTo":[11,1],"cNewPos":[11,0]}
+{"cWhen":1.581099671843638e9,"tag":"Change","cFrom":[11,0],"cText":["s"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,0],"cNewPos":[11,1]}
+{"cWhen":1.5810996719211943e9,"tag":"Change","cFrom":[11,1],"cText":["p"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,1],"cNewPos":[11,2]}
+{"cWhen":1.5810996719985793e9,"tag":"Change","cFrom":[11,2],"cText":["l"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,2],"cNewPos":[11,3]}
+{"cWhen":1.5810996721804e9,"tag":"Change","cFrom":[11,3],"cText":["i"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,3],"cNewPos":[11,4]}
+{"cWhen":1.581099672310915e9,"tag":"Change","cFrom":[11,4],"cText":["t"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,4],"cNewPos":[11,5]}
+{"cWhen":1.581099672423911e9,"tag":"Change","cFrom":[11,5],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[11,5],"cNewPos":[11,6]}
+{"cWhen":1.5810996728629446e9,"tag":"Change","cFrom":[11,5],"cText":[""],"cRemoved":[" "],"cOrigin":"+delete","cTo":[11,6],"cNewPos":[11,5]}
+{"cWhen":1.5810996730073328e9,"tag":"Change","cFrom":[11,4],"cText":[""],"cRemoved":["t"],"cOrigin":"+delete","cTo":[11,5],"cNewPos":[11,4]}
+{"cWhen":1.5810996730771515e9,"tag":"Change","cFrom":[11,4],"cText":["c"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,4],"cNewPos":[11,5]}
+{"cWhen":1.581099673127021e9,"tag":"Change","cFrom":[11,5],"cText":["e"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,5],"cNewPos":[11,6]}
+{"cWhen":1.5810996731996455e9,"tag":"Change","cFrom":[11,6],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[11,6],"cNewPos":[11,7]}
+{"cWhen":1.5810996735446174e9,"tag":"Change","cFrom":[11,7],"cText":["8"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,7],"cNewPos":[11,8]}
+{"cWhen":1.581099673716536e9,"tag":"Change","cFrom":[11,8],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[11,8],"cNewPos":[11,9]}
+{"cWhen":1.581099674002592e9,"tag":"Change","cFrom":[11,9],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[11,9],"cNewPos":[11,10]}
+{"cWhen":1.5810996742075474e9,"tag":"Change","cFrom":[11,10],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[11,10],"cNewPos":[11,11]}
+{"cWhen":1.5810996742674632e9,"tag":"Change","cFrom":[11,11],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[11,11],"cNewPos":[11,12]}
+{"cWhen":1.5810996744419026e9,"tag":"Change","cFrom":[11,12],"cText":["$"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,12],"cNewPos":[11,13]}
+{"cWhen":1.581099674506546e9,"tag":"Change","cFrom":[11,13],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[11,13],"cNewPos":[11,14]}
+{"cWhen":1.5810996747845817e9,"tag":"Move","cXWarp":13,"cNewPos":[11,13]}
+{"cWhen":1.5810996749337435e9,"tag":"Move","cXWarp":12,"cNewPos":[11,12]}
+{"cWhen":1.581099675091719e9,"tag":"Move","cXWarp":11,"cNewPos":[11,11]}
+{"cWhen":1.5810996752367828e9,"tag":"Move","cXWarp":10,"cNewPos":[11,10]}
+{"cWhen":1.5810996754192238e9,"tag":"Change","cFrom":[11,10],"cText":["0"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,10],"cNewPos":[11,11]}
+{"cWhen":1.5810996754930594e9,"tag":"Change","cFrom":[11,11],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[11,11],"cNewPos":[11,12]}
+{"cWhen":1.5810996755553486e9,"tag":"Change","cFrom":[11,12],"cText":["1"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,12],"cNewPos":[11,13]}
+{"cWhen":1.5810996756956732e9,"tag":"Change","cFrom":[11,13],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[11,13],"cNewPos":[11,14]}
+{"cWhen":1.5810996757560773e9,"tag":"Change","cFrom":[11,14],"cText":["2"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,14],"cNewPos":[11,15]}
+{"cWhen":1.5810996758711154e9,"tag":"Change","cFrom":[11,15],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[11,15],"cNewPos":[11,16]}
+{"cWhen":1.5810996759601903e9,"tag":"Change","cFrom":[11,16],"cText":["3"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,16],"cNewPos":[11,17]}
+{"cWhen":1.581099676225728e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810996780678449e9,"tag":"Move","cXWarp":16,"cNewPos":[11,16]}
+{"cWhen":1.5810996782692332e9,"tag":"Move","cXWarp":15,"cNewPos":[11,15]}
+{"cWhen":1.58109967877012e9,"tag":"Move","cXWarp":14,"cNewPos":[11,14]}
+{"cWhen":1.5810996788028343e9,"tag":"Move","cXWarp":13,"cNewPos":[11,13]}
+{"cWhen":1.5810996788360968e9,"tag":"Move","cXWarp":12,"cNewPos":[11,12]}
+{"cWhen":1.5810996788692439e9,"tag":"Move","cXWarp":11,"cNewPos":[11,11]}
+{"cWhen":1.5810996789029872e9,"tag":"Move","cXWarp":10,"cNewPos":[11,10]}
+{"cWhen":1.5810996789367576e9,"tag":"Move","cXWarp":9,"cNewPos":[11,9]}
+{"cWhen":1.5810996789700882e9,"tag":"Move","cXWarp":8,"cNewPos":[11,8]}
+{"cWhen":1.5810996793340752e9,"tag":"Change","cFrom":[11,7],"cText":[""],"cRemoved":["8"],"cOrigin":"+delete","cTo":[11,8],"cNewPos":[11,7]}
+{"cWhen":1.5810996793957603e9,"tag":"Change","cFrom":[11,7],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,7],"cNewPos":[11,8]}
+{"cWhen":1.5810996798829393e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099680289561e9,"tag":"Move","cXWarp":37,"cNewPos":[11,37]}
+{"cWhen":1.581099680526011e9,"tag":"Change","cFrom":[11,37],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[11,37],"cNewPos":[11,38]}
+{"cWhen":1.5810996811765175e9,"tag":"Change","cFrom":[11,38],"cText":["",""],"cRemoved":[""],"cOrigin":"+input","cTo":[11,38],"cNewPos":[12,0]}
+{"cWhen":1.581099681414573e9,"tag":"Change","cFrom":[12,0],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[12,0],"cNewPos":[12,1]}
+{"cWhen":1.581099681605123e9,"tag":"Change","cFrom":[12,1],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[12,1],"cNewPos":[12,2]}
+{"cWhen":1.5810996817742355e9,"tag":"Change","cFrom":[12,2],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[12,2],"cNewPos":[12,3]}
+{"cWhen":1.5810996819014914e9,"tag":"Change","cFrom":[12,3],"cText":["#"],"cRemoved":[""],"cOrigin":"+input","cTo":[12,3],"cNewPos":[12,4]}
+{"cWhen":1.581099682019532e9,"tag":"Change","cFrom":[12,4],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[12,4],"cNewPos":[12,5]}
+{"cWhen":1.5810996821170204e9,"tag":"Change","cFrom":[12,5],"cText":["g"],"cRemoved":[""],"cOrigin":"+input","cTo":[12,5],"cNewPos":[12,6]}
+{"cWhen":1.581099682208133e9,"tag":"Change","cFrom":[12,6],"cText":["a"],"cRemoved":[""],"cOrigin":"+input","cTo":[12,6],"cNewPos":[12,7]}
+{"cWhen":1.5810996822951035e9,"tag":"Change","cFrom":[12,7],"cText":["i"],"cRemoved":[""],"cOrigin":"+input","cTo":[12,7],"cNewPos":[12,8]}
+{"cWhen":1.581099682348738e9,"tag":"Change","cFrom":[12,8],"cText":["n"],"cRemoved":[""],"cOrigin":"+input","cTo":[12,8],"cNewPos":[12,9]}
+{"cWhen":1.581099682365081e9,"tag":"Change","cFrom":[12,9],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[12,9],"cNewPos":[12,10]}
+{"cWhen":1.5810996824594455e9,"tag":"Change","cFrom":[12,10],"cText":["1"],"cRemoved":[""],"cOrigin":"+input","cTo":[12,10],"cNewPos":[12,11]}
+{"cWhen":1.5810996825820093e9,"tag":"Change","cFrom":[12,11],"cText":["."],"cRemoved":[""],"cOrigin":"+input","cTo":[12,11],"cNewPos":[12,12]}
+{"cWhen":1.5810996826558888e9,"tag":"Change","cFrom":[12,12],"cText":["1"],"cRemoved":[""],"cOrigin":"+input","cTo":[12,12],"cNewPos":[12,13]}
+{"cWhen":1.5810996829419572e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810996832272258e9,"tag":"Move","cXWarp":13,"cNewPos":[11,13]}
+{"cWhen":1.5810996834463413e9,"tag":"Move","cXWarp":12,"cNewPos":[11,12]}
+{"cWhen":1.5810996836356616e9,"tag":"Move","cXWarp":11,"cNewPos":[11,11]}
+{"cWhen":1.5810996837873409e9,"tag":"Move","cXWarp":10,"cNewPos":[11,10]}
+{"cWhen":1.5810996839380608e9,"tag":"Move","cXWarp":9,"cNewPos":[11,9]}
+{"cWhen":1.581099684285147e9,"tag":"Change","cFrom":[11,9],"cText":["("],"cRemoved":[""],"cOrigin":"+input","cTo":[11,9],"cNewPos":[11,10]}
+{"cWhen":1.5810996844864016e9,"tag":"Move","cXWarp":11,"cNewPos":[11,11]}
+{"cWhen":1.5810996849868233e9,"tag":"Move","cXWarp":12,"cNewPos":[11,12]}
+{"cWhen":1.581099685020352e9,"tag":"Move","cXWarp":13,"cNewPos":[11,13]}
+{"cWhen":1.5810996850531394e9,"tag":"Move","cXWarp":14,"cNewPos":[11,14]}
+{"cWhen":1.5810996850867622e9,"tag":"Move","cXWarp":15,"cNewPos":[11,15]}
+{"cWhen":1.58109968511977e9,"tag":"Move","cXWarp":16,"cNewPos":[11,16]}
+{"cWhen":1.5810996851526344e9,"tag":"Move","cXWarp":17,"cNewPos":[11,17]}
+{"cWhen":1.5810996851856213e9,"tag":"Move","cXWarp":18,"cNewPos":[11,18]}
+{"cWhen":1.5810996854002614e9,"tag":"Move","cXWarp":19,"cNewPos":[11,19]}
+{"cWhen":1.5810996856759667e9,"tag":"Change","cFrom":[11,19],"cText":[")"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,19],"cNewPos":[11,20]}
+{"cWhen":1.581099685940043e9,"tag":"Move","cXWarp":19,"cNewPos":[11,19]}
+{"cWhen":1.5810996861431253e9,"tag":"Move","cXWarp":18,"cNewPos":[11,18]}
+{"cWhen":1.5810996864601872e9,"tag":"Change","cFrom":[11,18],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[11,18],"cNewPos":[11,19]}
+{"cWhen":1.5810996869425642e9,"tag":"Change","cFrom":[11,19],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,19],"cNewPos":[11,20]}
+{"cWhen":1.5810996870162423e9,"tag":"Change","cFrom":[11,20],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[11,20],"cNewPos":[11,21]}
+{"cWhen":1.581099687115547e9,"tag":"Change","cFrom":[11,21],"cText":["5"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,21],"cNewPos":[11,22]}
+{"cWhen":1.5810996872074275e9,"tag":"Change","cFrom":[11,22],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[11,22],"cNewPos":[11,23]}
+{"cWhen":1.5810996873384817e9,"tag":"Change","cFrom":[11,23],"cText":["6"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,23],"cNewPos":[11,24]}
+{"cWhen":1.5810996876052363e9,"tag":"Change","cFrom":[11,24],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[11,24],"cNewPos":[11,25]}
+{"cWhen":1.5810996877792473e9,"tag":"Change","cFrom":[11,25],"cText":["7"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,25],"cNewPos":[11,26]}
+{"cWhen":1.5810996881860087e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099688513418e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.5810996886888704e9,"tag":"Move","cXWarp":0,"cNewPos":[9,0]}
+{"cWhen":1.5810996888243732e9,"tag":"Move","cXWarp":13,"cNewPos":[9,13]}
+{"cWhen":1.5810996892880151e9,"tag":"Change","cFrom":[9,13],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[9,13],"cNewPos":[9,14]}
+{"cWhen":1.581099689374949e9,"tag":"Change","cFrom":[9,14],"cText":["#"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,14],"cNewPos":[9,15]}
+{"cWhen":1.5810996894650128e9,"tag":"Change","cFrom":[9,15],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[9,15],"cNewPos":[9,16]}
+{"cWhen":1.5810996898283143e9,"tag":"Change","cFrom":[9,16],"cText":["d"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,16],"cNewPos":[9,17]}
+{"cWhen":1.5810996899448054e9,"tag":"Change","cFrom":[9,17],"cText":["j"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,17],"cNewPos":[9,18]}
+{"cWhen":1.5810996900108256e9,"tag":"Change","cFrom":[9,18],"cText":["f"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,18],"cNewPos":[9,19]}
+{"cWhen":1.5810996901059475e9,"tag":"Change","cFrom":[9,19],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[9,19],"cNewPos":[9,20]}
+{"cWhen":1.5810996902115476e9,"tag":"Change","cFrom":[9,20],"cText":["0"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,20],"cNewPos":[9,21]}
+{"cWhen":1.5810996903208501e9,"tag":"Change","cFrom":[9,21],"cText":["."],"cRemoved":[""],"cOrigin":"+input","cTo":[9,21],"cNewPos":[9,22]}
+{"cWhen":1.5810996904817405e9,"tag":"Change","cFrom":[9,22],"cText":["8"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,22],"cNewPos":[9,23]}
+{"cWhen":1.5810996906722615e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810996921774323e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.5810996923837075e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.5810996925351334e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.5810996927160594e9,"tag":"Move","cXWarp":0,"cNewPos":[9,0]}
+{"cWhen":1.5810996928812296e9,"tag":"Move","cXWarp":0,"cNewPos":[8,0]}
+{"cWhen":1.5810996930192633e9,"tag":"Move","cXWarp":0,"cNewPos":[8,0]}
+{"cWhen":1.5810996932223892e9,"tag":"Change","cFrom":[8,0],"cText":["i"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,0],"cNewPos":[8,1]}
+{"cWhen":1.581099693303933e9,"tag":"Change","cFrom":[8,1],"cText":["t"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,1],"cNewPos":[8,2]}
+{"cWhen":1.5810996934180727e9,"tag":"Change","cFrom":[8,2],"cText":["e"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,2],"cNewPos":[8,3]}
+{"cWhen":1.581099693504849e9,"tag":"Change","cFrom":[8,3],"cText":["r"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,3],"cNewPos":[8,4]}
+{"cWhen":1.5810996936082027e9,"tag":"Change","cFrom":[8,4],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[8,4],"cNewPos":[8,5]}
+{"cWhen":1.5810996936335013e9,"tag":"Change","cFrom":[8,5],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,5],"cNewPos":[8,6]}
+{"cWhen":1.5810996938073623e9,"tag":"Change","cFrom":[8,6],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[8,6],"cNewPos":[8,7]}
+{"cWhen":1.5810996939134278e9,"tag":"Change","cFrom":[8,7],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,7],"cNewPos":[8,8]}
+{"cWhen":1.5810996940334811e9,"tag":"Change","cFrom":[8,8],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[8,8],"cNewPos":[8,9]}
+{"cWhen":1.581099694483311e9,"tag":"Change","cFrom":[8,8],"cText":[""],"cRemoved":[" "],"cOrigin":"+delete","cTo":[8,9],"cNewPos":[8,8]}
+{"cWhen":1.5810996946193745e9,"tag":"Change","cFrom":[8,7],"cText":[""],"cRemoved":["4"],"cOrigin":"+delete","cTo":[8,8],"cNewPos":[8,7]}
+{"cWhen":1.5810996947996004e9,"tag":"Change","cFrom":[8,7],"cText":["$"],"cRemoved":[""],"cOrigin":"+input","cTo":[8,7],"cNewPos":[8,8]}
+{"cWhen":1.5810996949084861e9,"tag":"Change","cFrom":[8,8],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[8,8],"cNewPos":[8,9]}
+{"cWhen":1.5810996951590688e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099695578464e9,"tag":"Move","cXWarp":9,"cNewPos":[9,9]}
+{"cWhen":1.5810996957712314e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.5810996960105553e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.5810996966185083e9,"tag":"Move","cXWarp":1,"cNewPos":[11,1]}
+{"cWhen":1.5810996971174867e9,"tag":"Move","cXWarp":2,"cNewPos":[11,2]}
+{"cWhen":1.581099697149772e9,"tag":"Move","cXWarp":3,"cNewPos":[11,3]}
+{"cWhen":1.5810996971822908e9,"tag":"Move","cXWarp":4,"cNewPos":[11,4]}
+{"cWhen":1.5810996972151635e9,"tag":"Move","cXWarp":5,"cNewPos":[11,5]}
+{"cWhen":1.581099697248965e9,"tag":"Move","cXWarp":6,"cNewPos":[11,6]}
+{"cWhen":1.5810996972826774e9,"tag":"Move","cXWarp":7,"cNewPos":[11,7]}
+{"cWhen":1.5810996973156662e9,"tag":"Move","cXWarp":8,"cNewPos":[11,8]}
+{"cWhen":1.5810996973484921e9,"tag":"Move","cXWarp":9,"cNewPos":[11,9]}
+{"cWhen":1.5810996977416365e9,"tag":"Move","cXWarp":10,"cNewPos":[11,10]}
+{"cWhen":1.5810996979360936e9,"tag":"Change","cFrom":[11,10],"cText":["s"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,10],"cNewPos":[11,11]}
+{"cWhen":1.5810996980325303e9,"tag":"Change","cFrom":[11,11],"cText":["l"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,11],"cNewPos":[11,12]}
+{"cWhen":1.581099698115807e9,"tag":"Change","cFrom":[11,12],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,12],"cNewPos":[11,13]}
+{"cWhen":1.5810996981856186e9,"tag":"Change","cFrom":[11,13],"cText":["w"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,13],"cNewPos":[11,14]}
+{"cWhen":1.581099698310007e9,"tag":"Change","cFrom":[11,14],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[11,14],"cNewPos":[11,15]}
+{"cWhen":1.5810996983695583e9,"tag":"Change","cFrom":[11,15],"cText":["2"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,15],"cNewPos":[11,16]}
+{"cWhen":1.5810996984885871e9,"tag":"Change","cFrom":[11,16],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[11,16],"cNewPos":[11,17]}
+{"cWhen":1.58109969862395e9,"tag":"Change","cFrom":[11,17],"cText":["$"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,17],"cNewPos":[11,18]}
+{"cWhen":1.581099698734671e9,"tag":"Change","cFrom":[11,18],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[11,18],"cNewPos":[11,19]}
+{"cWhen":1.5810996991365352e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810996999009976e9,"tag":"Move","cXWarp":18,"cNewPos":[11,18]}
+{"cWhen":1.5810997001385555e9,"tag":"Move","cXWarp":19,"cNewPos":[11,19]}
+{"cWhen":1.5810997005916843e9,"tag":"Move","cXWarp":18,"cNewPos":[11,18]}
+{"cWhen":1.5810997009152849e9,"tag":"Change","cFrom":[11,17],"cText":[""],"cRemoved":["$"],"cOrigin":"+delete","cTo":[11,18],"cNewPos":[11,17]}
+{"cWhen":1.5810997010047479e9,"tag":"Change","cFrom":[11,17],"cText":["5"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,17],"cNewPos":[11,18]}
+{"cWhen":1.5810997014887404e9,"tag":"Change","cFrom":[11,17],"cText":[""],"cRemoved":["5"],"cOrigin":"+delete","cTo":[11,18],"cNewPos":[11,17]}
+{"cWhen":1.5810997020879383e9,"tag":"Change","cFrom":[11,17],"cText":["$"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,17],"cNewPos":[11,18]}
+{"cWhen":1.5810997023626306e9,"tag":"Move","cXWarp":17,"cNewPos":[11,17]}
+{"cWhen":1.5810997025469005e9,"tag":"Move","cXWarp":16,"cNewPos":[11,16]}
+{"cWhen":1.581099702783933e9,"tag":"Change","cFrom":[11,15],"cText":[""],"cRemoved":["2"],"cOrigin":"+delete","cTo":[11,16],"cNewPos":[11,15]}
+{"cWhen":1.5810997028873036e9,"tag":"Change","cFrom":[11,15],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,15],"cNewPos":[11,16]}
+{"cWhen":1.581099703191918e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099703822188e9,"tag":"Move","cXWarp":17,"cNewPos":[11,17]}
+{"cWhen":1.5810997043186865e9,"tag":"Move","cXWarp":18,"cNewPos":[11,18]}
+{"cWhen":1.5810997043518355e9,"tag":"Move","cXWarp":19,"cNewPos":[11,19]}
+{"cWhen":1.581099704385054e9,"tag":"Move","cXWarp":20,"cNewPos":[11,20]}
+{"cWhen":1.5810997044188638e9,"tag":"Move","cXWarp":21,"cNewPos":[11,21]}
+{"cWhen":1.5810997044529989e9,"tag":"Move","cXWarp":22,"cNewPos":[11,22]}
+{"cWhen":1.5810997044868634e9,"tag":"Move","cXWarp":23,"cNewPos":[11,23]}
+{"cWhen":1.5810997045206914e9,"tag":"Move","cXWarp":24,"cNewPos":[11,24]}
+{"cWhen":1.581099704553467e9,"tag":"Move","cXWarp":25,"cNewPos":[11,25]}
+{"cWhen":1.5810997045864666e9,"tag":"Move","cXWarp":26,"cNewPos":[11,26]}
+{"cWhen":1.5810997047689152e9,"tag":"Move","cXWarp":25,"cNewPos":[11,25]}
+{"cWhen":1.5810997049956923e9,"tag":"Move","cXWarp":24,"cNewPos":[11,24]}
+{"cWhen":1.5810997057192013e9,"tag":"Move","cXWarp":25,"cNewPos":[11,25]}
+{"cWhen":1.5810997098362508e9,"tag":"Move","cXWarp":24,"cNewPos":[11,24]}
+{"cWhen":1.5810997103369317e9,"tag":"Move","cXWarp":23,"cNewPos":[11,23]}
+{"cWhen":1.5810997103699799e9,"tag":"Move","cXWarp":22,"cNewPos":[11,22]}
+{"cWhen":1.5810997104040017e9,"tag":"Move","cXWarp":21,"cNewPos":[11,21]}
+{"cWhen":1.5810997104374976e9,"tag":"Move","cXWarp":20,"cNewPos":[11,20]}
+{"cWhen":1.581099710470293e9,"tag":"Move","cXWarp":19,"cNewPos":[11,19]}
+{"cWhen":1.5810997105038884e9,"tag":"Move","cXWarp":18,"cNewPos":[11,18]}
+{"cWhen":1.5810997105372314e9,"tag":"Move","cXWarp":17,"cNewPos":[11,17]}
+{"cWhen":1.581099711565578e9,"tag":"Move","cXWarp":16,"cNewPos":[11,16]}
+{"cWhen":1.58109971174583e9,"tag":"Move","cXWarp":15,"cNewPos":[11,15]}
+{"cWhen":1.581099711889889e9,"tag":"Move","cXWarp":14,"cNewPos":[11,14]}
+{"cWhen":1.5810997120326855e9,"tag":"Move","cXWarp":13,"cNewPos":[11,13]}
+{"cWhen":1.5810997121843262e9,"tag":"Move","cXWarp":12,"cNewPos":[11,12]}
+{"cWhen":1.5810997123372102e9,"tag":"Move","cXWarp":11,"cNewPos":[11,11]}
+{"cWhen":1.581099712500189e9,"tag":"Move","cXWarp":10,"cNewPos":[11,10]}
+{"cWhen":1.581099712655613e9,"tag":"Move","cXWarp":9,"cNewPos":[11,9]}
+{"cWhen":1.5810997128115375e9,"tag":"Move","cXWarp":8,"cNewPos":[11,8]}
+{"cWhen":1.5810997129915667e9,"tag":"Change","cFrom":[11,7],"cText":[""],"cRemoved":["4"],"cOrigin":"+delete","cTo":[11,8],"cNewPos":[11,7]}
+{"cWhen":1.5810997133044765e9,"tag":"Change","cFrom":[11,7],"cText":["8"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,7],"cNewPos":[11,8]}
+{"cWhen":1.5810997135250382e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810997147140675e9,"tag":"Move","cXWarp":9,"cNewPos":[11,9]}
+{"cWhen":1.581099715211282e9,"tag":"Move","cXWarp":10,"cNewPos":[11,10]}
+{"cWhen":1.5810997152443035e9,"tag":"Move","cXWarp":11,"cNewPos":[11,11]}
+{"cWhen":1.581099715277223e9,"tag":"Move","cXWarp":12,"cNewPos":[11,12]}
+{"cWhen":1.5810997153108559e9,"tag":"Move","cXWarp":13,"cNewPos":[11,13]}
+{"cWhen":1.5810997153437254e9,"tag":"Move","cXWarp":14,"cNewPos":[11,14]}
+{"cWhen":1.5810997153762689e9,"tag":"Move","cXWarp":15,"cNewPos":[11,15]}
+{"cWhen":1.5810997154095824e9,"tag":"Move","cXWarp":16,"cNewPos":[11,16]}
+{"cWhen":1.5810997157318614e9,"tag":"Change","cFrom":[11,15],"cText":[""],"cRemoved":["4"],"cOrigin":"+delete","cTo":[11,16],"cNewPos":[11,15]}
+{"cWhen":1.5810997157924757e9,"tag":"Change","cFrom":[11,15],"cText":["2"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,15],"cNewPos":[11,16]}
+{"cWhen":1.5810997160227048e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810997196659644e9,"tag":"Move","cXWarp":57,"cNewPos":[11,57]}
+{"cWhen":1.5810997204069886e9,"tag":"Change","cFrom":[11,56],"cText":[""],"cRemoved":[" "],"cOrigin":"+delete","cTo":[11,57],"cNewPos":[11,56]}
+{"cWhen":1.581099720558978e9,"tag":"Change","cFrom":[11,55],"cText":[""],"cRemoved":[" "],"cOrigin":"+delete","cTo":[11,56],"cNewPos":[11,55]}
+{"cWhen":1.5810997207142558e9,"tag":"Change","cFrom":[11,54],"cText":[""],"cRemoved":[" "],"cOrigin":"+delete","cTo":[11,55],"cNewPos":[11,54]}
+{"cWhen":1.5810997208690355e9,"tag":"Change","cFrom":[11,53],"cText":[""],"cRemoved":[" "],"cOrigin":"+delete","cTo":[11,54],"cNewPos":[11,53]}
+{"cWhen":1.581099721784582e9,"tag":"Move","cXWarp":13,"cNewPos":[12,13]}
+{"cWhen":1.5810997222686098e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.581099722626838e9,"tag":"Move","cXWarp":13,"cNewPos":[12,13]}
+{"cWhen":1.5810997228046424e9,"tag":"Change","cFrom":[12,13],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[12,13],"cNewPos":[12,14]}
+{"cWhen":1.5810997229022188e9,"tag":"Change","cFrom":[12,14],"cText":["#"],"cRemoved":[""],"cOrigin":"+input","cTo":[12,14],"cNewPos":[12,15]}
+{"cWhen":1.5810997229983485e9,"tag":"Change","cFrom":[12,15],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[12,15],"cNewPos":[12,16]}
+{"cWhen":1.5810997232166388e9,"tag":"Change","cFrom":[12,16],"cText":["n"],"cRemoved":[""],"cOrigin":"+input","cTo":[12,16],"cNewPos":[12,17]}
+{"cWhen":1.5810997232820897e9,"tag":"Change","cFrom":[12,17],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[12,17],"cNewPos":[12,18]}
+{"cWhen":1.5810997234898305e9,"tag":"Change","cFrom":[12,18],"cText":["7"],"cRemoved":[""],"cOrigin":"+input","cTo":[12,18],"cNewPos":[12,19]}
+{"cWhen":1.581099723850644e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810997266078138e9,"tag":"Move","cXWarp":19,"cNewPos":[12,19]}
+{"cWhen":1.5810997269637218e9,"tag":"Move","cXWarp":19,"cNewPos":[11,19]}
+{"cWhen":1.5810997271951962e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.5810997274190655e9,"tag":"Move","cXWarp":0,"cNewPos":[9,0]}
+{"cWhen":1.581099727686981e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.581099727939341e9,"tag":"Move","cXWarp":0,"cNewPos":[9,0]}
+{"cWhen":1.5810997281654594e9,"tag":"Move","cXWarp":0,"cNewPos":[8,0]}
+{"cWhen":1.5810997284379852e9,"tag":"Move","cXWarp":0,"cNewPos":[9,0]}
+{"cWhen":1.5810997286327388e9,"tag":"Move","cXWarp":0,"cNewPos":[8,0]}
+{"cWhen":1.5810997288220315e9,"tag":"Move","cXWarp":0,"cNewPos":[7,0]}
+{"cWhen":1.5810997293284178e9,"tag":"Move","cXWarp":0,"cNewPos":[6,0]}
+{"cWhen":1.5810997295789275e9,"tag":"Move","cXWarp":0,"cNewPos":[7,0]}
+{"cWhen":1.5810997299832118e9,"tag":"MuteToggle","cOrbit":3}
+{"cWhen":1.5810997299832118e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810997364368453e9,"tag":"Move","cXWarp":0,"cNewPos":[8,0]}
+{"cWhen":1.581099737106876e9,"tag":"Move","cXWarp":0,"cNewPos":[7,0]}
+{"cWhen":1.5810997383350248e9,"tag":"MuteToggle","cOrbit":1}
+{"cWhen":1.5810997383350248e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810997404032183e9,"tag":"MuteToggle","cOrbit":2}
+{"cWhen":1.5810997404032183e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810997417849753e9,"tag":"Move","cXWarp":0,"cNewPos":[7,0]}
+{"cWhen":1.5810997420238357e9,"tag":"Move","cXWarp":0,"cNewPos":[8,0]}
+{"cWhen":1.5810997422083702e9,"tag":"Move","cXWarp":0,"cNewPos":[9,0]}
+{"cWhen":1.5810997423899348e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.5810997425872176e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.5810997427992504e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.5810997430821774e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.5810997432576993e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.581099743427088e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.5810997435730798e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.5810997440872166e9,"tag":"Move","cXWarp":19,"cNewPos":[12,19]}
+{"cWhen":1.5810997442747262e9,"tag":"Change","cFrom":[12,19],"cText":["",""],"cRemoved":[""],"cOrigin":"+input","cTo":[12,19],"cNewPos":[13,0]}
+{"cWhen":1.581099744444495e9,"tag":"Change","cFrom":[13,0],"cText":["",""],"cRemoved":[""],"cOrigin":"+input","cTo":[13,0],"cNewPos":[14,0]}
+{"cWhen":1.581099744632421e9,"tag":"Change","cFrom":[14,0],"cText":["s"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,0],"cNewPos":[14,1]}
+{"cWhen":1.5810997447336051e9,"tag":"Change","cFrom":[14,1],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,1],"cNewPos":[14,2]}
+{"cWhen":1.5810997447990098e9,"tag":"Change","cFrom":[14,2],"cText":["u"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,2],"cNewPos":[14,3]}
+{"cWhen":1.581099744914371e9,"tag":"Change","cFrom":[14,3],"cText":["n"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,3],"cNewPos":[14,4]}
+{"cWhen":1.581099744922723e9,"tag":"Change","cFrom":[14,4],"cText":["d"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,4],"cNewPos":[14,5]}
+{"cWhen":1.581099744967238e9,"tag":"Change","cFrom":[14,5],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[14,5],"cNewPos":[14,6]}
+{"cWhen":1.5810997451219397e9,"tag":"Change","cFrom":[14,6],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[14,6],"cNewPos":[14,7]}
+{"cWhen":1.581099745333448e9,"tag":"Change","cFrom":[14,7],"cText":["a"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,7],"cNewPos":[14,8]}
+{"cWhen":1.5810997454174042e9,"tag":"Change","cFrom":[14,8],"cText":["r"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,8],"cNewPos":[14,9]}
+{"cWhen":1.5810997455845723e9,"tag":"Change","cFrom":[14,9],"cText":["c"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,9],"cNewPos":[14,10]}
+{"cWhen":1.5810997457461953e9,"tag":"Change","cFrom":[14,10],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[14,10],"cNewPos":[14,11]}
+{"cWhen":1.581099745971041e9,"tag":"Move","cXWarp":0,"cNewPos":[14,0]}
+{"cWhen":1.5810997462381048e9,"tag":"Change","cFrom":[14,0],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,0],"cNewPos":[14,1]}
+{"cWhen":1.5810997463709028e9,"tag":"Change","cFrom":[14,1],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,1],"cNewPos":[14,2]}
+{"cWhen":1.5810997464643886e9,"tag":"Change","cFrom":[14,2],"cText":["p"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,2],"cNewPos":[14,3]}
+{"cWhen":1.5810997466429443e9,"tag":"Change","cFrom":[14,3],"cText":["A"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,3],"cNewPos":[14,4]}
+{"cWhen":1.5810997468743105e9,"tag":"Change","cFrom":[14,3],"cText":[""],"cRemoved":["A"],"cOrigin":"+delete","cTo":[14,4],"cNewPos":[14,3]}
+{"cWhen":1.5810997470112479e9,"tag":"Change","cFrom":[14,2],"cText":[""],"cRemoved":["p"],"cOrigin":"+delete","cTo":[14,3],"cNewPos":[14,2]}
+{"cWhen":1.581099747153251e9,"tag":"Change","cFrom":[14,1],"cText":[""],"cRemoved":["o"],"cOrigin":"+delete","cTo":[14,2],"cNewPos":[14,1]}
+{"cWhen":1.5810997472927506e9,"tag":"Change","cFrom":[14,0],"cText":[""],"cRemoved":["o"],"cOrigin":"+delete","cTo":[14,1],"cNewPos":[14,0]}
+{"cWhen":1.581099747516261e9,"tag":"Change","cFrom":[14,0],"cText":["l"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,0],"cNewPos":[14,1]}
+{"cWhen":1.581099747699596e9,"tag":"Change","cFrom":[14,1],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,1],"cNewPos":[14,2]}
+{"cWhen":1.5810997478318725e9,"tag":"Change","cFrom":[14,2],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,2],"cNewPos":[14,3]}
+{"cWhen":1.581099747913908e9,"tag":"Change","cFrom":[14,3],"cText":["p"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,3],"cNewPos":[14,4]}
+{"cWhen":1.5810997480980966e9,"tag":"Change","cFrom":[14,4],"cText":["A"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,4],"cNewPos":[14,5]}
+{"cWhen":1.5810997483002148e9,"tag":"Change","cFrom":[14,5],"cText":["t"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,5],"cNewPos":[14,6]}
+{"cWhen":1.5810997483918748e9,"tag":"Change","cFrom":[14,6],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[14,6],"cNewPos":[14,7]}
+{"cWhen":1.5810997484968271e9,"tag":"Change","cFrom":[14,7],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,7],"cNewPos":[14,8]}
+{"cWhen":1.581099748589648e9,"tag":"Change","cFrom":[14,8],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[14,8],"cNewPos":[14,9]}
+{"cWhen":1.5810997488066113e9,"tag":"Change","cFrom":[14,9],"cText":["$"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,9],"cNewPos":[14,10]}
+{"cWhen":1.5810997489417663e9,"tag":"Change","cFrom":[14,10],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[14,10],"cNewPos":[14,11]}
+{"cWhen":1.5810997494042966e9,"tag":"Change","cFrom":[14,11],"cText":["c"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,11],"cNewPos":[14,12]}
+{"cWhen":1.5810997494683533e9,"tag":"Change","cFrom":[14,12],"cText":["h"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,12],"cNewPos":[14,13]}
+{"cWhen":1.581099749575653e9,"tag":"Change","cFrom":[14,13],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,13],"cNewPos":[14,14]}
+{"cWhen":1.5810997496171167e9,"tag":"Change","cFrom":[14,14],"cText":["p"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,14],"cNewPos":[14,15]}
+{"cWhen":1.5810997497039723e9,"tag":"Change","cFrom":[14,15],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[14,15],"cNewPos":[14,16]}
+{"cWhen":1.5810997498488665e9,"tag":"Change","cFrom":[14,16],"cText":["8"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,16],"cNewPos":[14,17]}
+{"cWhen":1.5810997499728663e9,"tag":"Change","cFrom":[14,17],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[14,17],"cNewPos":[14,18]}
+{"cWhen":1.5810997501017067e9,"tag":"Change","cFrom":[14,18],"cText":["$"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,18],"cNewPos":[14,19]}
+{"cWhen":1.581099750203113e9,"tag":"Change","cFrom":[14,19],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[14,19],"cNewPos":[14,20]}
+{"cWhen":1.5810997504926975e9,"tag":"Change","cFrom":[14,20],"cText":["",""],"cRemoved":[""],"cOrigin":"+input","cTo":[14,20],"cNewPos":[15,0]}
+{"cWhen":1.5810997509391408e9,"tag":"Change","cFrom":[14,20],"cText":[""],"cRemoved":["",""],"cOrigin":"+delete","cTo":[15,0],"cNewPos":[14,20]}
+{"cWhen":1.5810997515858488e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810997520856621e9,"tag":"Move","cXWarp":31,"cNewPos":[14,31]}
+{"cWhen":1.581099752706446e9,"tag":"Change","cFrom":[14,31],"cText":["",""],"cRemoved":[""],"cOrigin":"+input","cTo":[14,31],"cNewPos":[15,0]}
+{"cWhen":1.5810997531180105e9,"tag":"Change","cFrom":[15,0],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[15,0],"cNewPos":[15,1]}
+{"cWhen":1.5810997533378274e9,"tag":"Change","cFrom":[15,1],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[15,1],"cNewPos":[15,2]}
+{"cWhen":1.5810997534929502e9,"tag":"Change","cFrom":[15,2],"cText":["#"],"cRemoved":[""],"cOrigin":"+input","cTo":[15,2],"cNewPos":[15,3]}
+{"cWhen":1.5810997535832715e9,"tag":"Change","cFrom":[15,3],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[15,3],"cNewPos":[15,4]}
+{"cWhen":1.5810997536692178e9,"tag":"Change","cFrom":[15,4],"cText":["g"],"cRemoved":[""],"cOrigin":"+input","cTo":[15,4],"cNewPos":[15,5]}
+{"cWhen":1.5810997537442048e9,"tag":"Change","cFrom":[15,5],"cText":["a"],"cRemoved":[""],"cOrigin":"+input","cTo":[15,5],"cNewPos":[15,6]}
+{"cWhen":1.5810997538211405e9,"tag":"Change","cFrom":[15,6],"cText":["i"],"cRemoved":[""],"cOrigin":"+input","cTo":[15,6],"cNewPos":[15,7]}
+{"cWhen":1.5810997538836684e9,"tag":"Change","cFrom":[15,7],"cText":["n"],"cRemoved":[""],"cOrigin":"+input","cTo":[15,7],"cNewPos":[15,8]}
+{"cWhen":1.581099753922408e9,"tag":"Change","cFrom":[15,8],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[15,8],"cNewPos":[15,9]}
+{"cWhen":1.5810997540042768e9,"tag":"Change","cFrom":[15,9],"cText":["1"],"cRemoved":[""],"cOrigin":"+input","cTo":[15,9],"cNewPos":[15,10]}
+{"cWhen":1.5810997541130066e9,"tag":"Change","cFrom":[15,10],"cText":["."],"cRemoved":[""],"cOrigin":"+input","cTo":[15,10],"cNewPos":[15,11]}
+{"cWhen":1.5810997545543954e9,"tag":"Move","cXWarp":11,"cNewPos":[14,11]}
+{"cWhen":1.5810997548394046e9,"tag":"Move","cXWarp":10,"cNewPos":[14,10]}
+{"cWhen":1.5810997550275152e9,"tag":"Move","cXWarp":9,"cNewPos":[14,9]}
+{"cWhen":1.581099755178669e9,"tag":"Move","cXWarp":8,"cNewPos":[14,8]}
+{"cWhen":1.5810997552870145e9,"tag":"Change","cFrom":[14,7],"cText":[""],"cRemoved":["4"],"cOrigin":"+delete","cTo":[14,8],"cNewPos":[14,7]}
+{"cWhen":1.5810997553766418e9,"tag":"Change","cFrom":[14,7],"cText":["2"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,7],"cNewPos":[14,8]}
+{"cWhen":1.5810997557905686e9,"tag":"Move","cXWarp":31,"cNewPos":[14,31]}
+{"cWhen":1.5810997560192502e9,"tag":"Move","cXWarp":11,"cNewPos":[15,11]}
+{"cWhen":1.5810997562051268e9,"tag":"Move","cXWarp":11,"cNewPos":[15,11]}
+{"cWhen":1.5810997565477395e9,"tag":"Change","cFrom":[15,11],"cText":["1"],"cRemoved":[""],"cOrigin":"+input","cTo":[15,11],"cNewPos":[15,12]}
+{"cWhen":1.5810997571854167e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810997576337109e9,"tag":"Move","cXWarp":0,"cNewPos":[15,0]}
+{"cWhen":1.5810997577584398e9,"tag":"Move","cXWarp":0,"cNewPos":[14,0]}
+{"cWhen":1.5810997585474913e9,"tag":"Change","cFrom":[14,0],"cText":["c"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,0],"cNewPos":[14,1]}
+{"cWhen":1.5810997586212196e9,"tag":"Change","cFrom":[14,1],"cText":["h"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,1],"cNewPos":[14,2]}
+{"cWhen":1.5810997586627328e9,"tag":"Change","cFrom":[14,2],"cText":["u"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,2],"cNewPos":[14,3]}
+{"cWhen":1.5810997588502712e9,"tag":"Change","cFrom":[14,3],"cText":["n"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,3],"cNewPos":[14,4]}
+{"cWhen":1.581099758890031e9,"tag":"Change","cFrom":[14,4],"cText":["k"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,4],"cNewPos":[14,5]}
+{"cWhen":1.581099759030311e9,"tag":"Change","cFrom":[14,5],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[14,5],"cNewPos":[14,6]}
+{"cWhen":1.5810997591556132e9,"tag":"Change","cFrom":[14,6],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,6],"cNewPos":[14,7]}
+{"cWhen":1.5810997592772455e9,"tag":"Change","cFrom":[14,7],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[14,7],"cNewPos":[14,8]}
+{"cWhen":1.581099759435187e9,"tag":"Change","cFrom":[14,8],"cText":["("],"cRemoved":[""],"cOrigin":"+input","cTo":[14,8],"cNewPos":[14,9]}
+{"cWhen":1.58109975954263e9,"tag":"Change","cFrom":[14,9],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[14,9],"cNewPos":[14,10]}
+{"cWhen":1.5810997595517344e9,"tag":"Change","cFrom":[14,10],"cText":[")"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,10],"cNewPos":[14,11]}
+{"cWhen":1.581099759704506e9,"tag":"Change","cFrom":[14,11],"cText":["$"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,11],"cNewPos":[14,12]}
+{"cWhen":1.5810997597855139e9,"tag":"Change","cFrom":[14,12],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[14,12],"cNewPos":[14,13]}
+{"cWhen":1.5810997602729156e9,"tag":"Move","cXWarp":12,"cNewPos":[14,12]}
+{"cWhen":1.581099760445894e9,"tag":"Move","cXWarp":11,"cNewPos":[14,11]}
+{"cWhen":1.5810997608351033e9,"tag":"Move","cXWarp":10,"cNewPos":[14,10]}
+{"cWhen":1.581099761052514e9,"tag":"Change","cFrom":[14,9],"cText":[""],"cRemoved":[" "],"cOrigin":"+delete","cTo":[14,10],"cNewPos":[14,9]}
+{"cWhen":1.5810997613315828e9,"tag":"Change","cFrom":[14,9],"cText":["h"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,9],"cNewPos":[14,10]}
+{"cWhen":1.5810997613982983e9,"tag":"Change","cFrom":[14,10],"cText":["u"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,10],"cNewPos":[14,11]}
+{"cWhen":1.5810997615009322e9,"tag":"Change","cFrom":[14,11],"cText":["r"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,11],"cNewPos":[14,12]}
+{"cWhen":1.5810997616311312e9,"tag":"Change","cFrom":[14,12],"cText":["r"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,12],"cNewPos":[14,13]}
+{"cWhen":1.5810997616978753e9,"tag":"Change","cFrom":[14,13],"cText":["y"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,13],"cNewPos":[14,14]}
+{"cWhen":1.5810997617601933e9,"tag":"Change","cFrom":[14,14],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[14,14],"cNewPos":[14,15]}
+{"cWhen":1.581099761845605e9,"tag":"Change","cFrom":[14,15],"cText":["2"],"cRemoved":[""],"cOrigin":"+input","cTo":[14,15],"cNewPos":[14,16]}
+{"cWhen":1.5810997620804877e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810997626017942e9,"tag":"Move","cXWarp":17,"cNewPos":[14,17]}
+{"cWhen":1.5810997629533587e9,"tag":"Change","cFrom":[14,17],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[14,17],"cNewPos":[14,18]}
+{"cWhen":1.5810997632537413e9,"tag":"Move","cXWarp":51,"cNewPos":[14,51]}
+{"cWhen":1.5810997634322784e9,"tag":"Move","cXWarp":12,"cNewPos":[15,12]}
+{"cWhen":1.5810997638157718e9,"tag":"Change","cFrom":[15,12],"cText":["",""],"cRemoved":[""],"cOrigin":"+input","cTo":[15,12],"cNewPos":[16,0]}
+{"cWhen":1.5810997639915073e9,"tag":"Change","cFrom":[16,0],"cText":["",""],"cRemoved":[""],"cOrigin":"+input","cTo":[16,0],"cNewPos":[17,0]}
+{"cWhen":1.5810997641648166e9,"tag":"Change","cFrom":[17,0],"cText":["s"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,0],"cNewPos":[17,1]}
+{"cWhen":1.581099764285438e9,"tag":"Change","cFrom":[17,1],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,1],"cNewPos":[17,2]}
+{"cWhen":1.5810997643481553e9,"tag":"Change","cFrom":[17,2],"cText":["u"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,2],"cNewPos":[17,3]}
+{"cWhen":1.5810997644403603e9,"tag":"Change","cFrom":[17,3],"cText":["n"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,3],"cNewPos":[17,4]}
+{"cWhen":1.5810997644506338e9,"tag":"Change","cFrom":[17,4],"cText":["d"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,4],"cNewPos":[17,5]}
+{"cWhen":1.58109976452126e9,"tag":"Change","cFrom":[17,5],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[17,5],"cNewPos":[17,6]}
+{"cWhen":1.5810997646599793e9,"tag":"Change","cFrom":[17,6],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[17,6],"cNewPos":[17,7]}
+{"cWhen":1.581099764972808e9,"tag":"Change","cFrom":[17,7],"cText":["p"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,7],"cNewPos":[17,8]}
+{"cWhen":1.5810997650754118e9,"tag":"Change","cFrom":[17,8],"cText":["h"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,8],"cNewPos":[17,9]}
+{"cWhen":1.581099765261887e9,"tag":"Change","cFrom":[17,9],"cText":["k"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,9],"cNewPos":[17,10]}
+{"cWhen":1.5810997654174187e9,"tag":"Change","cFrom":[17,10],"cText":["i"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,10],"cNewPos":[17,11]}
+{"cWhen":1.5810997655221488e9,"tag":"Change","cFrom":[17,11],"cText":["c"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,11],"cNewPos":[17,12]}
+{"cWhen":1.5810997655983548e9,"tag":"Change","cFrom":[17,12],"cText":["k"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,12],"cNewPos":[17,13]}
+{"cWhen":1.5810997658371773e9,"tag":"Change","cFrom":[17,13],"cText":["("],"cRemoved":[""],"cOrigin":"+input","cTo":[17,13],"cNewPos":[17,14]}
+{"cWhen":1.5810997660338416e9,"tag":"Change","cFrom":[17,14],"cText":["3"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,14],"cNewPos":[17,15]}
+{"cWhen":1.5810997660784097e9,"tag":"Change","cFrom":[17,15],"cText":[","],"cRemoved":[""],"cOrigin":"+input","cTo":[17,15],"cNewPos":[17,16]}
+{"cWhen":1.5810997662905877e9,"tag":"Change","cFrom":[17,16],"cText":["8"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,16],"cNewPos":[17,17]}
+{"cWhen":1.5810997665084815e9,"tag":"Change","cFrom":[17,17],"cText":[")"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,17],"cNewPos":[17,18]}
+{"cWhen":1.5810997666313453e9,"tag":"Change","cFrom":[17,18],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[17,18],"cNewPos":[17,19]}
+{"cWhen":1.5810997670041597e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810997672462504e9,"tag":"Change","cFrom":[17,19],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[17,19],"cNewPos":[17,20]}
+{"cWhen":1.5810997673245864e9,"tag":"Change","cFrom":[17,20],"cText":["#"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,20],"cNewPos":[17,21]}
+{"cWhen":1.5810997674278727e9,"tag":"Change","cFrom":[17,21],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[17,21],"cNewPos":[17,22]}
+{"cWhen":1.5810997675702624e9,"tag":"Change","cFrom":[17,22],"cText":["s"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,22],"cNewPos":[17,23]}
+{"cWhen":1.581099767633715e9,"tag":"Change","cFrom":[17,23],"cText":["h"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,23],"cNewPos":[17,24]}
+{"cWhen":1.581099767733882e9,"tag":"Change","cFrom":[17,24],"cText":["a"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,24],"cNewPos":[17,25]}
+{"cWhen":1.5810997678153884e9,"tag":"Change","cFrom":[17,25],"cText":["p"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,25],"cNewPos":[17,26]}
+{"cWhen":1.5810997679081984e9,"tag":"Change","cFrom":[17,26],"cText":["e"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,26],"cNewPos":[17,27]}
+{"cWhen":1.5810997679710672e9,"tag":"Change","cFrom":[17,27],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[17,27],"cNewPos":[17,28]}
+{"cWhen":1.5810997681011877e9,"tag":"Change","cFrom":[17,28],"cText":["0"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,28],"cNewPos":[17,29]}
+{"cWhen":1.5810997681904018e9,"tag":"Change","cFrom":[17,29],"cText":["."],"cRemoved":[""],"cOrigin":"+input","cTo":[17,29],"cNewPos":[17,30]}
+{"cWhen":1.581099768221127e9,"tag":"Change","cFrom":[17,30],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,30],"cNewPos":[17,31]}
+{"cWhen":1.5810997686108677e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810997692749996e9,"tag":"Change","cFrom":[17,30],"cText":[""],"cRemoved":["4"],"cOrigin":"+delete","cTo":[17,31],"cNewPos":[17,30]}
+{"cWhen":1.5810997695646012e9,"tag":"Change","cFrom":[17,30],"cText":["8"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,30],"cNewPos":[17,31]}
+{"cWhen":1.5810997698289783e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.58109977138524e9,"tag":"Move","cXWarp":0,"cNewPos":[17,0]}
+{"cWhen":1.5810997722790163e9,"tag":"Change","cFrom":[17,0],"cText":["i"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,0],"cNewPos":[17,1]}
+{"cWhen":1.5810997723333597e9,"tag":"Change","cFrom":[17,1],"cText":["t"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,1],"cNewPos":[17,2]}
+{"cWhen":1.5810997725874155e9,"tag":"Change","cFrom":[17,2],"cText":["e"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,2],"cNewPos":[17,3]}
+{"cWhen":1.5810997726183078e9,"tag":"Change","cFrom":[17,3],"cText":["r"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,3],"cNewPos":[17,4]}
+{"cWhen":1.5810997729893198e9,"tag":"Change","cFrom":[17,3],"cText":[""],"cRemoved":["r"],"cOrigin":"+delete","cTo":[17,4],"cNewPos":[17,3]}
+{"cWhen":1.5810997737404227e9,"tag":"Change","cFrom":[17,2],"cText":[""],"cRemoved":["e"],"cOrigin":"+delete","cTo":[17,3],"cNewPos":[17,2]}
+{"cWhen":1.5810997738892245e9,"tag":"Change","cFrom":[17,1],"cText":[""],"cRemoved":["t"],"cOrigin":"+delete","cTo":[17,2],"cNewPos":[17,1]}
+{"cWhen":1.5810997740483844e9,"tag":"Change","cFrom":[17,0],"cText":[""],"cRemoved":["i"],"cOrigin":"+delete","cTo":[17,1],"cNewPos":[17,0]}
+{"cWhen":1.5810997742289157e9,"tag":"Change","cFrom":[17,0],"cText":["s"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,0],"cNewPos":[17,1]}
+{"cWhen":1.581099774298918e9,"tag":"Change","cFrom":[17,1],"cText":["t"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,1],"cNewPos":[17,2]}
+{"cWhen":1.5810997744016995e9,"tag":"Change","cFrom":[17,2],"cText":["u"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,2],"cNewPos":[17,3]}
+{"cWhen":1.581099774477524e9,"tag":"Change","cFrom":[17,3],"cText":["t"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,3],"cNewPos":[17,4]}
+{"cWhen":1.58109977459806e9,"tag":"Change","cFrom":[17,4],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[17,4],"cNewPos":[17,5]}
+{"cWhen":1.5810997746290276e9,"tag":"Change","cFrom":[17,5],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,5],"cNewPos":[17,6]}
+{"cWhen":1.5810997748100536e9,"tag":"Change","cFrom":[17,6],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[17,6],"cNewPos":[17,7]}
+{"cWhen":1.5810997750686615e9,"tag":"Change","cFrom":[17,7],"cText":["("],"cRemoved":[""],"cOrigin":"+input","cTo":[17,7],"cNewPos":[17,8]}
+{"cWhen":1.58109977518007e9,"tag":"Change","cFrom":[17,8],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[17,8],"cNewPos":[17,9]}
+{"cWhen":1.5810997751988947e9,"tag":"Change","cFrom":[17,9],"cText":[")"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,9],"cNewPos":[17,10]}
+{"cWhen":1.5810997752325342e9,"tag":"Change","cFrom":[17,10],"cText":["$"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,10],"cNewPos":[17,11]}
+{"cWhen":1.5810997753961961e9,"tag":"Change","cFrom":[17,11],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[17,11],"cNewPos":[17,12]}
+{"cWhen":1.5810997761131783e9,"tag":"Move","cXWarp":11,"cNewPos":[17,11]}
+{"cWhen":1.5810997763134103e9,"tag":"Move","cXWarp":10,"cNewPos":[17,10]}
+{"cWhen":1.5810997765714877e9,"tag":"Change","cFrom":[17,10],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[17,10],"cNewPos":[17,11]}
+{"cWhen":1.581099777145302e9,"tag":"Move","cXWarp":10,"cNewPos":[17,10]}
+{"cWhen":1.5810997773050153e9,"tag":"Move","cXWarp":9,"cNewPos":[17,9]}
+{"cWhen":1.5810997777109954e9,"tag":"Move","cXWarp":10,"cNewPos":[17,10]}
+{"cWhen":1.5810997783680224e9,"tag":"Change","cFrom":[17,9],"cText":[""],"cRemoved":[")"],"cOrigin":"+delete","cTo":[17,10],"cNewPos":[17,9]}
+{"cWhen":1.5810997785036983e9,"tag":"Change","cFrom":[17,8],"cText":[""],"cRemoved":[" "],"cOrigin":"+delete","cTo":[17,9],"cNewPos":[17,8]}
+{"cWhen":1.5810997786321442e9,"tag":"Change","cFrom":[17,7],"cText":[""],"cRemoved":["("],"cOrigin":"+delete","cTo":[17,8],"cNewPos":[17,7]}
+{"cWhen":1.5810997787916288e9,"tag":"Change","cFrom":[17,7],"cText":["0"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,7],"cNewPos":[17,8]}
+{"cWhen":1.5810997788584762e9,"tag":"Change","cFrom":[17,8],"cText":["."],"cRemoved":[""],"cOrigin":"+input","cTo":[17,8],"cNewPos":[17,9]}
+{"cWhen":1.5810997788842862e9,"tag":"Change","cFrom":[17,9],"cText":["2"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,9],"cNewPos":[17,10]}
+{"cWhen":1.58109977897463e9,"tag":"Change","cFrom":[17,10],"cText":["5"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,10],"cNewPos":[17,11]}
+{"cWhen":1.5810997791500423e9,"tag":"Change","cFrom":[17,11],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[17,11],"cNewPos":[17,12]}
+{"cWhen":1.5810997795509307e9,"tag":"Change","cFrom":[17,12],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,12],"cNewPos":[17,13]}
+{"cWhen":1.5810997803372009e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099780746229e9,"tag":"Change","cFrom":[17,12],"cText":[""],"cRemoved":["4"],"cOrigin":"+delete","cTo":[17,13],"cNewPos":[17,12]}
+{"cWhen":1.581099780891163e9,"tag":"Change","cFrom":[17,12],"cText":["0"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,12],"cNewPos":[17,13]}
+{"cWhen":1.5810997809312153e9,"tag":"Change","cFrom":[17,13],"cText":["."],"cRemoved":[""],"cOrigin":"+input","cTo":[17,13],"cNewPos":[17,14]}
+{"cWhen":1.581099780997408e9,"tag":"Change","cFrom":[17,14],"cText":["1"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,14],"cNewPos":[17,15]}
+{"cWhen":1.5810997810696301e9,"tag":"Change","cFrom":[17,15],"cText":["2"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,15],"cNewPos":[17,16]}
+{"cWhen":1.5810997811581986e9,"tag":"Change","cFrom":[17,16],"cText":["5"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,16],"cNewPos":[17,17]}
+{"cWhen":1.5810997813871174e9,"tag":"Change","cFrom":[17,17],"cText":["",""],"cRemoved":[""],"cOrigin":"+input","cTo":[17,17],"cNewPos":[18,0]}
+{"cWhen":1.5810997818804183e9,"tag":"Change","cFrom":[17,17],"cText":[""],"cRemoved":["",""],"cOrigin":"+delete","cTo":[18,0],"cNewPos":[17,17]}
+{"cWhen":1.5810997822395935e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810997830282423e9,"tag":"Change","cFrom":[17,16],"cText":[""],"cRemoved":["5"],"cOrigin":"+delete","cTo":[17,17],"cNewPos":[17,16]}
+{"cWhen":1.5810997831789227e9,"tag":"Change","cFrom":[17,15],"cText":[""],"cRemoved":["2"],"cOrigin":"+delete","cTo":[17,16],"cNewPos":[17,15]}
+{"cWhen":1.5810997833236747e9,"tag":"Change","cFrom":[17,14],"cText":[""],"cRemoved":["1"],"cOrigin":"+delete","cTo":[17,15],"cNewPos":[17,14]}
+{"cWhen":1.5810997834682336e9,"tag":"Change","cFrom":[17,13],"cText":[""],"cRemoved":["."],"cOrigin":"+delete","cTo":[17,14],"cNewPos":[17,13]}
+{"cWhen":1.5810997836232557e9,"tag":"Change","cFrom":[17,12],"cText":[""],"cRemoved":["0"],"cOrigin":"+delete","cTo":[17,13],"cNewPos":[17,12]}
+{"cWhen":1.5810997838073466e9,"tag":"Change","cFrom":[17,12],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[17,12],"cNewPos":[17,13]}
+{"cWhen":1.5810997840019085e9,"tag":"Change","cFrom":[17,13],"cText":["q"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,13],"cNewPos":[17,14]}
+{"cWhen":1.5810997842013936e9,"tag":"Change","cFrom":[17,14],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[17,14],"cNewPos":[17,15]}
+{"cWhen":1.581099784512508e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810997847436316e9,"tag":"Move","cXWarp":14,"cNewPos":[17,14]}
+{"cWhen":1.5810997854547453e9,"tag":"Move","cXWarp":13,"cNewPos":[17,13]}
+{"cWhen":1.581099785563713e9,"tag":"Change","cFrom":[17,13],"cText":["t"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,13],"cNewPos":[17,14]}
+{"cWhen":1.5810997869237278e9,"tag":"Change","cFrom":[17,13],"cText":[""],"cRemoved":["t"],"cOrigin":"+delete","cTo":[17,14],"cNewPos":[17,13]}
+{"cWhen":1.5810997870526865e9,"tag":"Change","cFrom":[17,13],"cText":["3"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,13],"cNewPos":[17,14]}
+{"cWhen":1.5810997876177855e9,"tag":"Move","cXWarp":15,"cNewPos":[17,15]}
+{"cWhen":1.5810997878061862e9,"tag":"Change","cFrom":[17,14],"cText":[""],"cRemoved":["q"],"cOrigin":"+delete","cTo":[17,15],"cNewPos":[17,14]}
+{"cWhen":1.5810997880388632e9,"tag":"Change","cFrom":[17,14],"cText":["s"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,14],"cNewPos":[17,15]}
+{"cWhen":1.581099788336648e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099789447481e9,"tag":"Move","cXWarp":14,"cNewPos":[17,14]}
+{"cWhen":1.5810997898140538e9,"tag":"Move","cXWarp":15,"cNewPos":[17,15]}
+{"cWhen":1.58109979062539e9,"tag":"Move","cXWarp":0,"cNewPos":[17,0]}
+{"cWhen":1.581099791450994e9,"tag":"Change","cFrom":[17,0],"cText":["j"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,0],"cNewPos":[17,1]}
+{"cWhen":1.5810997916047149e9,"tag":"Change","cFrom":[17,1],"cText":["u"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,1],"cNewPos":[17,2]}
+{"cWhen":1.5810997916826174e9,"tag":"Change","cFrom":[17,2],"cText":["x"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,2],"cNewPos":[17,3]}
+{"cWhen":1.5810997917723923e9,"tag":"Change","cFrom":[17,3],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[17,3],"cNewPos":[17,4]}
+{"cWhen":1.581099791870279e9,"tag":"Change","cFrom":[17,4],"cText":["r"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,4],"cNewPos":[17,5]}
+{"cWhen":1.581099791946099e9,"tag":"Change","cFrom":[17,5],"cText":["e"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,5],"cNewPos":[17,6]}
+{"cWhen":1.581099792107882e9,"tag":"Change","cFrom":[17,6],"cText":["v"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,6],"cNewPos":[17,7]}
+{"cWhen":1.5810997921941264e9,"tag":"Change","cFrom":[17,7],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[17,7],"cNewPos":[17,8]}
+{"cWhen":1.5810997923205655e9,"tag":"Change","cFrom":[17,8],"cText":["$"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,8],"cNewPos":[17,9]}
+{"cWhen":1.581099792427613e9,"tag":"Change","cFrom":[17,9],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[17,9],"cNewPos":[17,10]}
+{"cWhen":1.5810997927405925e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810997936522048e9,"tag":"Move","cXWarp":0,"cNewPos":[17,0]}
+{"cWhen":1.5810997939492214e9,"tag":"Move","cXWarp":60,"cNewPos":[17,60]}
+{"cWhen":1.5810997944995484e9,"tag":"Move","cXWarp":0,"cNewPos":[17,0]}
+{"cWhen":1.581099794855902e9,"tag":"Move","cXWarp":60,"cNewPos":[17,60]}
+{"cWhen":1.581099795981659e9,"tag":"Change","cFrom":[17,60],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[17,60],"cNewPos":[17,61]}
+{"cWhen":1.581099796076172e9,"tag":"Change","cFrom":[17,61],"cText":["#"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,61],"cNewPos":[17,62]}
+{"cWhen":1.581099796164442e9,"tag":"Change","cFrom":[17,62],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[17,62],"cNewPos":[17,63]}
+{"cWhen":1.5810997962375336e9,"tag":"Change","cFrom":[17,63],"cText":["s"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,63],"cNewPos":[17,64]}
+{"cWhen":1.5810997963312829e9,"tag":"Change","cFrom":[17,64],"cText":["p"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,64],"cNewPos":[17,65]}
+{"cWhen":1.5810997964002137e9,"tag":"Change","cFrom":[17,65],"cText":["e"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,65],"cNewPos":[17,66]}
+{"cWhen":1.581099796556717e9,"tag":"Change","cFrom":[17,66],"cText":["e"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,66],"cNewPos":[17,67]}
+{"cWhen":1.5810997967273445e9,"tag":"Change","cFrom":[17,67],"cText":["d"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,67],"cNewPos":[17,68]}
+{"cWhen":1.5810997968023143e9,"tag":"Change","cFrom":[17,68],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[17,68],"cNewPos":[17,69]}
+{"cWhen":1.5810997969103522e9,"tag":"Change","cFrom":[17,69],"cText":["2"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,69],"cNewPos":[17,70]}
+{"cWhen":1.5810997971747556e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810997974268117e9,"tag":"Move","cXWarp":0,"cNewPos":[17,0]}
+{"cWhen":1.5810997975274262e9,"tag":"Move","cXWarp":0,"cNewPos":[16,0]}
+{"cWhen":1.5810997977536757e9,"tag":"Move","cXWarp":0,"cNewPos":[15,0]}
+{"cWhen":1.5810997979383547e9,"tag":"Move","cXWarp":0,"cNewPos":[14,0]}
+{"cWhen":1.581099798104529e9,"tag":"Move","cXWarp":0,"cNewPos":[13,0]}
+{"cWhen":1.5810997982873912e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.581099798566247e9,"tag":"Move","cXWarp":19,"cNewPos":[12,19]}
+{"cWhen":1.5810997989974046e9,"tag":"Move","cXWarp":18,"cNewPos":[12,18]}
+{"cWhen":1.58109979918674e9,"tag":"Change","cFrom":[12,18],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[12,18],"cNewPos":[12,19]}
+{"cWhen":1.581099800311675e9,"tag":"Change","cFrom":[12,19],"cText":["["],"cRemoved":[""],"cOrigin":"+input","cTo":[12,19],"cNewPos":[12,20]}
+{"cWhen":1.5810998006115508e9,"tag":"Move","cXWarp":21,"cNewPos":[12,21]}
+{"cWhen":1.5810998008412187e9,"tag":"Change","cFrom":[12,21],"cText":["|"],"cRemoved":[""],"cOrigin":"+input","cTo":[12,21],"cNewPos":[12,22]}
+{"cWhen":1.5810998010994606e9,"tag":"Change","cFrom":[12,22],"cText":["8"],"cRemoved":[""],"cOrigin":"+input","cTo":[12,22],"cNewPos":[12,23]}
+{"cWhen":1.5810998014827068e9,"tag":"Change","cFrom":[12,23],"cText":["]"],"cRemoved":[""],"cOrigin":"+input","cTo":[12,23],"cNewPos":[12,24]}
+{"cWhen":1.5810998019384694e9,"tag":"Change","cFrom":[12,24],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[12,24],"cNewPos":[12,25]}
+{"cWhen":1.5810998021742623e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810998024703672e9,"tag":"Move","cXWarp":24,"cNewPos":[12,24]}
+{"cWhen":1.581099802798473e9,"tag":"Move","cXWarp":23,"cNewPos":[12,23]}
+{"cWhen":1.5810998030570056e9,"tag":"Move","cXWarp":22,"cNewPos":[12,22]}
+{"cWhen":1.5810998034769664e9,"tag":"Move","cXWarp":23,"cNewPos":[12,23]}
+{"cWhen":1.5810998045986466e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.5810998046211212e9,"tag":"Move","cXWarp":0,"cNewPos":[13,0]}
+{"cWhen":1.5810998050934749e9,"tag":"Move","cXWarp":0,"cNewPos":[14,0]}
+{"cWhen":1.581099805425534e9,"tag":"Move","cXWarp":0,"cNewPos":[15,0]}
+{"cWhen":1.5810998056421986e9,"tag":"Move","cXWarp":0,"cNewPos":[16,0]}
+{"cWhen":1.581099805842061e9,"tag":"Move","cXWarp":0,"cNewPos":[17,0]}
+{"cWhen":1.5810998060435433e9,"tag":"Move","cXWarp":0,"cNewPos":[17,0]}
+{"cWhen":1.5810998062686558e9,"tag":"Move","cXWarp":0,"cNewPos":[17,0]}
+{"cWhen":1.5810998065194309e9,"tag":"Move","cXWarp":0,"cNewPos":[17,0]}
+{"cWhen":1.5810998067464106e9,"tag":"Move","cXWarp":70,"cNewPos":[17,70]}
+{"cWhen":1.5810998087570286e9,"tag":"Move","cXWarp":0,"cNewPos":[17,0]}
+{"cWhen":1.5810998089903157e9,"tag":"Change","cFrom":[17,0],"cText":["s"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,0],"cNewPos":[17,1]}
+{"cWhen":1.5810998090858583e9,"tag":"Change","cFrom":[17,1],"cText":["l"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,1],"cNewPos":[17,2]}
+{"cWhen":1.581099809127745e9,"tag":"Change","cFrom":[17,2],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,2],"cNewPos":[17,3]}
+{"cWhen":1.5810998092326546e9,"tag":"Change","cFrom":[17,3],"cText":["w"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,3],"cNewPos":[17,4]}
+{"cWhen":1.5810998093138907e9,"tag":"Change","cFrom":[17,4],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[17,4],"cNewPos":[17,5]}
+{"cWhen":1.5810998093854256e9,"tag":"Change","cFrom":[17,5],"cText":["2"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,5],"cNewPos":[17,6]}
+{"cWhen":1.5810998095055633e9,"tag":"Change","cFrom":[17,6],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[17,6],"cNewPos":[17,7]}
+{"cWhen":1.5810998096207561e9,"tag":"Change","cFrom":[17,7],"cText":["$"],"cRemoved":[""],"cOrigin":"+input","cTo":[17,7],"cNewPos":[17,8]}
+{"cWhen":1.581099809706821e9,"tag":"Change","cFrom":[17,8],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[17,8],"cNewPos":[17,9]}
+{"cWhen":1.5810998099897664e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810998105393107e9,"tag":"Move","cXWarp":0,"cNewPos":[17,0]}
+{"cWhen":1.581099810975354e9,"tag":"Move","cXWarp":0,"cNewPos":[17,0]}
+{"cWhen":1.58109981105305e9,"tag":"Move","cXWarp":0,"cNewPos":[16,0]}
+{"cWhen":1.5810998112367253e9,"tag":"Move","cXWarp":0,"cNewPos":[16,0]}
+{"cWhen":1.581099811436506e9,"tag":"Move","cXWarp":0,"cNewPos":[15,0]}
+{"cWhen":1.5810998116164057e9,"tag":"Move","cXWarp":0,"cNewPos":[15,0]}
+{"cWhen":1.5810998117687604e9,"tag":"Move","cXWarp":0,"cNewPos":[14,0]}
+{"cWhen":1.58109981201146e9,"tag":"Move","cXWarp":0,"cNewPos":[15,0]}
+{"cWhen":1.5810998122166052e9,"tag":"Move","cXWarp":0,"cNewPos":[16,0]}
+{"cWhen":1.5810998124121752e9,"tag":"Move","cXWarp":0,"cNewPos":[17,0]}
+{"cWhen":1.5810998126505036e9,"tag":"Move","cXWarp":0,"cNewPos":[16,0]}
+{"cWhen":1.581099812863462e9,"tag":"Move","cXWarp":0,"cNewPos":[15,0]}
+{"cWhen":1.5810998130593581e9,"tag":"Move","cXWarp":0,"cNewPos":[14,0]}
+{"cWhen":1.5810998135202367e9,"tag":"MuteToggle","cOrbit":4}
+{"cWhen":1.5810998135202367e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810998141342814e9,"tag":"Move","cXWarp":0,"cNewPos":[14,0]}
+{"cWhen":1.581099814224545e9,"tag":"Move","cXWarp":0,"cNewPos":[13,0]}
+{"cWhen":1.5810998143971343e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.581099814577278e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.5810998147233405e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.5810998148933597e9,"tag":"Move","cXWarp":0,"cNewPos":[9,0]}
+{"cWhen":1.5810998150753047e9,"tag":"Move","cXWarp":0,"cNewPos":[8,0]}
+{"cWhen":-1,"tag":"Change","cFrom":[8,0],"cText":[""],"cRemoved":["iter 4 $ loopAt 4 $ chop 8 $ sound \"repetition\""],"cOrigin":"+delete","cTo":[8,47],"cNewPos":[8,0]}
+{"cWhen":-1,"tag":"Change","cFrom":[8,0],"cText":[""],"cRemoved":["",""],"cOrigin":"+delete","cTo":[9,0],"cNewPos":[8,0]}
+{"cWhen":-1,"tag":"Change","cFrom":[8,0],"cText":[""],"cRemoved":["   # gain 1.1 # djf 0.8"],"cOrigin":"+delete","cTo":[8,23],"cNewPos":[8,0]}
+{"cWhen":-1,"tag":"Change","cFrom":[8,0],"cText":[""],"cRemoved":["",""],"cOrigin":"+delete","cTo":[9,0],"cNewPos":[8,0]}
+{"cWhen":1.5810998161510332e9,"tag":"Move","cXWarp":0,"cNewPos":[9,0]}
+{"cWhen":1.5810998163501127e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.5810998166012907e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.5810998168358319e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.5810998171507092e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.5810998174245918e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.5810998176347e9,"tag":"Move","cXWarp":0,"cNewPos":[13,0]}
+{"cWhen":1.581099817842888e9,"tag":"Move","cXWarp":0,"cNewPos":[14,0]}
+{"cWhen":1.5810998180941188e9,"tag":"Move","cXWarp":0,"cNewPos":[15,0]}
+{"cWhen":1.5810998183192332e9,"tag":"Move","cXWarp":0,"cNewPos":[15,0]}
+{"cWhen":1.5810998192283752e9,"tag":"Move","cXWarp":1,"cNewPos":[15,1]}
+{"cWhen":1.5810998194106057e9,"tag":"Move","cXWarp":2,"cNewPos":[15,2]}
+{"cWhen":1.5810998195616791e9,"tag":"Move","cXWarp":3,"cNewPos":[15,3]}
+{"cWhen":1.5810998197348583e9,"tag":"Move","cXWarp":4,"cNewPos":[15,4]}
+{"cWhen":1.5810998199110243e9,"tag":"Move","cXWarp":5,"cNewPos":[15,5]}
+{"cWhen":1.581099820044563e9,"tag":"Move","cXWarp":6,"cNewPos":[15,6]}
+{"cWhen":1.5810998202599175e9,"tag":"Change","cFrom":[15,5],"cText":[""],"cRemoved":["2"],"cOrigin":"+delete","cTo":[15,6],"cNewPos":[15,5]}
+{"cWhen":1.5810998203733513e9,"tag":"Change","cFrom":[15,5],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[15,5],"cNewPos":[15,6]}
+{"cWhen":1.581099821143181e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099821875817e9,"tag":"Move","cXWarp":7,"cNewPos":[15,7]}
+{"cWhen":1.5810998222589273e9,"tag":"Move","cXWarp":79,"cNewPos":[15,79]}
+{"cWhen":1.5810998225728245e9,"tag":"Change","cFrom":[15,79],"cText":["",""],"cRemoved":[""],"cOrigin":"+input","cTo":[15,79],"cNewPos":[16,0]}
+{"cWhen":1.581099822962067e9,"tag":"Change","cFrom":[16,0],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[16,0],"cNewPos":[16,1]}
+{"cWhen":1.5810998231682339e9,"tag":"Change","cFrom":[16,1],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[16,1],"cNewPos":[16,2]}
+{"cWhen":1.5810998233501515e9,"tag":"Change","cFrom":[16,2],"cText":["#"],"cRemoved":[""],"cOrigin":"+input","cTo":[16,2],"cNewPos":[16,3]}
+{"cWhen":1.5810998234393985e9,"tag":"Change","cFrom":[16,3],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[16,3],"cNewPos":[16,4]}
+{"cWhen":1.5810998236408165e9,"tag":"Change","cFrom":[16,4],"cText":["n"],"cRemoved":[""],"cOrigin":"+input","cTo":[16,4],"cNewPos":[16,5]}
+{"cWhen":1.5810998237163203e9,"tag":"Change","cFrom":[16,5],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[16,5],"cNewPos":[16,6]}
+{"cWhen":1.5810998239612644e9,"tag":"Change","cFrom":[16,6],"cText":["7"],"cRemoved":[""],"cOrigin":"+input","cTo":[16,6],"cNewPos":[16,7]}
+{"cWhen":1.5810998243442748e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099824770292e9,"tag":"Move","cXWarp":0,"cNewPos":[16,0]}
+{"cWhen":1.5810998249014316e9,"tag":"Move","cXWarp":0,"cNewPos":[15,0]}
+{"cWhen":1.5810998254017162e9,"tag":"Move","cXWarp":0,"cNewPos":[14,0]}
+{"cWhen":1.5810998254346516e9,"tag":"Move","cXWarp":0,"cNewPos":[13,0]}
+{"cWhen":1.581099825467768e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.5810998255008855e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.5810998255349343e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.5810998255685723e9,"tag":"Move","cXWarp":0,"cNewPos":[9,0]}
+{"cWhen":1.581099825670449e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.5810998258728392e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.581099826036589e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.581099826193357e9,"tag":"Move","cXWarp":0,"cNewPos":[13,0]}
+{"cWhen":1.5810998262739818e9,"tag":"Move","cXWarp":12,"cNewPos":[13,12]}
+{"cWhen":1.5810998266004527e9,"tag":"Change","cFrom":[13,11],"cText":[""],"cRemoved":["1"],"cOrigin":"+delete","cTo":[13,12],"cNewPos":[13,11]}
+{"cWhen":1.581099826647796e9,"tag":"Change","cFrom":[13,11],"cText":["2"],"cRemoved":[""],"cOrigin":"+input","cTo":[13,11],"cNewPos":[13,12]}
+{"cWhen":1.5810998269138727e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810998283942811e9,"tag":"Move","cXWarp":0,"cNewPos":[13,0]}
+{"cWhen":1.5810998285181608e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.5810998288834198e9,"tag":"Move","cXWarp":0,"cNewPos":[13,0]}
+{"cWhen":1.581099829193349e9,"tag":"Move","cXWarp":12,"cNewPos":[13,12]}
+{"cWhen":1.5810998294531643e9,"tag":"Move","cXWarp":12,"cNewPos":[12,12]}
+{"cWhen":1.5810998297286205e9,"tag":"Move","cXWarp":51,"cNewPos":[12,51]}
+{"cWhen":1.5810998304444327e9,"tag":"Move","cXWarp":50,"cNewPos":[12,50]}
+{"cWhen":1.5810998312694063e9,"tag":"Change","cFrom":[12,49],"cText":[""],"cRemoved":["c"],"cOrigin":"+delete","cTo":[12,50],"cNewPos":[12,49]}
+{"cWhen":1.5810998314173167e9,"tag":"Change","cFrom":[12,48],"cText":[""],"cRemoved":["r"],"cOrigin":"+delete","cTo":[12,49],"cNewPos":[12,48]}
+{"cWhen":1.5810998315674284e9,"tag":"Change","cFrom":[12,47],"cText":[""],"cRemoved":["a"],"cOrigin":"+delete","cTo":[12,48],"cNewPos":[12,47]}
+{"cWhen":1.581099831650564e9,"tag":"Change","cFrom":[12,47],"cText":["b"],"cRemoved":[""],"cOrigin":"+input","cTo":[12,47],"cNewPos":[12,48]}
+{"cWhen":1.5810998316935654e9,"tag":"Change","cFrom":[12,48],"cText":["r"],"cRemoved":[""],"cOrigin":"+input","cTo":[12,48],"cNewPos":[12,49]}
+{"cWhen":1.581099831758148e9,"tag":"Change","cFrom":[12,49],"cText":["e"],"cRemoved":[""],"cOrigin":"+input","cTo":[12,49],"cNewPos":[12,50]}
+{"cWhen":1.581099831783297e9,"tag":"Change","cFrom":[12,50],"cText":["a"],"cRemoved":[""],"cOrigin":"+input","cTo":[12,50],"cNewPos":[12,51]}
+{"cWhen":1.5810998318853078e9,"tag":"Change","cFrom":[12,51],"cText":["k"],"cRemoved":[""],"cOrigin":"+input","cTo":[12,51],"cNewPos":[12,52]}
+{"cWhen":1.5810998322172446e9,"tag":"Change","cFrom":[12,52],"cText":[":"],"cRemoved":[""],"cOrigin":"+input","cTo":[12,52],"cNewPos":[12,53]}
+{"cWhen":1.5810998324929385e9,"tag":"Change","cFrom":[12,53],"cText":["6"],"cRemoved":[""],"cOrigin":"+input","cTo":[12,53],"cNewPos":[12,54]}
+{"cWhen":1.5810998330764434e9,"tag":"Change","cFrom":[12,53],"cText":[""],"cRemoved":["6"],"cOrigin":"+delete","cTo":[12,54],"cNewPos":[12,53]}
+{"cWhen":1.581099833249017e9,"tag":"Change","cFrom":[12,53],"cText":["5"],"cRemoved":[""],"cOrigin":"+input","cTo":[12,53],"cNewPos":[12,54]}
+{"cWhen":1.5810998336675904e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099834489049e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.5810998357679555e9,"tag":"Move","cXWarp":55,"cNewPos":[12,55]}
+{"cWhen":1.581099836657761e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.5810998367877412e9,"tag":"Move","cXWarp":1,"cNewPos":[12,1]}
+{"cWhen":1.5810998372873201e9,"tag":"Move","cXWarp":2,"cNewPos":[12,2]}
+{"cWhen":1.5810998373202524e9,"tag":"Move","cXWarp":3,"cNewPos":[12,3]}
+{"cWhen":1.5810998373533697e9,"tag":"Move","cXWarp":4,"cNewPos":[12,4]}
+{"cWhen":1.5810998373868709e9,"tag":"Move","cXWarp":5,"cNewPos":[12,5]}
+{"cWhen":1.581099837420746e9,"tag":"Move","cXWarp":6,"cNewPos":[12,6]}
+{"cWhen":1.5810998374551935e9,"tag":"Move","cXWarp":7,"cNewPos":[12,7]}
+{"cWhen":1.5810998374889667e9,"tag":"Move","cXWarp":8,"cNewPos":[12,8]}
+{"cWhen":1.581099837522141e9,"tag":"Move","cXWarp":9,"cNewPos":[12,9]}
+{"cWhen":1.5810998375553632e9,"tag":"Move","cXWarp":10,"cNewPos":[12,10]}
+{"cWhen":1.5810998375883663e9,"tag":"Move","cXWarp":11,"cNewPos":[12,11]}
+{"cWhen":1.581099837621362e9,"tag":"Move","cXWarp":12,"cNewPos":[12,12]}
+{"cWhen":1.5810998376544015e9,"tag":"Move","cXWarp":13,"cNewPos":[12,13]}
+{"cWhen":1.5810998376872282e9,"tag":"Move","cXWarp":14,"cNewPos":[12,14]}
+{"cWhen":1.5810998377201035e9,"tag":"Move","cXWarp":15,"cNewPos":[12,15]}
+{"cWhen":1.5810998377531185e9,"tag":"Move","cXWarp":16,"cNewPos":[12,16]}
+{"cWhen":1.5810998377860968e9,"tag":"Move","cXWarp":17,"cNewPos":[12,17]}
+{"cWhen":1.5810998378195212e9,"tag":"Move","cXWarp":18,"cNewPos":[12,18]}
+{"cWhen":1.5810998378530402e9,"tag":"Move","cXWarp":19,"cNewPos":[12,19]}
+{"cWhen":1.5810998378870592e9,"tag":"Move","cXWarp":20,"cNewPos":[12,20]}
+{"cWhen":1.5810998379207706e9,"tag":"Move","cXWarp":21,"cNewPos":[12,21]}
+{"cWhen":1.5810998379550924e9,"tag":"Move","cXWarp":22,"cNewPos":[12,22]}
+{"cWhen":1.581099837988242e9,"tag":"Move","cXWarp":23,"cNewPos":[12,23]}
+{"cWhen":1.5810998380218134e9,"tag":"Move","cXWarp":24,"cNewPos":[12,24]}
+{"cWhen":1.5810998380542786e9,"tag":"Move","cXWarp":25,"cNewPos":[12,25]}
+{"cWhen":1.581099838088126e9,"tag":"Move","cXWarp":26,"cNewPos":[12,26]}
+{"cWhen":1.5810998381213405e9,"tag":"Move","cXWarp":27,"cNewPos":[12,27]}
+{"cWhen":1.5810998381541622e9,"tag":"Move","cXWarp":28,"cNewPos":[12,28]}
+{"cWhen":1.5810998384533756e9,"tag":"Change","cFrom":[12,27],"cText":[""],"cRemoved":["2"],"cOrigin":"+delete","cTo":[12,28],"cNewPos":[12,27]}
+{"cWhen":1.581099838520683e9,"tag":"Change","cFrom":[12,27],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[12,27],"cNewPos":[12,28]}
+{"cWhen":1.581099838789395e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099839099932e9,"tag":"Move","cXWarp":29,"cNewPos":[12,29]}
+{"cWhen":1.5810998396000051e9,"tag":"Move","cXWarp":30,"cNewPos":[12,30]}
+{"cWhen":1.5810998396333141e9,"tag":"Move","cXWarp":31,"cNewPos":[12,31]}
+{"cWhen":1.5810998396661713e9,"tag":"Move","cXWarp":32,"cNewPos":[12,32]}
+{"cWhen":1.5810998396992488e9,"tag":"Move","cXWarp":33,"cNewPos":[12,33]}
+{"cWhen":1.5810998397331212e9,"tag":"Move","cXWarp":34,"cNewPos":[12,34]}
+{"cWhen":1.5810998397668805e9,"tag":"Move","cXWarp":35,"cNewPos":[12,35]}
+{"cWhen":1.581099839800572e9,"tag":"Move","cXWarp":36,"cNewPos":[12,36]}
+{"cWhen":1.5810998399620671e9,"tag":"Move","cXWarp":37,"cNewPos":[12,37]}
+{"cWhen":1.5810998402011366e9,"tag":"Change","cFrom":[12,36],"cText":[""],"cRemoved":["8"],"cOrigin":"+delete","cTo":[12,37],"cNewPos":[12,36]}
+{"cWhen":1.581099840308265e9,"tag":"Change","cFrom":[12,36],"cText":["1"],"cRemoved":[""],"cOrigin":"+input","cTo":[12,36],"cNewPos":[12,37]}
+{"cWhen":1.5810998403960743e9,"tag":"Change","cFrom":[12,37],"cText":["6"],"cRemoved":[""],"cOrigin":"+input","cTo":[12,37],"cNewPos":[12,38]}
+{"cWhen":1.581099840999875e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810998424720826e9,"tag":"Move","cXWarp":12,"cNewPos":[13,12]}
+{"cWhen":1.5810998425651982e9,"tag":"Move","cXWarp":0,"cNewPos":[13,0]}
+{"cWhen":1.581099843322494e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.5810998446564662e9,"tag":"Move","cXWarp":1,"cNewPos":[12,1]}
+{"cWhen":1.5810998451566207e9,"tag":"Move","cXWarp":2,"cNewPos":[12,2]}
+{"cWhen":1.58109984518954e9,"tag":"Move","cXWarp":3,"cNewPos":[12,3]}
+{"cWhen":1.5810998452232637e9,"tag":"Move","cXWarp":4,"cNewPos":[12,4]}
+{"cWhen":1.5810998452565968e9,"tag":"Move","cXWarp":5,"cNewPos":[12,5]}
+{"cWhen":1.581099845289759e9,"tag":"Move","cXWarp":6,"cNewPos":[12,6]}
+{"cWhen":1.5810998453230405e9,"tag":"Move","cXWarp":7,"cNewPos":[12,7]}
+{"cWhen":1.5810998453562465e9,"tag":"Move","cXWarp":8,"cNewPos":[12,8]}
+{"cWhen":1.5810998453900087e9,"tag":"Move","cXWarp":9,"cNewPos":[12,9]}
+{"cWhen":1.5810998454240444e9,"tag":"Move","cXWarp":10,"cNewPos":[12,10]}
+{"cWhen":1.5810998454576354e9,"tag":"Move","cXWarp":11,"cNewPos":[12,11]}
+{"cWhen":1.5810998454911706e9,"tag":"Move","cXWarp":12,"cNewPos":[12,12]}
+{"cWhen":1.5810998455249486e9,"tag":"Move","cXWarp":13,"cNewPos":[12,13]}
+{"cWhen":1.5810998455589054e9,"tag":"Move","cXWarp":14,"cNewPos":[12,14]}
+{"cWhen":1.5810998457148917e9,"tag":"Move","cXWarp":15,"cNewPos":[12,15]}
+{"cWhen":1.5810998458949637e9,"tag":"Move","cXWarp":16,"cNewPos":[12,16]}
+{"cWhen":1.5810998460654569e9,"tag":"Change","cFrom":[12,15],"cText":[""],"cRemoved":["2"],"cOrigin":"+delete","cTo":[12,16],"cNewPos":[12,15]}
+{"cWhen":1.5810998461571214e9,"tag":"Change","cFrom":[12,15],"cText":["0"],"cRemoved":[""],"cOrigin":"+input","cTo":[12,15],"cNewPos":[12,16]}
+{"cWhen":1.5810998462359812e9,"tag":"Change","cFrom":[12,16],"cText":["."],"cRemoved":[""],"cOrigin":"+input","cTo":[12,16],"cNewPos":[12,17]}
+{"cWhen":1.5810998463056552e9,"tag":"Change","cFrom":[12,17],"cText":["5"],"cRemoved":[""],"cOrigin":"+input","cTo":[12,17],"cNewPos":[12,18]}
+{"cWhen":1.581099846565044e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099847178622e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.5810998477488163e9,"tag":"Move","cXWarp":0,"cNewPos":[13,0]}
+{"cWhen":1.5810998479900007e9,"tag":"Move","cXWarp":0,"cNewPos":[14,0]}
+{"cWhen":1.5810998481686342e9,"tag":"Move","cXWarp":0,"cNewPos":[14,0]}
+{"cWhen":1.5810998483202899e9,"tag":"Move","cXWarp":0,"cNewPos":[13,0]}
+{"cWhen":1.5810998484928603e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.5810998486755333e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.5810998488584957e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.5810998491104436e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.5810998492980773e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.5810998495115921e9,"tag":"Move","cXWarp":0,"cNewPos":[9,0]}
+{"cWhen":1.581099849820477e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.581099850024022e9,"tag":"Move","cXWarp":0,"cNewPos":[9,0]}
+{"cWhen":1.5810998507636344e9,"tag":"Change","cFrom":[9,0],"cText":["j"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,0],"cNewPos":[9,1]}
+{"cWhen":1.5810998509450555e9,"tag":"Change","cFrom":[9,1],"cText":["u"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,1],"cNewPos":[9,2]}
+{"cWhen":1.5810998510162444e9,"tag":"Change","cFrom":[9,2],"cText":["x"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,2],"cNewPos":[9,3]}
+{"cWhen":1.581099851140156e9,"tag":"Change","cFrom":[9,3],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[9,3],"cNewPos":[9,4]}
+{"cWhen":1.5810998512125263e9,"tag":"Change","cFrom":[9,4],"cText":["r"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,4],"cNewPos":[9,5]}
+{"cWhen":1.581099851281847e9,"tag":"Change","cFrom":[9,5],"cText":["e"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,5],"cNewPos":[9,6]}
+{"cWhen":1.5810998514516358e9,"tag":"Change","cFrom":[9,6],"cText":["v"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,6],"cNewPos":[9,7]}
+{"cWhen":1.5810998515197241e9,"tag":"Change","cFrom":[9,7],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[9,7],"cNewPos":[9,8]}
+{"cWhen":1.5810998517245443e9,"tag":"Change","cFrom":[9,8],"cText":["$"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,8],"cNewPos":[9,9]}
+{"cWhen":1.5810998517816453e9,"tag":"Change","cFrom":[9,9],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[9,9],"cNewPos":[9,10]}
+{"cWhen":1.5810998531885002e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099854102997e9,"tag":"Move","cXWarp":0,"cNewPos":[9,0]}
+{"cWhen":1.5810998544039078e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.5810998548839188e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.58109985526609e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.581099855477617e9,"tag":"Move","cXWarp":25,"cNewPos":[10,25]}
+{"cWhen":1.5810998557269266e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.581099855867813e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.5810998559780595e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.5810998562114618e9,"tag":"Move","cXWarp":0,"cNewPos":[13,0]}
+{"cWhen":1.5810998564201493e9,"tag":"Move","cXWarp":0,"cNewPos":[14,0]}
+{"cWhen":1.58109985662383e9,"tag":"Move","cXWarp":0,"cNewPos":[15,0]}
+{"cWhen":1.5810998568215494e9,"tag":"Move","cXWarp":0,"cNewPos":[16,0]}
+{"cWhen":1.5810998570103567e9,"tag":"Move","cXWarp":0,"cNewPos":[16,0]}
+{"cWhen":1.5810998575496917e9,"tag":"Move","cXWarp":0,"cNewPos":[15,0]}
+{"cWhen":1.58109985783274e9,"tag":"Move","cXWarp":0,"cNewPos":[14,0]}
+{"cWhen":1.5810998580607924e9,"tag":"Move","cXWarp":0,"cNewPos":[13,0]}
+{"cWhen":1.5810998582614334e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.5810998584596243e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.581099858675419e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.581099858926495e9,"tag":"Move","cXWarp":0,"cNewPos":[13,0]}
+{"cWhen":1.5810998592904303e9,"tag":"Move","cXWarp":0,"cNewPos":[14,0]}
+{"cWhen":1.5810998595531304e9,"tag":"Move","cXWarp":0,"cNewPos":[15,0]}
+{"cWhen":1.5810998598189902e9,"tag":"Move","cXWarp":0,"cNewPos":[16,0]}
+{"cWhen":1.5810998600265129e9,"tag":"Move","cXWarp":0,"cNewPos":[16,0]}
+{"cWhen":1.581099860201854e9,"tag":"Move","cXWarp":7,"cNewPos":[16,7]}
+{"cWhen":1.5810998610341442e9,"tag":"Change","cFrom":[16,7],"cText":["",""],"cRemoved":[""],"cOrigin":"+input","cTo":[16,7],"cNewPos":[17,0]}
+{"cWhen":1.5810998612287266e9,"tag":"Move","cXWarp":0,"cNewPos":[17,0]}
+{"cWhen":1.5810998677318385e9,"tag":"Move","cXWarp":0,"cNewPos":[17,0]}
+{"cWhen":1.5810998679280314e9,"tag":"Move","cXWarp":0,"cNewPos":[16,0]}
+{"cWhen":1.5810998681032813e9,"tag":"Move","cXWarp":0,"cNewPos":[15,0]}
+{"cWhen":1.581099868232697e9,"tag":"Move","cXWarp":0,"cNewPos":[14,0]}
+{"cWhen":1.5810998683719723e9,"tag":"Move","cXWarp":0,"cNewPos":[13,0]}
+{"cWhen":1.581099868517824e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.5810998686700437e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.581099868821506e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.5810998690066495e9,"tag":"Move","cXWarp":25,"cNewPos":[10,25]}
+{"cWhen":1.5810998693123193e9,"tag":"Change","cFrom":[10,25],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[10,25],"cNewPos":[10,26]}
+{"cWhen":1.581099869467288e9,"tag":"Change","cFrom":[10,26],"cText":["#"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,26],"cNewPos":[10,27]}
+{"cWhen":1.5810998695524406e9,"tag":"Change","cFrom":[10,27],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[10,27],"cNewPos":[10,28]}
+{"cWhen":1.5810998697371714e9,"tag":"Change","cFrom":[10,28],"cText":["r"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,28],"cNewPos":[10,29]}
+{"cWhen":1.5810998698322124e9,"tag":"Change","cFrom":[10,29],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,29],"cNewPos":[10,30]}
+{"cWhen":1.5810998699779456e9,"tag":"Change","cFrom":[10,30],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,30],"cNewPos":[10,31]}
+{"cWhen":1.581099870048221e9,"tag":"Change","cFrom":[10,31],"cText":["m"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,31],"cNewPos":[10,32]}
+{"cWhen":1.5810998700595543e9,"tag":"Change","cFrom":[10,32],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[10,32],"cNewPos":[10,33]}
+{"cWhen":1.5810998702007654e9,"tag":"Change","cFrom":[10,33],"cText":["0"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,33],"cNewPos":[10,34]}
+{"cWhen":1.5810998702773156e9,"tag":"Change","cFrom":[10,34],"cText":["."],"cRemoved":[""],"cOrigin":"+input","cTo":[10,34],"cNewPos":[10,35]}
+{"cWhen":1.5810998703144035e9,"tag":"Change","cFrom":[10,35],"cText":["3"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,35],"cNewPos":[10,36]}
+{"cWhen":1.5810998706653168e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810998712859051e9,"tag":"Move","cXWarp":35,"cNewPos":[10,35]}
+{"cWhen":1.5810998717819605e9,"tag":"Move","cXWarp":34,"cNewPos":[10,34]}
+{"cWhen":1.5810998718156605e9,"tag":"Move","cXWarp":33,"cNewPos":[10,33]}
+{"cWhen":1.581099871849427e9,"tag":"Move","cXWarp":32,"cNewPos":[10,32]}
+{"cWhen":1.581099871882944e9,"tag":"Move","cXWarp":31,"cNewPos":[10,31]}
+{"cWhen":1.5810998719163144e9,"tag":"Move","cXWarp":30,"cNewPos":[10,30]}
+{"cWhen":1.5810998719499528e9,"tag":"Move","cXWarp":29,"cNewPos":[10,29]}
+{"cWhen":1.581099871983988e9,"tag":"Move","cXWarp":28,"cNewPos":[10,28]}
+{"cWhen":1.5810998720179675e9,"tag":"Move","cXWarp":27,"cNewPos":[10,27]}
+{"cWhen":1.5810998720520215e9,"tag":"Move","cXWarp":26,"cNewPos":[10,26]}
+{"cWhen":1.581099872086068e9,"tag":"Move","cXWarp":25,"cNewPos":[10,25]}
+{"cWhen":1.581099872259834e9,"tag":"Move","cXWarp":24,"cNewPos":[10,24]}
+{"cWhen":1.5810998725261996e9,"tag":"Move","cXWarp":23,"cNewPos":[10,23]}
+{"cWhen":1.5810998731763456e9,"tag":"Change","cFrom":[10,23],"cText":["|"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,23],"cNewPos":[10,24]}
+{"cWhen":1.581099873428881e9,"tag":"Change","cFrom":[10,24],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,24],"cNewPos":[10,25]}
+{"cWhen":1.5810998740363488e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810998744404707e9,"tag":"Move","cXWarp":38,"cNewPos":[10,38]}
+{"cWhen":1.5810998750755131e9,"tag":"Change","cFrom":[10,38],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[10,38],"cNewPos":[10,39]}
+{"cWhen":1.5810998751872196e9,"tag":"Change","cFrom":[10,39],"cText":["#"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,39],"cNewPos":[10,40]}
+{"cWhen":1.5810998752636664e9,"tag":"Change","cFrom":[10,40],"cText":["s"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,40],"cNewPos":[10,41]}
+{"cWhen":1.5810998753102224e9,"tag":"Change","cFrom":[10,41],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[10,41],"cNewPos":[10,42]}
+{"cWhen":1.581099875464236e9,"tag":"Change","cFrom":[10,42],"cText":["z"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,42],"cNewPos":[10,43]}
+{"cWhen":1.581099875826646e9,"tag":"Change","cFrom":[10,42],"cText":[""],"cRemoved":["z"],"cOrigin":"+delete","cTo":[10,43],"cNewPos":[10,42]}
+{"cWhen":1.5810998759751925e9,"tag":"Change","cFrom":[10,41],"cText":[""],"cRemoved":[" "],"cOrigin":"+delete","cTo":[10,42],"cNewPos":[10,41]}
+{"cWhen":1.5810998761066923e9,"tag":"Change","cFrom":[10,40],"cText":[""],"cRemoved":["s"],"cOrigin":"+delete","cTo":[10,41],"cNewPos":[10,40]}
+{"cWhen":1.5810998761865456e9,"tag":"Change","cFrom":[10,40],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[10,40],"cNewPos":[10,41]}
+{"cWhen":1.5810998763134618e9,"tag":"Change","cFrom":[10,41],"cText":["s"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,41],"cNewPos":[10,42]}
+{"cWhen":1.5810998764885633e9,"tag":"Change","cFrom":[10,42],"cText":["z"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,42],"cNewPos":[10,43]}
+{"cWhen":1.581099876617246e9,"tag":"Change","cFrom":[10,43],"cText":["0"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,43],"cNewPos":[10,44]}
+{"cWhen":1.5810998767105868e9,"tag":"Change","cFrom":[10,44],"cText":["."],"cRemoved":[""],"cOrigin":"+input","cTo":[10,44],"cNewPos":[10,45]}
+{"cWhen":1.5810998769875813e9,"tag":"Change","cFrom":[10,45],"cText":["7"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,45],"cNewPos":[10,46]}
+{"cWhen":1.5810998772414513e9,"tag":"Change","cFrom":[10,45],"cText":[""],"cRemoved":["7"],"cOrigin":"+delete","cTo":[10,46],"cNewPos":[10,45]}
+{"cWhen":1.5810998773946424e9,"tag":"Change","cFrom":[10,44],"cText":[""],"cRemoved":["."],"cOrigin":"+delete","cTo":[10,45],"cNewPos":[10,44]}
+{"cWhen":1.5810998775412126e9,"tag":"Change","cFrom":[10,43],"cText":[""],"cRemoved":["0"],"cOrigin":"+delete","cTo":[10,44],"cNewPos":[10,43]}
+{"cWhen":1.5810998776457007e9,"tag":"Change","cFrom":[10,43],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[10,43],"cNewPos":[10,44]}
+{"cWhen":1.581099877932226e9,"tag":"Change","cFrom":[10,44],"cText":["0"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,44],"cNewPos":[10,45]}
+{"cWhen":1.5810998779429922e9,"tag":"Change","cFrom":[10,45],"cText":["."],"cRemoved":[""],"cOrigin":"+input","cTo":[10,45],"cNewPos":[10,46]}
+{"cWhen":1.5810998780356765e9,"tag":"Change","cFrom":[10,46],"cText":["0"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,46],"cNewPos":[10,47]}
+{"cWhen":1.581099878322998e9,"tag":"Change","cFrom":[10,46],"cText":[""],"cRemoved":["0"],"cOrigin":"+delete","cTo":[10,47],"cNewPos":[10,46]}
+{"cWhen":1.5810998784680808e9,"tag":"Change","cFrom":[10,45],"cText":[""],"cRemoved":["."],"cOrigin":"+delete","cTo":[10,46],"cNewPos":[10,45]}
+{"cWhen":1.5810998791315854e9,"tag":"Change","cFrom":[10,45],"cText":["."],"cRemoved":[""],"cOrigin":"+input","cTo":[10,45],"cNewPos":[10,46]}
+{"cWhen":1.5810998794177387e9,"tag":"Change","cFrom":[10,46],"cText":["8"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,46],"cNewPos":[10,47]}
+{"cWhen":1.581099880035785e9,"tag":"Change","cFrom":[10,46],"cText":[""],"cRemoved":["8"],"cOrigin":"+delete","cTo":[10,47],"cNewPos":[10,46]}
+{"cWhen":1.5810998801775577e9,"tag":"Change","cFrom":[10,46],"cText":["3"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,46],"cNewPos":[10,47]}
+{"cWhen":1.581099880606061e9,"tag":"Move","cXWarp":46,"cNewPos":[10,46]}
+{"cWhen":1.581099881106956e9,"tag":"Move","cXWarp":45,"cNewPos":[10,45]}
+{"cWhen":1.5810998811398354e9,"tag":"Move","cXWarp":44,"cNewPos":[10,44]}
+{"cWhen":1.5810998811738908e9,"tag":"Move","cXWarp":43,"cNewPos":[10,43]}
+{"cWhen":1.5810998812072406e9,"tag":"Move","cXWarp":42,"cNewPos":[10,42]}
+{"cWhen":1.5810998812413917e9,"tag":"Move","cXWarp":41,"cNewPos":[10,41]}
+{"cWhen":1.5810998812744899e9,"tag":"Move","cXWarp":40,"cNewPos":[10,40]}
+{"cWhen":1.5810998813080347e9,"tag":"Move","cXWarp":39,"cNewPos":[10,39]}
+{"cWhen":1.58109988134151e9,"tag":"Move","cXWarp":38,"cNewPos":[10,38]}
+{"cWhen":1.5810998813749409e9,"tag":"Move","cXWarp":37,"cNewPos":[10,37]}
+{"cWhen":1.5810998814090483e9,"tag":"Move","cXWarp":36,"cNewPos":[10,36]}
+{"cWhen":1.5810998814422472e9,"tag":"Move","cXWarp":35,"cNewPos":[10,35]}
+{"cWhen":1.5810998814749808e9,"tag":"Move","cXWarp":34,"cNewPos":[10,34]}
+{"cWhen":1.581099881508687e9,"tag":"Move","cXWarp":33,"cNewPos":[10,33]}
+{"cWhen":1.5810998815416646e9,"tag":"Move","cXWarp":32,"cNewPos":[10,32]}
+{"cWhen":1.581099881574657e9,"tag":"Move","cXWarp":31,"cNewPos":[10,31]}
+{"cWhen":1.581099881607594e9,"tag":"Move","cXWarp":30,"cNewPos":[10,30]}
+{"cWhen":1.5810998816408777e9,"tag":"Move","cXWarp":29,"cNewPos":[10,29]}
+{"cWhen":1.581099881674714e9,"tag":"Move","cXWarp":28,"cNewPos":[10,28]}
+{"cWhen":1.5810998817078404e9,"tag":"Move","cXWarp":27,"cNewPos":[10,27]}
+{"cWhen":1.5810998817405298e9,"tag":"Move","cXWarp":26,"cNewPos":[10,26]}
+{"cWhen":1.5810998817739255e9,"tag":"Move","cXWarp":25,"cNewPos":[10,25]}
+{"cWhen":1.581099882396917e9,"tag":"Change","cFrom":[10,24],"cText":[""],"cRemoved":["4"],"cOrigin":"+delete","cTo":[10,25],"cNewPos":[10,24]}
+{"cWhen":1.581099882526326e9,"tag":"Change","cFrom":[10,24],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,24],"cNewPos":[10,25]}
+{"cWhen":1.5810998829581852e9,"tag":"Change","cFrom":[10,24],"cText":[""],"cRemoved":["4"],"cOrigin":"+delete","cTo":[10,25],"cNewPos":[10,24]}
+{"cWhen":1.5810998830427194e9,"tag":"Change","cFrom":[10,24],"cText":["2"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,24],"cNewPos":[10,25]}
+{"cWhen":1.5810998832822945e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810998858236864e9,"tag":"Move","cXWarp":47,"cNewPos":[10,47]}
+{"cWhen":1.5810998865179174e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099889074913e9,"tag":"Change","cFrom":[10,46],"cText":[""],"cRemoved":["3"],"cOrigin":"+delete","cTo":[10,47],"cNewPos":[10,46]}
+{"cWhen":1.581099889483042e9,"tag":"Change","cFrom":[10,46],"cText":["9"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,46],"cNewPos":[10,47]}
+{"cWhen":1.5810998898506403e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810998902975297e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.581099890431818e9,"tag":"Move","cXWarp":0,"cNewPos":[9,0]}
+{"cWhen":1.5810998907974358e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.581099890943243e9,"tag":"Move","cXWarp":47,"cNewPos":[10,47]}
+{"cWhen":1.5810998912643936e9,"tag":"Change","cFrom":[10,47],"cText":["",""],"cRemoved":[""],"cOrigin":"+input","cTo":[10,47],"cNewPos":[11,0]}
+{"cWhen":1.5810998915668468e9,"tag":"Change","cFrom":[11,0],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[11,0],"cNewPos":[11,1]}
+{"cWhen":1.5810998917698636e9,"tag":"Change","cFrom":[11,1],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[11,1],"cNewPos":[11,2]}
+{"cWhen":1.5810998919555151e9,"tag":"Change","cFrom":[11,2],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[11,2],"cNewPos":[11,3]}
+{"cWhen":1.5810998922040036e9,"tag":"Change","cFrom":[11,3],"cText":["|"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,3],"cNewPos":[11,4]}
+{"cWhen":1.5810998923420722e9,"tag":"Change","cFrom":[11,4],"cText":["*"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,4],"cNewPos":[11,5]}
+{"cWhen":1.5810998924093432e9,"tag":"Change","cFrom":[11,5],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[11,5],"cNewPos":[11,6]}
+{"cWhen":1.5810998925790217e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.5810998926820493e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.5810998928170466e9,"tag":"Move","cXWarp":47,"cNewPos":[10,47]}
+{"cWhen":1.5810998933064938e9,"tag":"Change","cFrom":[10,47],"cText":[")"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,47],"cNewPos":[10,48]}
+{"cWhen":1.581099893508898e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.5810998938413634e9,"tag":"Move","cXWarp":0,"cNewPos":[9,0]}
+{"cWhen":1.5810998942734485e9,"tag":"Change","cFrom":[9,0],"cText":["("],"cRemoved":[""],"cOrigin":"+input","cTo":[9,0],"cNewPos":[9,1]}
+{"cWhen":1.581099894474375e9,"tag":"Move","cXWarp":64,"cNewPos":[9,64]}
+{"cWhen":1.581099894574963e9,"tag":"Move","cXWarp":48,"cNewPos":[10,48]}
+{"cWhen":1.581099894720791e9,"tag":"Move","cXWarp":6,"cNewPos":[11,6]}
+{"cWhen":1.5810998952182229e9,"tag":"Change","cFrom":[11,6],"cText":["s"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,6],"cNewPos":[11,7]}
+{"cWhen":1.5810998952882218e9,"tag":"Change","cFrom":[11,7],"cText":["p"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,7],"cNewPos":[11,8]}
+{"cWhen":1.581099895400122e9,"tag":"Change","cFrom":[11,8],"cText":["e"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,8],"cNewPos":[11,9]}
+{"cWhen":1.581099895540284e9,"tag":"Change","cFrom":[11,9],"cText":["e"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,9],"cNewPos":[11,10]}
+{"cWhen":1.5810998956685667e9,"tag":"Change","cFrom":[11,10],"cText":["d"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,10],"cNewPos":[11,11]}
+{"cWhen":1.581099895714581e9,"tag":"Change","cFrom":[11,11],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[11,11],"cNewPos":[11,12]}
+{"cWhen":1.5810998958654287e9,"tag":"Change","cFrom":[11,12],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[11,12],"cNewPos":[11,13]}
+{"cWhen":1.5810998960224762e9,"tag":"Change","cFrom":[11,13],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[11,13],"cNewPos":[11,14]}
+{"cWhen":1.581099896238881e9,"tag":"Move","cXWarp":13,"cNewPos":[11,13]}
+{"cWhen":1.581099896412553e9,"tag":"Change","cFrom":[11,13],"cText":["["],"cRemoved":[""],"cOrigin":"+input","cTo":[11,13],"cNewPos":[11,14]}
+{"cWhen":1.5810998966763258e9,"tag":"Change","cFrom":[11,14],"cText":["1"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,14],"cNewPos":[11,15]}
+{"cWhen":1.5810998968076336e9,"tag":"Change","cFrom":[11,15],"cText":[","],"cRemoved":[""],"cOrigin":"+input","cTo":[11,15],"cNewPos":[11,16]}
+{"cWhen":1.5810998969356167e9,"tag":"Change","cFrom":[11,16],"cText":["1"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,16],"cNewPos":[11,17]}
+{"cWhen":1.581099897039257e9,"tag":"Change","cFrom":[11,17],"cText":[","],"cRemoved":[""],"cOrigin":"+input","cTo":[11,17],"cNewPos":[11,18]}
+{"cWhen":1.5810998976559527e9,"tag":"Change","cFrom":[11,17],"cText":[""],"cRemoved":[","],"cOrigin":"+delete","cTo":[11,18],"cNewPos":[11,17]}
+{"cWhen":1.5810998977437756e9,"tag":"Change","cFrom":[11,17],"cText":["."],"cRemoved":[""],"cOrigin":"+input","cTo":[11,17],"cNewPos":[11,18]}
+{"cWhen":1.5810998978112373e9,"tag":"Change","cFrom":[11,18],"cText":["1"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,18],"cNewPos":[11,19]}
+{"cWhen":1.5810998980656583e9,"tag":"Change","cFrom":[11,19],"cText":["]"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,19],"cNewPos":[11,20]}
+{"cWhen":1.581099898398577e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099898760832e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.581099898886819e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.5810998992173643e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.5810999001734824e9,"tag":"Move","cXWarp":21,"cNewPos":[11,21]}
+{"cWhen":1.5810999003033786e9,"tag":"Move","cXWarp":20,"cNewPos":[11,20]}
+{"cWhen":1.5810999005693724e9,"tag":"Move","cXWarp":19,"cNewPos":[11,19]}
+{"cWhen":1.581099902388574e9,"tag":"Change","cFrom":[11,18],"cText":[""],"cRemoved":["1"],"cOrigin":"+delete","cTo":[11,19],"cNewPos":[11,18]}
+{"cWhen":1.5810999024648998e9,"tag":"Change","cFrom":[11,18],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,18],"cNewPos":[11,19]}
+{"cWhen":1.5810999029587226e9,"tag":"Change","cFrom":[11,18],"cText":[""],"cRemoved":["4"],"cOrigin":"+delete","cTo":[11,19],"cNewPos":[11,18]}
+{"cWhen":1.581099903063382e9,"tag":"Change","cFrom":[11,18],"cText":["5"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,18],"cNewPos":[11,19]}
+{"cWhen":1.5810999033522174e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810999044249802e9,"tag":"Change","cFrom":[11,18],"cText":[""],"cRemoved":["5"],"cOrigin":"+delete","cTo":[11,19],"cNewPos":[11,18]}
+{"cWhen":1.5810999045752542e9,"tag":"Change","cFrom":[11,18],"cText":["0"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,18],"cNewPos":[11,19]}
+{"cWhen":1.5810999046138523e9,"tag":"Change","cFrom":[11,19],"cText":["1"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,19],"cNewPos":[11,20]}
+{"cWhen":1.5810999048732831e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810999055478652e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.5810999056762145e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.581099906250502e9,"tag":"Move","cXWarp":0,"cNewPos":[13,0]}
+{"cWhen":1.581099906557505e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.5810999067739825e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.5810999070254335e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.5810999072776144e9,"tag":"Move","cXWarp":0,"cNewPos":[13,0]}
+{"cWhen":1.5810999075629227e9,"tag":"Move","cXWarp":0,"cNewPos":[14,0]}
+{"cWhen":1.5810999078525374e9,"tag":"Move","cXWarp":0,"cNewPos":[15,0]}
+{"cWhen":1.581099908049541e9,"tag":"Move","cXWarp":0,"cNewPos":[16,0]}
+{"cWhen":1.5810999082411027e9,"tag":"Move","cXWarp":0,"cNewPos":[17,0]}
+{"cWhen":1.5810999084125373e9,"tag":"Move","cXWarp":0,"cNewPos":[18,0]}
+{"cWhen":1.5810999086020901e9,"tag":"Move","cXWarp":0,"cNewPos":[18,0]}
+{"cWhen":1.581099908922465e9,"tag":"Move","cXWarp":0,"cNewPos":[17,0]}
+{"cWhen":1.5810999091332898e9,"tag":"Move","cXWarp":0,"cNewPos":[16,0]}
+{"cWhen":1.5810999093295498e9,"tag":"Move","cXWarp":0,"cNewPos":[15,0]}
+{"cWhen":1.5810999095949085e9,"tag":"Move","cXWarp":0,"cNewPos":[15,0]}
+{"cWhen":1.5810999097015665e9,"tag":"Move","cXWarp":0,"cNewPos":[16,0]}
+{"cWhen":1.581099909902699e9,"tag":"Move","cXWarp":0,"cNewPos":[17,0]}
+{"cWhen":1.5810999101445124e9,"tag":"Move","cXWarp":0,"cNewPos":[18,0]}
+{"cWhen":1.5810999102618947e9,"tag":"Move","cXWarp":0,"cNewPos":[17,0]}
+{"cWhen":1.5810999104969318e9,"tag":"Move","cXWarp":0,"cNewPos":[16,0]}
+{"cWhen":1.5810999106964302e9,"tag":"Move","cXWarp":0,"cNewPos":[15,0]}
+{"cWhen":1.5810999109023595e9,"tag":"Move","cXWarp":0,"cNewPos":[14,0]}
+{"cWhen":1.5810999111594503e9,"tag":"Move","cXWarp":0,"cNewPos":[13,0]}
+{"cWhen":1.5810999146945107e9,"tag":"MuteToggle","cOrbit":2}
+{"cWhen":1.5810999146945107e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810999156135144e9,"tag":"Move","cXWarp":0,"cNewPos":[13,0]}
+{"cWhen":1.5810999159434924e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.5810999161500592e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.5810999163587718e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.5810999165374248e9,"tag":"Move","cXWarp":0,"cNewPos":[9,0]}
+{"cWhen":1.5810999167226644e9,"tag":"Move","cXWarp":0,"cNewPos":[8,0]}
+{"cWhen":1.5810999168996854e9,"tag":"Move","cXWarp":0,"cNewPos":[7,0]}
+{"cWhen":1.5810999170885415e9,"tag":"Move","cXWarp":0,"cNewPos":[6,0]}
+{"cWhen":1.5810999172910001e9,"tag":"Move","cXWarp":0,"cNewPos":[5,0]}
+{"cWhen":1.581099917465873e9,"tag":"Move","cXWarp":0,"cNewPos":[4,0]}
+{"cWhen":1.5810999176468482e9,"tag":"Move","cXWarp":0,"cNewPos":[3,0]}
+{"cWhen":1.581099917822607e9,"tag":"Move","cXWarp":0,"cNewPos":[2,0]}
+{"cWhen":1.5810999188904214e9,"tag":"MuteToggle","cOrbit":1}
+{"cWhen":1.5810999188904214e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810999207978642e9,"tag":"Move","cXWarp":0,"cNewPos":[2,0]}
+{"cWhen":1.581099921051235e9,"tag":"Move","cXWarp":0,"cNewPos":[3,0]}
+{"cWhen":1.5810999215498743e9,"tag":"Move","cXWarp":0,"cNewPos":[4,0]}
+{"cWhen":1.5810999215836663e9,"tag":"Move","cXWarp":0,"cNewPos":[5,0]}
+{"cWhen":1.5810999216168253e9,"tag":"Move","cXWarp":0,"cNewPos":[6,0]}
+{"cWhen":1.5810999216501873e9,"tag":"Move","cXWarp":0,"cNewPos":[7,0]}
+{"cWhen":1.5810999216857014e9,"tag":"Move","cXWarp":0,"cNewPos":[8,0]}
+{"cWhen":1.5810999217165759e9,"tag":"Move","cXWarp":0,"cNewPos":[9,0]}
+{"cWhen":1.5810999224333327e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.5810999229847355e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.5810999230528076e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.5810999235523324e9,"tag":"Move","cXWarp":0,"cNewPos":[13,0]}
+{"cWhen":1.581099923586234e9,"tag":"Move","cXWarp":0,"cNewPos":[14,0]}
+{"cWhen":1.5810999236196265e9,"tag":"Move","cXWarp":0,"cNewPos":[15,0]}
+{"cWhen":1.5810999236525314e9,"tag":"Move","cXWarp":0,"cNewPos":[16,0]}
+{"cWhen":1.581099923685822e9,"tag":"Move","cXWarp":0,"cNewPos":[17,0]}
+{"cWhen":1.5810999237186577e9,"tag":"Move","cXWarp":0,"cNewPos":[18,0]}
+{"cWhen":1.5810999326534827e9,"tag":"Move","cXWarp":12,"cNewPos":[6,12]}
+{"cWhen":1.5810999354644244e9,"tag":"Move","cXWarp":12,"cNewPos":[5,12]}
+{"cWhen":1.5810999360059052e9,"tag":"Move","cXWarp":12,"cNewPos":[6,12]}
+{"cWhen":1.581099936191433e9,"tag":"Move","cXWarp":0,"cNewPos":[7,0]}
+{"cWhen":1.5810999364044244e9,"tag":"Move","cXWarp":0,"cNewPos":[8,0]}
+{"cWhen":1.5810999365715318e9,"tag":"Move","cXWarp":0,"cNewPos":[9,0]}
+{"cWhen":1.5810999367858763e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.581099936913858e9,"tag":"Move","cXWarp":48,"cNewPos":[10,48]}
+{"cWhen":1.5810999372450037e9,"tag":"Move","cXWarp":48,"cNewPos":[9,48]}
+{"cWhen":1.5810999374451761e9,"tag":"Move","cXWarp":47,"cNewPos":[9,47]}
+{"cWhen":1.5810999376341162e9,"tag":"Move","cXWarp":46,"cNewPos":[9,46]}
+{"cWhen":1.5810999377663553e9,"tag":"Move","cXWarp":45,"cNewPos":[9,45]}
+{"cWhen":1.5810999379084985e9,"tag":"Move","cXWarp":44,"cNewPos":[9,44]}
+{"cWhen":1.5810999380590458e9,"tag":"Move","cXWarp":43,"cNewPos":[9,43]}
+{"cWhen":1.5810999382996135e9,"tag":"Move","cXWarp":44,"cNewPos":[9,44]}
+{"cWhen":1.581099938785266e9,"tag":"Change","cFrom":[9,44],"cText":["*"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,44],"cNewPos":[9,45]}
+{"cWhen":1.5810999389826326e9,"tag":"Change","cFrom":[9,45],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,45],"cNewPos":[9,46]}
+{"cWhen":1.5810999393272083e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810999415871334e9,"tag":"Move","cXWarp":45,"cNewPos":[9,45]}
+{"cWhen":1.5810999420873108e9,"tag":"Move","cXWarp":44,"cNewPos":[9,44]}
+{"cWhen":1.5810999421202102e9,"tag":"Move","cXWarp":43,"cNewPos":[9,43]}
+{"cWhen":1.5810999421530106e9,"tag":"Move","cXWarp":42,"cNewPos":[9,42]}
+{"cWhen":1.5810999421863065e9,"tag":"Move","cXWarp":41,"cNewPos":[9,41]}
+{"cWhen":1.581099942219324e9,"tag":"Move","cXWarp":40,"cNewPos":[9,40]}
+{"cWhen":1.5810999422520409e9,"tag":"Move","cXWarp":39,"cNewPos":[9,39]}
+{"cWhen":1.581099942285988e9,"tag":"Move","cXWarp":38,"cNewPos":[9,38]}
+{"cWhen":1.5810999423197098e9,"tag":"Move","cXWarp":37,"cNewPos":[9,37]}
+{"cWhen":1.5810999425847187e9,"tag":"Move","cXWarp":38,"cNewPos":[9,38]}
+{"cWhen":1.5810999429412687e9,"tag":"Change","cFrom":[9,37],"cText":[""],"cRemoved":["3"],"cOrigin":"+delete","cTo":[9,38],"cNewPos":[9,37]}
+{"cWhen":1.581099942999268e9,"tag":"Change","cFrom":[9,37],"cText":["2"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,37],"cNewPos":[9,38]}
+{"cWhen":1.5810999434895387e9,"tag":"Change","cFrom":[9,37],"cText":[""],"cRemoved":["2"],"cOrigin":"+delete","cTo":[9,38],"cNewPos":[9,37]}
+{"cWhen":1.5810999436155982e9,"tag":"Change","cFrom":[9,37],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,37],"cNewPos":[9,38]}
+{"cWhen":1.5810999439289258e9,"tag":"Change","cFrom":[9,37],"cText":[""],"cRemoved":["4"],"cOrigin":"+delete","cTo":[9,38],"cNewPos":[9,37]}
+{"cWhen":1.581099944140886e9,"tag":"Change","cFrom":[9,37],"cText":["3"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,37],"cNewPos":[9,38]}
+{"cWhen":1.5810999443054552e9,"tag":"Change","cFrom":[9,38],"cText":["2"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,38],"cNewPos":[9,39]}
+{"cWhen":1.5810999448110077e9,"tag":"Change","cFrom":[9,38],"cText":[""],"cRemoved":["2"],"cOrigin":"+delete","cTo":[9,39],"cNewPos":[9,38]}
+{"cWhen":1.5810999450558534e9,"tag":"Change","cFrom":[9,38],"cText":["*"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,38],"cNewPos":[9,39]}
+{"cWhen":1.5810999451963954e9,"tag":"Change","cFrom":[9,39],"cText":["2"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,39],"cNewPos":[9,40]}
+{"cWhen":1.58109994541957e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810999457664628e9,"tag":"Move","cXWarp":39,"cNewPos":[9,39]}
+{"cWhen":1.5810999462666621e9,"tag":"Move","cXWarp":38,"cNewPos":[9,38]}
+{"cWhen":1.5810999462993345e9,"tag":"Move","cXWarp":37,"cNewPos":[9,37]}
+{"cWhen":1.5810999465059958e9,"tag":"Move","cXWarp":38,"cNewPos":[9,38]}
+{"cWhen":1.581099946756298e9,"tag":"Move","cXWarp":39,"cNewPos":[9,39]}
+{"cWhen":1.5810999473288276e9,"tag":"Move","cXWarp":38,"cNewPos":[9,38]}
+{"cWhen":1.5810999475372307e9,"tag":"Move","cXWarp":37,"cNewPos":[9,37]}
+{"cWhen":1.5810999477086632e9,"tag":"Move","cXWarp":36,"cNewPos":[9,36]}
+{"cWhen":1.581099948062233e9,"tag":"Move","cXWarp":35,"cNewPos":[9,35]}
+{"cWhen":1.5810999482666323e9,"tag":"Move","cXWarp":34,"cNewPos":[9,34]}
+{"cWhen":1.5810999489088778e9,"tag":"Change","cFrom":[9,34],"cText":["*"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,34],"cNewPos":[9,35]}
+{"cWhen":1.5810999490439994e9,"tag":"Change","cFrom":[9,35],"cText":["2"],"cRemoved":[""],"cOrigin":"+input","cTo":[9,35],"cNewPos":[9,36]}
+{"cWhen":1.5810999493589342e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810999501015902e9,"tag":"Move","cXWarp":0,"cNewPos":[9,0]}
+{"cWhen":1.5810999501854134e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.5810999506328666e9,"tag":"Move","cXWarp":0,"cNewPos":[9,0]}
+{"cWhen":1.5810999510059903e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.5810999514094431e9,"tag":"Move","cXWarp":0,"cNewPos":[9,0]}
+{"cWhen":1.5810999516909566e9,"tag":"Move","cXWarp":0,"cNewPos":[10,0]}
+{"cWhen":1.5810999519054585e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.5810999520966709e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.5810999522891002e9,"tag":"Move","cXWarp":0,"cNewPos":[13,0]}
+{"cWhen":1.5810999524440274e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.5810999526364353e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.581099952746723e9,"tag":"Move","cXWarp":22,"cNewPos":[11,22]}
+{"cWhen":1.5810999530452747e9,"tag":"Change","cFrom":[11,22],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[11,22],"cNewPos":[11,23]}
+{"cWhen":1.581099953154184e9,"tag":"Change","cFrom":[11,23],"cText":["#"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,23],"cNewPos":[11,24]}
+{"cWhen":1.5810999532223485e9,"tag":"Change","cFrom":[11,24],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[11,24],"cNewPos":[11,25]}
+{"cWhen":1.5810999533368204e9,"tag":"Change","cFrom":[11,25],"cText":["d"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,25],"cNewPos":[11,26]}
+{"cWhen":1.5810999534125533e9,"tag":"Change","cFrom":[11,26],"cText":["j"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,26],"cNewPos":[11,27]}
+{"cWhen":1.5810999535222244e9,"tag":"Change","cFrom":[11,27],"cText":["f"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,27],"cNewPos":[11,28]}
+{"cWhen":1.581099953642446e9,"tag":"Change","cFrom":[11,28],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[11,28],"cNewPos":[11,29]}
+{"cWhen":1.5810999537960718e9,"tag":"Change","cFrom":[11,29],"cText":["0"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,29],"cNewPos":[11,30]}
+{"cWhen":1.5810999538980293e9,"tag":"Change","cFrom":[11,30],"cText":["."],"cRemoved":[""],"cOrigin":"+input","cTo":[11,30],"cNewPos":[11,31]}
+{"cWhen":1.581099954182993e9,"tag":"Change","cFrom":[11,31],"cText":["7"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,31],"cNewPos":[11,32]}
+{"cWhen":1.5810999544560673e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099955890959e9,"tag":"MuteToggle","cOrbit":6}
+{"cWhen":1.581099955890959e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810999566397521e9,"tag":"MuteToggle","cOrbit":7}
+{"cWhen":1.5810999566397521e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810999580394914e9,"tag":"MuteToggle","cOrbit":2}
+{"cWhen":1.5810999580394914e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810999588090575e9,"tag":"MuteToggle","cOrbit":1}
+{"cWhen":1.5810999588090575e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810999594029608e9,"tag":"Change","cFrom":[11,31],"cText":[""],"cRemoved":["7"],"cOrigin":"+delete","cTo":[11,32],"cNewPos":[11,31]}
+{"cWhen":1.5810999595324137e9,"tag":"Change","cFrom":[11,31],"cText":["8"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,31],"cNewPos":[11,32]}
+{"cWhen":1.5810999601495028e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810999611712792e9,"tag":"Move","cXWarp":32,"cNewPos":[10,32]}
+{"cWhen":1.5810999614562643e9,"tag":"Move","cXWarp":33,"cNewPos":[10,33]}
+{"cWhen":1.581099962005193e9,"tag":"Move","cXWarp":48,"cNewPos":[10,48]}
+{"cWhen":1.581099962176038e9,"tag":"Move","cXWarp":47,"cNewPos":[10,47]}
+{"cWhen":1.5810999623667626e9,"tag":"Move","cXWarp":46,"cNewPos":[10,46]}
+{"cWhen":1.5810999627764456e9,"tag":"Change","cFrom":[10,46],"cText":["9"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,46],"cNewPos":[10,47]}
+{"cWhen":1.5810999631229932e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810999636889849e9,"tag":"Move","cXWarp":46,"cNewPos":[10,46]}
+{"cWhen":1.5810999641882458e9,"tag":"Move","cXWarp":45,"cNewPos":[10,45]}
+{"cWhen":1.5810999642212057e9,"tag":"Move","cXWarp":44,"cNewPos":[10,44]}
+{"cWhen":1.5810999642544608e9,"tag":"Move","cXWarp":43,"cNewPos":[10,43]}
+{"cWhen":1.5810999642875896e9,"tag":"Move","cXWarp":42,"cNewPos":[10,42]}
+{"cWhen":1.581099964320641e9,"tag":"Move","cXWarp":41,"cNewPos":[10,41]}
+{"cWhen":1.5810999643536704e9,"tag":"Move","cXWarp":40,"cNewPos":[10,40]}
+{"cWhen":1.581099964387038e9,"tag":"Move","cXWarp":39,"cNewPos":[10,39]}
+{"cWhen":1.5810999644204745e9,"tag":"Move","cXWarp":38,"cNewPos":[10,38]}
+{"cWhen":1.581099965648066e9,"tag":"Change","cFrom":[10,37],"cText":[""],"cRemoved":["3"],"cOrigin":"+delete","cTo":[10,38],"cNewPos":[10,37]}
+{"cWhen":1.5810999657193794e9,"tag":"Change","cFrom":[10,37],"cText":["4"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,37],"cNewPos":[10,38]}
+{"cWhen":1.5810999660973234e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.58109996652009e9,"tag":"Change","cFrom":[10,37],"cText":[""],"cRemoved":["4"],"cOrigin":"+delete","cTo":[10,38],"cNewPos":[10,37]}
+{"cWhen":1.5810999666135786e9,"tag":"Change","cFrom":[10,37],"cText":["5"],"cRemoved":[""],"cOrigin":"+input","cTo":[10,37],"cNewPos":[10,38]}
+{"cWhen":1.581099967120404e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810999676475196e9,"tag":"Move","cXWarp":32,"cNewPos":[11,32]}
+{"cWhen":1.5810999682128735e9,"tag":"Change","cFrom":[11,32],"cText":["5"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,32],"cNewPos":[11,33]}
+{"cWhen":1.581099968567872e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5810999694520588e9,"tag":"Change","cFrom":[11,32],"cText":[""],"cRemoved":["5"],"cOrigin":"+delete","cTo":[11,33],"cNewPos":[11,32]}
+{"cWhen":1.5810999695510194e9,"tag":"Change","cFrom":[11,32],"cText":["7"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,32],"cNewPos":[11,33]}
+{"cWhen":1.5810999697288852e9,"tag":"Change","cFrom":[11,32],"cText":[""],"cRemoved":["7"],"cOrigin":"+delete","cTo":[11,33],"cNewPos":[11,32]}
+{"cWhen":1.5810999698976123e9,"tag":"Change","cFrom":[11,31],"cText":[""],"cRemoved":["8"],"cOrigin":"+delete","cTo":[11,32],"cNewPos":[11,31]}
+{"cWhen":1.5810999701793666e9,"tag":"Change","cFrom":[11,31],"cText":["8"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,31],"cNewPos":[11,32]}
+{"cWhen":1.5810999706993062e9,"tag":"Change","cFrom":[11,31],"cText":[""],"cRemoved":["8"],"cOrigin":"+delete","cTo":[11,32],"cNewPos":[11,31]}
+{"cWhen":1.5810999710505476e9,"tag":"Change","cFrom":[11,31],"cText":["8"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,31],"cNewPos":[11,32]}
+{"cWhen":1.5810999713106492e9,"tag":"Change","cFrom":[11,31],"cText":[""],"cRemoved":["8"],"cOrigin":"+delete","cTo":[11,32],"cNewPos":[11,31]}
+{"cWhen":1.5810999714456475e9,"tag":"Change","cFrom":[11,31],"cText":["9"],"cRemoved":[""],"cOrigin":"+input","cTo":[11,31],"cNewPos":[11,32]}
+{"cWhen":1.58109997171957e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.581099972345177e9,"tag":"Move","cXWarp":0,"cNewPos":[11,0]}
+{"cWhen":1.5810999724458563e9,"tag":"Move","cXWarp":0,"cNewPos":[12,0]}
+{"cWhen":1.5810999743543143e9,"tag":"MuteToggle","cOrbit":5}
+{"cWhen":1.5810999743543143e9,"cAll":true,"tag":"Eval"}

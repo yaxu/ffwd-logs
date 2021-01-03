@@ -1,0 +1,2 @@
+{"cWhen":1.5741168981008468e9,"tag":"Change","cFrom":[0,0],"cText":["l"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,0],"cNewPos":[0,1]}
+{"cWhen":1.5741168991350665e9,"tag":"Change","cFrom":[0,0],"cText":[""],"cRemoved":["l"],"cOrigin":"+delete","cTo":[0,1],"cNewPos":[0,0]}

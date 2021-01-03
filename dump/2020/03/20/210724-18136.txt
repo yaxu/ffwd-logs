@@ -1,0 +1,5 @@
+{"cWhen":1.5847384492742891e9,"tag":"Change","cFrom":[0,0],"cText":["",""],"cRemoved":[""],"cOrigin":"+input","cTo":[0,0],"cNewPos":[1,0]}
+{"cWhen":1.5847384496480167e9,"tag":"Change","cFrom":[1,0],"cText":["a"],"cRemoved":[""],"cOrigin":"+input","cTo":[1,0],"cNewPos":[1,1]}
+{"cWhen":1.5847384497530518e9,"tag":"Change","cFrom":[1,1],"cText":["d"],"cRemoved":[""],"cOrigin":"+input","cTo":[1,1],"cNewPos":[1,2]}
+{"cWhen":1.5847384497633238e9,"tag":"Change","cFrom":[1,2],"cText":["s"],"cRemoved":[""],"cOrigin":"+input","cTo":[1,2],"cNewPos":[1,3]}
+{"cWhen":1.5847384498975587e9,"tag":"Change","cFrom":[1,3],"cText":["f"],"cRemoved":[""],"cOrigin":"+input","cTo":[1,3],"cNewPos":[1,4]}

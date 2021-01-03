@@ -1,0 +1,22 @@
+{"cWhen":1.5785721029893906e9,"tag":"Change","cFrom":[0,0],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[0,0],"cNewPos":[0,1]}
+{"cWhen":1.5785721032060866e9,"tag":"Change","cFrom":[0,1],"cText":["b"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,1],"cNewPos":[0,2]}
+{"cWhen":1.5785721032330537e9,"tag":"Change","cFrom":[0,2],"cText":["d"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,2],"cNewPos":[0,3]}
+{"cWhen":1.5785721034397e9,"tag":"Change","cFrom":[0,3],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[0,3],"cNewPos":[0,4]}
+{"cWhen":1.5785721037344022e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5785721040890467e9,"tag":"Move","cXWarp":3,"cNewPos":[0,3]}
+{"cWhen":1.5785721062749276e9,"tag":"Change","cFrom":[0,3],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[0,3],"cNewPos":[0,4]}
+{"cWhen":1.5785721064029188e9,"tag":"Change","cFrom":[0,4],"cText":["s"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,4],"cNewPos":[0,5]}
+{"cWhen":1.5785721065321274e9,"tag":"Change","cFrom":[0,5],"cText":["n"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,5],"cNewPos":[0,6]}
+{"cWhen":1.5785721069164298e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5785721081359003e9,"tag":"Change","cFrom":[0,6],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[0,6],"cNewPos":[0,7]}
+{"cWhen":1.5785721082814355e9,"tag":"Change","cFrom":[0,7],"cText":["s"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,7],"cNewPos":[0,8]}
+{"cWhen":1.5785721083820915e9,"tag":"Change","cFrom":[0,8],"cText":["n"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,8],"cNewPos":[0,9]}
+{"cWhen":1.5785721086009903e9,"tag":"Change","cFrom":[0,9],"cText":[":"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,9],"cNewPos":[0,10]}
+{"cWhen":1.5785721087075222e9,"tag":"Change","cFrom":[0,10],"cText":["2"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,10],"cNewPos":[0,11]}
+{"cWhen":1.5785721089565308e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.5785721103560483e9,"tag":"Change","cFrom":[0,11],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[0,11],"cNewPos":[0,12]}
+{"cWhen":1.5785721104265559e9,"tag":"Change","cFrom":[0,12],"cText":["c"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,12],"cNewPos":[0,13]}
+{"cWhen":1.5785721105361087e9,"tag":"Change","cFrom":[0,13],"cText":["l"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,13],"cNewPos":[0,14]}
+{"cWhen":1.5785721105849912e9,"tag":"Change","cFrom":[0,14],"cText":["a"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,14],"cNewPos":[0,15]}
+{"cWhen":1.5785721107008421e9,"tag":"Change","cFrom":[0,15],"cText":["p"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,15],"cNewPos":[0,16]}
+{"cWhen":1.5785721108578172e9,"cAll":true,"tag":"Eval"}

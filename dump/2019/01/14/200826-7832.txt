@@ -1,0 +1,17 @@
+{"cWhen":1.5474965071657238e9,"tag":"Change","cFrom":[0,0],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[0,0],"cNewPos":[0,1]}
+{"cWhen":1.5474965073776712e9,"tag":"Change","cFrom":[0,1],"cText":["h"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,1],"cNewPos":[0,2]}
+{"cWhen":1.5474965074546103e9,"tag":"Change","cFrom":[0,2],"cText":["i"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,2],"cNewPos":[0,3]}
+{"cWhen":1.5474965075606425e9,"tag":"Change","cFrom":[0,3],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[0,3],"cNewPos":[0,4]}
+{"cWhen":1.547496507677829e9,"tag":"Change","cFrom":[0,4],"cText":["l"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,4],"cNewPos":[0,5]}
+{"cWhen":1.5474965077455742e9,"tag":"Change","cFrom":[0,5],"cText":["o"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,5],"cNewPos":[0,6]}
+{"cWhen":1.5474965079508426e9,"tag":"Change","cFrom":[0,6],"cText":["\""],"cRemoved":[""],"cOrigin":"+input","cTo":[0,6],"cNewPos":[0,7]}
+{"cWhen":1.5474965082153525e9,"cAll":true,"tag":"Eval"}
+{"cWhen":1.547496509091178e9,"tag":"Move","cXWarp":0,"cNewPos":[0,0]}
+{"cWhen":1.5474965095440478e9,"tag":"Change","cFrom":[0,0],"cText":["f"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,0],"cNewPos":[0,1]}
+{"cWhen":1.5474965096609247e9,"tag":"Change","cFrom":[0,1],"cText":["a"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,1],"cNewPos":[0,2]}
+{"cWhen":1.547496509732978e9,"tag":"Change","cFrom":[0,2],"cText":["s"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,2],"cNewPos":[0,3]}
+{"cWhen":1.5474965098406858e9,"tag":"Change","cFrom":[0,3],"cText":["t"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,3],"cNewPos":[0,4]}
+{"cWhen":1.5474965099901025e9,"tag":"Change","cFrom":[0,4],"cText":["e"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,4],"cNewPos":[0,5]}
+{"cWhen":1.5474965100815146e9,"tag":"Change","cFrom":[0,5],"cText":["r"],"cRemoved":[""],"cOrigin":"+input","cTo":[0,5],"cNewPos":[0,6]}
+{"cWhen":1.5474965101659844e9,"tag":"Change","cFrom":[0,6],"cText":[" "],"cRemoved":[""],"cOrigin":"+input","cTo":[0,6],"cNewPos":[0,7]}
+{"cWhen":1.5474965103531897e9,"cAll":true,"tag":"Eval"}
