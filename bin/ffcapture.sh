@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# found here - https://gist.github.com/seanbutnotheard/3692939
+
+# I (alex) have hacked the below randomly.. best to use the above
+
 # ffcapture, a hacky script to stream/capture your desktop or a window 
 # REQUIRES ffmpeg, xwininfo and bc to be installed!
 #
